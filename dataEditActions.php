@@ -1,7 +1,6 @@
 <!-- Blake Aschenbrener (bja50) -->
 <!-- CSDS 397: Linux Scripting -->
-<!-- Major Project Video 1 Code -->
-<!-- Partner: Erik Espinosa -->
+<!-- Major Project Video 2 Code -->
 
 <h1> Online CSV Processor</h1>
 
