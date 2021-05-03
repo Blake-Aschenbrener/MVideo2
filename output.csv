@@ -1,0 +1,999 @@
+Transaction_date,Product,Price,Payment_Type,Name,City,Country,Account_Created,Last_Login,Longitude,Latitude,US Zip,Price Squared
+01/02/2009 04:53,   Product1,   1200,   Visa,   Betina,   Parkville,   United States,   1/2/2009 04:42,   1/2/2009 07:49,   -94.68194,   39.195,   64152, 1440000
+01/02/2009 13:08,   Product1,   1200,   Mastercard,   Federica e Andrea,   Astoria,   United States,   1/1/2009 16:21,   1/3/2009 12:32,   -123.83,   46.18806,   97103, 1440000
+01/04/2009 12:56,   Product2,   3600,   Visa,   Gerd W,   Cahaba Heights,   United States,   11/15/08 15:47,   1/4/2009 12:45,   -86.8025,   33.52056,   35243, 12960000
+01/04/2009 13:19,   Product1,   1200,   Visa,   LAURENCE,   Mickleton,   United States,   9/24/08 15:19,   1/4/2009 13:04,   -75.23806,   39.79,   08056, 1440000
+01/04/2009 20:11,   Product1,   1200,   Mastercard,   Fleur,   Peoria,   United States,   1/3/2009 09:38,   1/4/2009 19:45,   -89.58889,   40.69361,   61601, 1440000
+01/02/2009 20:09,   Product1,   1200,   Mastercard,   adam,   Martin,   United States,   1/2/2009 17:43,   1/4/2009 20:01,   -88.85028,   36.34333,   38237, 1440000
+01/05/2009 02:42,   Product1,   1200,   Diners,   Stacy,   New York,   United States,   1/5/2009 02:23,   1/5/2009 04:59,   -74.00639,   40.71417,   10002, 1440000
+01/02/2009 09:16,   Product1,   1200,   Mastercard,   Sean,   Shavano Park,   United States,   1/2/2009 08:32,   1/5/2009 09:05,   -98.49333,   29.42389,   78230, 1440000
+01/05/2009 10:08,   Product1,   1200,   Visa,   Georgia,   Eagle,   United States,   11/11/08 15:53,   1/5/2009 10:05,   -116.35306,   43.69556,   83616, 1440000
+01/02/2009 14:18,   Product1,   1200,   Visa,   Richard,   Riverside,   United States,   12/9/08 12:07,   1/5/2009 11:01,   -74.95778,   40.03222,   08075, 1440000
+01/02/2009 07:35,   Product1,   1200,   Diners,   Hani,   Salt Lake City,   United States,   12/30/08 5:44,   1/6/2009 10:52,   -111.89028,   40.76083,   84111, 1440000
+01/06/2009 07:18,   Product1,   1200,   Visa,   asuman,   Chula Vista,   United States,   1/6/2009 07:07,   1/7/2009 07:08,   -117.08333,   32.64,   91910, 1440000
+01/01/2009 02:24,   Product1,   1200,   Visa,   Lisa,   Sugar Land,   United States,   1/1/2009 01:56,   1/7/2009 10:52,   -95.63472,   29.61944,   77478, 1440000
+01/07/2009 08:08,   Product1,   1200,   Diners,   Bryan Kerrene,   New York,   United States,   1/7/2009 07:39,   1/7/2009 12:38,   -74.00639,   40.71417,   10007, 1440000
+01/01/2009 20:21,   Product1,   1200,   Visa,   Maxine,   Morton,   United States,   10/24/08 6:48,   1/7/2009 20:49,   -89.45917,   40.61278,   61550, 1440000
+01/08/2009 00:42,   Product1,   1200,   Visa,   Family,   Los Gatos,   United States,   1/8/2009 00:28,   1/8/2009 03:39,   -121.97361,   37.22667,   95032, 1440000
+01/08/2009 03:56,   Product1,   1200,   Mastercard,   Katherine,   New York,   United States,   1/8/2009 03:33,   1/8/2009 06:19,   -74.00639,   40.71417,   10007, 1440000
+01/08/2009 03:16,   Product1,   1200,   Mastercard,   Linda,   Miami,   United States,   1/8/2009 03:06,   1/8/2009 06:34,   -80.19389,   25.77389,   33130, 1440000
+01/03/2009 09:03,   Product1,   1200,   Diners,   Sheila,   Brooklyn,   United States,   1/3/2009 08:47,   1/8/2009 10:38,   -73.95,   40.65,   11226, 1440000
+01/06/2009 07:46,   Product1,   1200,   Amex,   Kelly,   Reston,   United States,   1/6/2009 07:30,   1/8/2009 12:40,   -77.34139,   38.96861,   20190, 1440000
+01/08/2009 16:24,   Product1,   1200,   Visa,   jennifer,   Phoenix,   United States,   1/8/2009 15:57,   1/8/2009 18:30,   -112.07333,   33.44833,   85004, 1440000
+01/09/2009 06:39,   Product1,   1200,   Mastercard,   Anneli,   Houston,   United States,   1/9/2009 05:09,   1/9/2009 07:11,   -95.36306,   29.76306,   77002, 1440000
+01/06/2009 22:19,   Product2,   3600,   Amex,   Ritz,   Pittsfield,   United States,   1/6/2009 12:00,   1/9/2009 10:05,   -72.81333,   43.77222,   05762, 12960000
+01/06/2009 23:00,   Product2,   3600,   Amex,   Sylvia,   Pittsfield,   United States,   1/6/2009 12:00,   1/9/2009 10:05,   -72.81333,   43.77222,   05762, 12960000
+01/07/2009 07:44,   Product1,   1200,   Mastercard,   Marie,   Ball Ground,   United States,   1/7/2009 05:35,   1/9/2009 10:52,   -84.37667,   34.33806,   30107, 1440000
+01/07/2009 15:12,   Product2,   3600,   Visa,   Anabela,   Flossmoor,   United States,   1/5/2009 19:55,   1/9/2009 16:03,   -87.68472,   41.54278,   60422, 12960000
+01/07/2009 20:15,   Product1,   1200,   Amex,   Nicole,   Houston,   United States,   1/7/2009 17:17,   1/9/2009 20:02,   -95.36306,   29.76306,   77002, 1440000
+01/03/2009 10:11,   Product2,   3600,   Visa,   Christiane,   Delray Beach,   United States,   1/3/2009 09:27,   1/10/2009 09:46,   -80.07306,   26.46111,   33444, 12960000
+01/10/2009 12:57,   Product1,   1200,   Amex,   Vanessa,   Sandy Springs,   United States,   2/7/07 20:16,   1/10/2009 14:09,   -84.37861,   33.92417,   30328, 1440000
+01/10/2009 12:05,   Product1,   1200,   Visa,   Karina,   Fort Lauderdale,   United States,   7/1/08 12:53,   1/10/2009 16:33,   -80.14361,   26.12194,   33301, 1440000
+01/10/2009 14:56,   Product1,   1200,   Visa,   Angela,   Ankeny,   United States,   1/8/2009 03:06,   1/10/2009 19:41,   -93.60556,   41.72972,   50023, 1440000
+01/07/2009 10:01,   Product1,   1200,   Visa,   Darren,   Pittsboro,   United States,   1/7/2009 09:04,   1/10/2009 20:02,   -79.1775,   35.72,   27312, 1440000
+01/01/2009 01:26,   Product1,   1200,   Mastercard,   Nikki,   New Rochelle,   United States,   1/1/2009 00:58,   1/10/2009 21:31,   -73.78278,   40.91139,   10801, 1440000
+01/07/2009 06:18,   Product1,   1200,   Mastercard,   June,   Beachwood,   United States,   2/23/06 11:56,   1/11/2009 19:35,   -81.50889,   41.46444,   44122, 1440000
+01/12/2009 03:25,   Product1,   1200,   Mastercard,   chrissy,   W Lebanon,   United States,   1/12/2009 03:12,   1/12/2009 03:22,   -72.31083,   43.64917,   03784, 1440000
+01/08/2009 15:16,   Product1,   1200,   Visa,   Dottie,   Woodsboro,   United States,   1/8/2009 14:56,   1/12/2009 09:29,   -77.315,   39.53306,   21798, 1440000
+01/02/2009 22:00,   Product1,   1200,   Diners,   Lynne,   Memphis,   United States,   1/2/2009 21:04,   1/12/2009 13:18,   -90.04889,   35.14944,   38103, 1440000
+01/11/2009 13:08,   Product1,   1200,   Visa,   Rosa Maria,   Cincinnati,   United States,   1/11/2009 12:38,   1/12/2009 18:44,   -84.45694,   39.16194,   45212, 1440000
+01/13/2009 06:13,   Product1,   1200,   Visa,   Gitte,   Staten Island,   United States,   1/13/2009 05:17,   1/13/2009 07:33,   -74.15917,   40.63667,   10303, 1440000
+01/02/2009 11:41,   Product1,   1200,   Visa,   Crystal,   Farmington,   United States,   1/1/2009 12:00,   1/13/2009 18:34,   -83.37639,   42.46444,   48336, 1440000
+01/07/2009 19:50,   Product1,   1200,   Diners,   Delphine,   Santa Monica,   United States,   1/3/2009 12:04,   1/13/2009 20:17,   -118.49028,   34.01944,   90401, 1440000
+01/12/2009 03:03,   Product2,   3600,   Mastercard,   Valda,   Irvine,   United States,   1/12/2009 02:48,   1/14/2009 01:07,   -117.82222,   33.66944,   92614, 12960000
+01/13/2009 11:26,   Product1,   1200,   Visa,   Clare,   Keller,   United States,   1/13/2009 11:15,   1/14/2009 02:39,   -75.76417,   37.61917,   23401, 1440000
+01/14/2009 04:54,   Product1,   1200,   Mastercard,   ZENA,   Honolulu,   United States,   1/14/2009 04:34,   1/14/2009 04:43,   -157.85833,   21.30694,   96813, 1440000
+01/03/2009 13:56,   Product1,   1200,   Visa,   Rennae,   Amelia Island,   United States,   1/3/2009 12:30,   1/14/2009 13:03,   -81.46278,   30.66944,   32034, 1440000
+01/13/2009 23:56,   Product1,   1200,   Mastercard,   Tod,   Coral Gables,   United States,   1/13/2009 23:13,   1/14/2009 15:17,   -80.26861,   25.72111,   33146, 1440000
+01/14/2009 19:32,   Product1,   1200,   Visa,   Janaina,   Miami,   United States,   12/16/08 22:19,   1/14/2009 19:28,   -80.19389,   25.77389,   33130, 1440000
+01/13/2009 19:39,   Product1,   1200,   Visa,   Jolene,   Englewood,   United States,   1/6/2009 22:00,   1/14/2009 22:02,   -104.98722,   39.64778,   80113, 1440000
+01/15/2009 02:40,   Product1,   1200,   Mastercard,   Alexis,   Genoa,   United States,   1/15/2009 02:04,   1/15/2009 02:04,   -88.69278,   42.09722,   60135, 1440000
+01/05/2009 15:39,   Product1,   1200,   Visa,   Melissa,   Parkland,   United States,   12/10/08 9:14,   1/15/2009 06:01,   -80.2375,   26.30972,   33067, 1440000
+01/10/2009 05:21,   Product1,   1200,   Amex,   CLARE,   San Francisco,   United States,   1/10/2009 00:07,   1/15/2009 06:25,   -122.41833,   37.775,   94103, 1440000
+01/15/2009 04:12,   Product1,   1200,   Mastercard,   catherine,   Keller,   United States,   1/15/2009 04:02,   1/15/2009 06:59,   -75.76417,   37.61917,   23401, 1440000
+01/06/2009 10:48,   Product1,   1200,   Mastercard,   Bruce and Camille,   Clinton,   United States,   8/21/07 21:19,   1/15/2009 09:32,   -74.91028,   40.63667,   08809, 1440000
+01/14/2009 09:10,   Product1,   1200,   Mastercard,   Ellen,   Owensboro,   United States,   1/14/2009 08:25,   1/15/2009 09:40,   -87.11333,   37.77417,   42303, 1440000
+01/14/2009 22:44,   Product1,   1200,   Visa,   Amy,   Lakewood Village,   United States,   1/14/2009 22:21,   1/15/2009 09:50,   -96.96917,   33.1425,   75068, 1440000
+01/15/2009 12:33,   Product1,   1200,   Visa,   Brian,   College Park,   United States,   1/15/2009 12:19,   1/15/2009 13:28,   -76.93722,   38.98056,   20740, 1440000
+01/14/2009 11:35,   Product1,   1200,   Visa,   Kenny,   Kailua Kona,   United States,   1/13/2009 17:42,   1/15/2009 15:31,   -155.9003,   19.7349,   96740, 1440000
+01/14/2009 15:40,   Product1,   1200,   Amex,   ayse,   Redondo Beach,   United States,   1/13/2009 19:37,   1/15/2009 15:45,   -118.3875,   33.84917,   90277, 1440000
+01/03/2009 11:08,   Product1,   1200,   Amex,   Maria and Timothy,   Fountain Hls,   United States,   6/5/06 22:42,   1/15/2009 16:37,   -111.71667,   33.61167,   85268, 1440000
+01/16/2009 07:21,   Product1,   2100,   Mastercard,   Gerald,   Mahopac,   United States,   11/3/08 14:28,   1/16/2009 06:08,   -73.73389,   41.37222,   10541, 4410000
+01/03/2009 09:56,   Product1,   1200,   Visa,   Kara,   Chicago,   United States,   12/31/08 16:26,   1/16/2009 13:43,   -87.65,   41.85,   60608, 1440000
+01/16/2009 17:41,   Product1,   1200,   Visa,   Orsi,   Rayford,   United States,   1/16/2009 17:01,   1/16/2009 17:56,   -95.41694,   30.07972,   77373, 1440000
+01/05/2009 05:33,   Product1,   1200,   Visa,   Ben,   Escondido,   United States,   1/5/2009 03:19,   1/17/2009 00:35,   -117.08556,   33.11917,   92025, 1440000
+01/11/2009 08:59,   Product1,   1200,   Visa,   Chelsey,   Ashburn,   United States,   11/9/08 5:53,   1/17/2009 08:54,   -77.48778,   39.04361,   20147, 1440000
+01/15/2009 15:56,   Product1,   1200,   Amex,   Charis,   Los Angeles,   United States,   11/11/05 11:49,   1/17/2009 10:54,   -118.24278,   34.05222,   90012, 1440000
+01/01/2009 12:19,   Product1,   1200,   Visa,   Marlene,   Edgewood,   United States,   1/16/06 14:45,   1/17/2009 11:38,   -122.2925,   47.25028,   98372, 1440000
+01/06/2009 14:03,   Product1,   1200,   Visa,   Fie,   New York,   United States,   5/1/08 8:26,   1/17/2009 11:44,   -74.00639,   40.71417,   10007, 1440000
+01/12/2009 12:37,   Product1,   1200,   Visa,   Janet,   Marietta,   United States,   9/13/07 14:20,   1/17/2009 16:17,   -84.55,   33.9525,   30060, 1440000
+01/04/2009 07:43,   Product1,   1200,   Mastercard,   Jamie,   Houston,   United States,   1/4/2009 06:51,   1/17/2009 17:31,   -95.36306,   29.76306,   77002, 1440000
+01/17/2009 16:22,   Product1,   1200,   Visa,   Chad,   West Orange,   United States,   1/17/2009 15:22,   1/17/2009 18:42,   -74.23944,   40.79861,   07052, 1440000
+01/18/2009 05:27,   Product1,   1200,   Visa,   Anna,   Downey,   United States,   1/18/2009 04:28,   1/18/2009 04:42,   -118.13167,   33.94,   90241, 1440000
+01/04/2009 17:02,   Product1,   1200,   Mastercard,   Clare,   Lafayette,   United States,   12/31/05 0:55,   1/18/2009 08:43,   -122.11694,   37.88583,   94549, 1440000
+01/18/2009 02:16,   Product1,   1200,   Visa,   Ruth,   Nashville,   United States,   1/16/2009 19:32,   1/18/2009 09:13,   -93.84694,   33.94556,   71852, 1440000
+01/18/2009 11:53,   Product1,   1200,   Visa,   Shailesh,   Joppa,   United States,   1/18/2009 00:00,   1/18/2009 12:23,   -76.35806,   39.43361,   21085, 1440000
+01/18/2009 12:04,   Product1,   1200,   Visa,   Conrad,   Joppa,   United States,   1/18/2009 00:00,   1/18/2009 12:23,   -76.35806,   39.43361,   21085, 1440000
+01/13/2009 19:54,   Product1,   1200,   Diners,   Alison,   Hampton,   United States,   1/3/06 6:09,   1/18/2009 12:51,   -74.95639,   40.70694,   08827, 1440000
+01/05/2009 21:06,   Product1,   1200,   Mastercard,   Tracy,   Louisville,   United States,   1/5/2009 16:27,   1/18/2009 13:58,   -85.75944,   38.25417,   40202, 1440000
+01/14/2009 06:32,   Product1,   1200,   Visa,   Kate,   Broadlands,   United States,   4/12/06 6:14,   1/18/2009 14:04,   -77.48778,   39.04361,   20147, 1440000
+01/18/2009 16:32,   Product2,   3600,   Visa,   Therese,   Los Angeles,   United States,   1/18/2009 16:23,   1/18/2009 16:54,   -118.24278,   34.05222,   90012, 12960000
+01/18/2009 17:04,   Product2,   3600,   Visa,   Abdul-L,   New York,   United States,   1/18/2009 16:58,   1/18/2009 16:58,   -74.00639,   40.71417,   10007, 12960000
+01/18/2009 17:20,   Product2,   3600,   Visa,   heidi,   Saint Paul,   United States,   1/18/2009 17:16,   1/18/2009 17:16,   -93.09306,   44.94444,   55101, 12960000
+01/18/2009 17:39,   Product2,   3600,   Visa,   jiyoung,   New York,   United States,   1/18/2009 17:34,   1/18/2009 17:34,   -74.00639,   40.71417,   10007, 12960000
+01/11/2009 11:20,   Product1,   1200,   Visa,   Klara,   Spring Lake Park,   United States,   12/31/08 19:48,   1/18/2009 17:43,   -93.23778,   45.10778,   55432, 1440000
+01/12/2009 16:50,   Product1,   1200,   Visa,   Vicki and Bill,   Seattle,   United States,   1/4/2009 21:33,   1/19/2009 01:22,   -122.33083,   47.60639,   98104, 1440000
+01/12/2009 15:12,   Product1,   1200,   Mastercard,   David,   Deptford,   United States,   1/12/2009 14:07,   1/19/2009 03:47,   -75.15306,   39.83806,   08096, 1440000
+01/09/2009 18:52,   Product1,   1200,   Visa,   David,   Alpharetta,   United States,   11/25/08 7:56,   1/19/2009 06:12,   -84.29417,   34.07528,   30009, 1440000
+01/18/2009 23:17,   Product1,   1200,   Visa,   Greg,   Washington,   United States,   1/18/2009 15:18,   1/19/2009 06:13,   -77.03667,   38.895,   20004, 1440000
+01/05/2009 19:37,   Product1,   1200,   Amex,   Bernadette,   Washington,   United States,   11/7/07 9:49,   1/19/2009 07:42,   -77.03667,   38.895,   20004, 1440000
+01/14/2009 18:21,   Product1,   1200,   Visa,   luciana,   Athens,   United States,   9/25/05 6:25,   1/19/2009 11:21,   -83.37806,   33.96083,   30601, 1440000
+01/11/2009 19:01,   Product1,   1200,   Diners,   Maja,   Hoschton,   United States,   1/11/2009 18:17,   1/19/2009 12:47,   -83.76139,   34.09639,   30548, 1440000
+01/15/2009 08:07,   Product1,   1200,   Visa,   Kirstie,   Royal Oak,   United States,   12/13/08 19:35,   1/19/2009 14:59,   -83.14472,   42.48944,   48067, 1440000
+01/15/2009 08:10,   Product1,   1200,   Visa,   Scott,   Royal Oak,   United States,   12/13/08 19:35,   1/19/2009 14:59,   -83.14472,   42.48944,   48067, 1440000
+01/02/2009 17:45,   Product1,   1200,   Mastercard,   Jammie,   Belmont,   United States,   12/9/05 17:19,   1/19/2009 15:36,   -71.17917,   42.39583,   02478, 1440000
+01/19/2009 16:10,   Product1,   1200,   Mastercard,   Frank,   Old Greenwich,   United States,   1/19/2009 15:31,   1/19/2009 16:00,   -73.56528,   41.02278,   06870, 1440000
+01/19/2009 16:55,   Product1,   1200,   Mastercard,   scott,   Coconut Grove,   United States,   1/19/2009 16:18,   1/19/2009 16:18,   -80.25722,   25.71222,   33133, 1440000
+01/10/2009 17:41,   Product1,   1200,   Visa,   Jiri,   Vienna,   United States,   1/10/2009 16:32,   1/19/2009 17:52,   -77.26556,   38.90111,   22180, 1440000
+01/18/2009 13:49,   Product2,   3600,   Visa,   Bev,   San Ramon,   United States,   1/11/2009 12:00,   1/19/2009 18:07,   -121.97694,   37.78,   94526, 12960000
+01/15/2009 05:47,   Product1,   1200,   Visa,   Dave and Amy,   Norfolk,   United States,   1/15/2009 00:21,   1/19/2009 22:48,   -76.28556,   36.84667,   23510, 1440000
+01/19/2009 23:06,   Product1,   1200,   Mastercard,   Rebecca,   Norfolk,   United States,   1/19/2009 22:53,   1/19/2009 22:53,   -76.28556,   36.84667,   23510, 1440000
+01/03/2009 10:52,   Product1,   1200,   Visa,   Djeiny,   Rockville,   United States,   4/18/05 9:27,   1/20/2009 06:47,   -77.20889,   39.01806,   20854, 1440000
+01/20/2009 05:24,   Product3,   7500,   Mastercard,   Amanda,   Shreveport,   United States,   1/20/2009 05:13,   1/20/2009 07:15,   -93.75,   32.525,   71107, 56250000
+01/20/2009 06:03,   Product1,   1200,   Mastercard,   Andrea,   Shreveport,   United States,   1/20/2009 05:13,   1/20/2009 07:15,   -93.75,   32.525,   71107, 1440000
+01/10/2009 11:37,   Product1,   1200,   Amex,   Joanna,   Little Silver,   United States,   12/28/08 20:10,   1/20/2009 07:42,   -74.0475,   40.33667,   07739, 1440000
+01/19/2009 16:32,   Product1,   1200,   Amex,   alison,   Mid City West,   United States,   1/19/2009 10:24,   1/20/2009 10:09,   -75.16417,   39.95222,   19107, 1440000
+01/18/2009 10:42,   Product1,   1200,   Visa,   malin,   Atlanta,   United States,   1/18/2009 00:00,   1/20/2009 11:09,   -84.38806,   33.74889,   30334, 1440000
+01/20/2009 12:34,   Product1,   1200,   Mastercard,   Anastasia,   NYC,   United States,   1/20/2009 12:17,   1/20/2009 12:55,   -74.00639,   40.71417,   10007, 1440000
+01/15/2009 11:26,   Product1,   1200,   Visa,   Nicole,   Brookline,   United States,   7/11/07 11:18,   1/20/2009 14:01,   -71.12167,   42.33167,   02445, 1440000
+01/12/2009 19:47,   Product1,   1200,   Mastercard,   Blanca Gabriela,   Irving,   United States,   12/10/08 21:49,   1/20/2009 18:02,   -96.94861,   32.81389,   75060, 1440000
+01/04/2009 19:20,   Product1,   1200,   Amex,   Elisa,   Ottawa Hills,   United States,   1/4/2009 18:38,   1/20/2009 18:03,   -83.64333,   41.66417,   43606, 1440000
+01/10/2009 08:33,   Product2,   3600,   Mastercard,   Patricia,   Portola Valley,   United States,   2/4/07 10:09,   1/20/2009 22:06,   -122.23417,   37.38417,   94028, 12960000
+01/16/2009 02:41,   Product3,   7500,   Visa,   Kristyn,   Kearns,   United States,   1/15/2009 18:01,   1/21/2009 01:02,   -111.99556,   40.66,   84118, 56250000
+01/20/2009 08:10,   Product1,   1200,   Amex,   Cathy,   Brooklyn,   United States,   8/5/07 18:52,   1/21/2009 05:16,   -73.95,   40.65,   11226, 1440000
+01/06/2009 12:45,   Product2,   3600,   Amex,   Kaylee,   Penngrove,   United States,   1/5/2009 14:06,   1/21/2009 11:18,   -122.66556,   38.29972,   94951, 12960000
+01/10/2009 08:13,   Product1,   1200,   Visa,   suzanne,   Lemont,   United States,   1/9/2009 19:15,   1/21/2009 11:35,   -88.00167,   41.67361,   60439, 1440000
+01/07/2009 14:15,   Product1,   1200,   Mastercard,   Cassandra,   San Carlos,   United States,   1/5/2009 15:42,   1/21/2009 12:00,   -122.25944,   37.50722,   94070, 1440000
+01/08/2009 15:27,   Product1,   1200,   Mastercard,   Jennifer,   Chicago,   United States,   1/4/2009 22:22,   1/21/2009 13:28,   -87.65,   41.85,   60608, 1440000
+01/21/2009 14:06,   Product1,   1200,   Visa,   Sean,   Wantagh,   United States,   1/21/2009 12:00,   1/21/2009 14:06,   -73.51056,   40.68361,   11793, 1440000
+01/19/2009 19:07,   Product1,   1200,   Diners,   Harriet,   Fort Oglethorpe,   United States,   1/19/2009 16:52,   1/21/2009 17:02,   -85.25694,   34.94889,   30742, 1440000
+01/18/2009 06:27,   Product1,   1200,   Mastercard,   Janine,   Corbin City,   United States,   10/27/05 19:22,   1/21/2009 17:10,   -74.81556,   39.24167,   08270, 1440000
+01/20/2009 11:58,   Product1,   1200,   Mastercard,   Debora,   Lakeside,   United States,   11/1/08 23:14,   1/21/2009 17:25,   -116.92139,   32.85722,   92040, 1440000
+01/20/2009 16:32,   Product1,   1200,   Visa,   Vishpala,   Margate,   United States,   1/2/08 9:52,   1/21/2009 19:05,   -80.2375,   26.30972,   33067, 1440000
+01/01/2009 07:09,   Product1,   1200,   Amex,   Emer,   South Palm Beach,   United States,   2/28/05 5:40,   1/21/2009 19:14,   -80.03667,   26.70528,   33480, 1440000
+01/21/2009 14:55,   Product1,   1200,   Diners,   john,   New York,   United States,   1/21/2009 10:23,   1/21/2009 20:34,   -74.00639,   40.71417,   10007, 1440000
+01/07/2009 22:29,   Product1,   1200,   Mastercard,   lailani,   Anchorage,   United States,   1/7/2009 13:23,   1/21/2009 22:30,   -149.90028,   61.21806,   99501, 1440000
+01/18/2009 16:50,   Product1,   1200,   Visa,   Celina,   North Brunswick,   United States,   1/18/2009 16:25,   1/22/2009 01:17,   -74.482,   40.4497,   08902, 1440000
+01/21/2009 12:08,   Product2,   3600,   Visa,   Rosemary,   Jacksonville,   United States,   1/21/2009 11:39,   1/22/2009 06:13,   -81.65583,   30.33194,   32202, 12960000
+01/22/2009 06:41,   Product1,   1200,   Visa,   Patrick,   Baytown,   United States,   1/22/2009 04:32,   1/22/2009 06:54,   -94.97722,   29.73528,   77520, 1440000
+01/12/2009 09:23,   Product1,   1200,   Mastercard,   Jacob,   Winter Haven,   United States,   1/10/2009 14:55,   1/22/2009 07:59,   -81.73306,   28.02194,   33880, 1440000
+01/22/2009 08:23,   Product1,   1200,   Visa,   elisabeth,   Gonzaga Univ,   United States,   1/22/2009 07:55,   1/22/2009 08:14,   -117.425,   47.65889,   99201, 1440000
+01/20/2009 08:51,   Product1,   1200,   Visa,   Marie,   Winchester,   United States,   7/23/08 14:59,   1/22/2009 18:08,   -71.1375,   42.45222,   01890, 1440000
+01/06/2009 08:34,   Product1,   1200,   Visa,   Orit,   Dallas,   United States,   1/5/2009 15:00,   1/22/2009 21:41,   -96.8,   32.78333,   75201, 1440000
+01/23/2009 03:33,   Product2,   3600,   Mastercard,   Anja Langer,   Saint Paul,   United States,   1/23/2009 03:00,   1/23/2009 03:00,   -93.09306,   44.94444,   55101, 12960000
+01/21/2009 14:15,   Product1,   1200,   Amex,   Eric,   Ely,   United States,   1/21/2009 13:56,   1/23/2009 10:35,   -114.88778,   39.2475,   89301, 1440000
+01/21/2009 06:39,   Product1,   1200,   Amex,   Miriane,   Norfolk,   United States,   7/30/07 21:10,   1/23/2009 12:48,   -76.28556,   36.84667,   23510, 1440000
+01/19/2009 08:14,   Product1,   1200,   Visa,   Jeff,   Houston,   United States,   1/4/2009 12:39,   1/23/2009 12:52,   -95.36306,   29.76306,   77002, 1440000
+01/22/2009 23:35,   Product1,   1200,   Mastercard,   Shannon,   Buffalo Grove,   United States,   1/22/2009 23:23,   1/23/2009 22:05,   -89.595,   41.98111,   61064, 1440000
+01/21/2009 07:59,   Product1,   1200,   Visa,   Helen,   Mechanics Grove,   United States,   4/7/08 17:15,   1/24/2009 06:01,   -76.16389,   39.89694,   17566, 1440000
+01/23/2009 07:37,   Product2,   3600,   Amex,   Fatisha,   Miami,   United States,   1/23/2009 06:32,   1/24/2009 06:54,   -80.19389,   25.77389,   33130, 12960000
+01/18/2009 14:39,   Product1,   1200,   Visa,   Nina,   Silver Spring,   United States,   1/5/2009 15:43,   1/24/2009 07:31,   -77.02639,   38.99056,   20910, 1440000
+01/17/2009 07:23,   Product1,   1200,   Visa,   Georgina,   Portland,   United States,   11/28/07 10:05,   1/24/2009 08:54,   -122.675,   45.52361,   97209, 1440000
+01/23/2009 11:37,   Product1,   1200,   Diners,   Kellie,   Staten Island,   United States,   1/23/2009 10:42,   1/24/2009 08:59,   -74.1275,   40.56472,   10306, 1440000
+01/19/2009 15:02,   Product1,   1200,   Mastercard,   Terry,   San Antonio,   United States,   1/19/2009 14:43,   1/24/2009 10:26,   -98.49333,   29.42389,   78205, 1440000
+01/07/2009 19:03,   Product2,   3600,   Mastercard,   Cindy,   Englewood,   United States,   12/17/07 19:55,   1/24/2009 19:19,   -104.98722,   39.64778,   80113, 12960000
+01/17/2009 14:02,   Product1,   1200,   Visa,   Simone,   San Antonio,   United States,   12/7/05 19:48,   1/24/2009 21:29,   -98.49333,   29.42389,   78205, 1440000
+01/25/2009 00:09,   Product1,   1200,   Visa,   Hilde,   Princeville,   United States,   6/20/08 22:08,   1/25/2009 00:12,   -159.48528,   22.22361,   96722, 1440000
+01/06/2009 09:52,   Product1,   1200,   Mastercard,   Anna,   Lafayette,   United States,   1/3/2009 15:01,   1/25/2009 10:19,   -122.11694,   37.88583,   94549, 1440000
+01/13/2009 14:53,   Product1,   1200,   Visa,   leiser,   N Java,   United States,   1/13/2009 13:22,   1/25/2009 11:33,   -78.33806,   42.68361,   14113, 1440000
+01/06/2009 16:37,   Product1,   1200,   Visa,   Ann,   Austin,   United States,   12/28/08 12:31,   1/25/2009 12:17,   -97.74278,   30.26694,   78701, 1440000
+01/18/2009 17:21,   Product1,   1200,   Mastercard,   Nichol Jane,   Midland Park,   United States,   1/11/2009 20:59,   1/25/2009 14:00,   -74.14111,   40.98917,   07432, 1440000
+01/13/2009 15:18,   Product1,   1200,   Amex,   Beatriz,   Centerport,   United States,   1/13/2009 14:46,   1/25/2009 14:01,   -73.37667,   40.88528,   11721, 1440000
+01/18/2009 13:06,   Product1,   1200,   Diners,   Isabelle,   Shorewood,   United States,   1/18/2009 08:44,   1/25/2009 14:49,   -93.56611,   44.90333,   55331, 1440000
+01/22/2009 18:44,   Product1,   1200,   Visa,   Lynne,   Southlake,   United States,   1/22/2009 17:24,   1/25/2009 15:02,   -97.13389,   32.94111,   76092, 1440000
+01/08/2009 08:58,   Product1,   1200,   Mastercard,   Doug,   Huntington,   United States,   1/8/2009 08:22,   1/25/2009 17:39,   -73.42611,   40.86806,   11743, 1440000
+01/04/2009 09:54,   Product1,   1200,   Mastercard,   AMY,   The Woodlands,   United States,   12/30/08 20:41,   1/25/2009 18:23,   -95.48917,   30.15778,   77381, 1440000
+01/09/2009 10:22,   Product1,   1200,   Mastercard,   HELIDA,   White House,   United States,   1/5/2009 14:49,   1/25/2009 19:35,   -86.65139,   36.47028,   37188, 1440000
+01/26/2009 03:43,   Product1,   1200,   Mastercard,   Wendy,   Lake Mahopac,   United States,   1/26/2009 03:10,   1/26/2009 03:10,   -73.73389,   41.37222,   10541, 1440000
+01/11/2009 13:16,   Product2,   3600,   Visa,   shelby,   Plantation,   United States,   1/11/2009 12:20,   1/26/2009 03:42,   -80.14361,   26.12194,   33301, 12960000
+01/21/2009 11:28,   Product1,   800,   Amex,   Heloise,   Arlington,   United States,   9/25/05 20:26,   1/26/2009 06:23,   -77.08444,   38.89028,   22201, 640000
+01/26/2009 04:30,   Product1,   1200,   Visa,   Jodie,   Great Falls,   United States,   1/26/2009 00:00,   1/26/2009 07:48,   -77.28861,   38.99806,   22066, 1440000
+01/07/2009 17:51,   Product1,   1200,   Visa,   Marie,   Dickerson,   United States,   1/13/06 9:38,   1/26/2009 11:35,   -77.42444,   39.22,   20842, 1440000
+01/18/2009 20:16,   Product1,   1200,   Mastercard,   Lisa,   Princeton,   United States,   1/18/2009 19:47,   1/26/2009 13:07,   -74.65944,   40.34861,   08542, 1440000
+01/24/2009 18:43,   Product1,   1200,   Visa,   Katrine,   North Tustin,   United States,   1/11/2009 13:33,   1/26/2009 21:29,   -117.79306,   33.76444,   92705, 1440000
+01/26/2009 06:25,   Product1,   1200,   Visa,   prof,   Gladwyne,   United States,   1/19/2009 06:38,   1/27/2009 03:58,   -75.27944,   40.04056,   19035, 1440000
+01/21/2009 16:57,   Product1,   1200,   Mastercard,   KeithMichelle,   Houston,   United States,   1/21/2009 16:37,   1/27/2009 04:43,   -95.36306,   29.76306,   77002, 1440000
+01/20/2009 07:08,   Product2,   3600,   Visa,   Miye,   Downingtown,   United States,   1/19/2009 08:06,   1/27/2009 06:38,   -75.70361,   40.00639,   19335, 12960000
+01/27/2009 02:26,   Product1,   1200,   Diners,   Heidi,   MT Pleasant,   United States,   1/27/2009 02:16,   1/27/2009 06:41,   -94.96806,   33.15667,   75455, 1440000
+01/13/2009 08:11,   Product2,   3600,   Visa,   Daniele,   Katy,   United States,   5/27/08 11:01,   1/27/2009 07:49,   -95.82417,   29.78556,   77494, 12960000
+01/08/2009 18:52,   Product1,   1200,   Visa,   Nadine,   Belgrade,   United States,   1/7/2009 15:30,   1/27/2009 09:40,   -111.17611,   45.77611,   59714, 1440000
+01/27/2009 15:28,   Product1,   1200,   Visa,   Katherine,   Corrales,   United States,   1/17/2009 17:52,   1/27/2009 15:17,   -106.60611,   35.23778,   87048, 1440000
+01/08/2009 18:41,   Product1,   1200,   Diners,   Veronique,   Tenafly,   United States,   12/9/07 17:59,   1/27/2009 18:12,   -73.96333,   40.92528,   07670, 1440000
+01/04/2009 18:34,   Product1,   1200,   Visa,   Erica,   Leesburg,   United States,   1/4/2009 16:53,   1/27/2009 18:37,   -77.56389,   39.11556,   20176, 1440000
+01/28/2009 00:40,   Product1,   1200,   Mastercard,   Natalie,   Bryceville,   United States,   1/27/2009 22:04,   1/28/2009 00:01,   -81.93889,   30.38444,   32009, 1440000
+01/28/2009 07:31,   Product1,   1200,   Visa,   cari,   Dryden,   United States,   1/28/2009 07:22,   1/28/2009 07:34,   -82.94167,   36.7775,   24243, 1440000
+01/28/2009 07:49,   Product1,   1200,   Visa,   Ina,   Fayetteville,   United States,   1/28/2009 07:45,   1/28/2009 07:47,   -78.87861,   35.0525,   28301, 1440000
+01/06/2009 11:17,   Product2,   3600,   Visa,   Trina,   Overland,   United States,   2/21/08 8:53,   1/28/2009 09:23,   -94.67056,   38.98222,   66204, 12960000
+01/09/2009 10:35,   Product2,   3600,   Visa,   Jenna and Paul,   Senatobia,   United States,   1/8/2009 14:02,   1/28/2009 11:08,   -89.96861,   34.6175,   38668, 12960000
+01/02/2009 12:16,   Product1,   1200,   Mastercard,   Monique,   Waldorf,   United States,   12/11/08 6:16,   1/28/2009 12:07,   -76.93944,   38.62444,   20603, 1440000
+01/28/2009 12:31,   Product1,   1200,   Diners,   lilia,   Brooklyn,   United States,   1/28/2009 12:21,   1/28/2009 12:30,   -73.95,   40.65,   11226, 1440000
+01/14/2009 12:07,   Product1,   1200,   Mastercard,   Lainey,   Lakeville,   United States,   1/13/2009 22:28,   1/28/2009 12:37,   -93.2425,   44.64972,   55044, 1440000
+01/07/2009 12:55,   Product1,   1200,   Amex,   Fiona,   Stamford,   United States,   1/5/2009 06:26,   1/28/2009 13:24,   -73.53917,   41.05333,   06901, 1440000
+01/18/2009 08:56,   Product1,   1200,   Mastercard,   Stanford,   Howell,   United States,   1/30/08 13:16,   1/28/2009 14:37,   -83.92944,   42.60722,   48843, 1440000
+01/04/2009 17:54,   Product1,   1200,   Amex,   ruth,   Encinitas,   United States,   1/1/2009 10:12,   1/28/2009 15:13,   -117.29111,   33.03694,   92024, 1440000
+01/05/2009 13:46,   Product1,   1200,   Visa,   Courtney,   Atchison,   United States,   11/11/08 14:19,   1/28/2009 17:10,   -95.12139,   39.56306,   66002, 1440000
+01/05/2009 10:49,   Product2,   3600,   Amex,   Courtney,   Mililani,   United States,   8/23/07 0:00,   1/28/2009 18:13,   -157.96083,   21.42556,   96782, 12960000
+01/12/2009 18:24,   Product1,   1200,   Diners,   Anthony,   Victor,   United States,   12/18/08 7:14,   1/28/2009 18:19,   -77.40917,   42.9825,   14564, 1440000
+01/18/2009 04:01,   Product1,   1200,   Visa,   Eleanor,   Fairbanks,   United States,   1/6/2009 00:18,   1/28/2009 23:56,   -147.71639,   64.83778,   99701, 1440000
+01/28/2009 13:07,   Product1,   1200,   Amex,   BALA,   Accokeek,   United States,   11/29/07 5:56,   1/29/2009 04:40,   -77.02861,   38.6675,   20607, 1440000
+01/29/2009 05:43,   Product1,   1200,   Visa,   Mrs,   Sunnyvale,   United States,   1/29/2009 05:18,   1/29/2009 05:18,   -122.03528,   37.36889,   94086, 1440000
+01/29/2009 05:30,   Product1,   1200,   Diners,   Vanessa,   Ithaca,   United States,   1/29/2009 04:49,   1/29/2009 06:56,   -76.49694,   42.44056,   14850, 1440000
+01/13/2009 18:08,   Product1,   1200,   Amex,   Amanda,   Houston,   United States,   1/13/2009 17:02,   1/29/2009 07:34,   -95.36306,   29.76306,   77002, 1440000
+01/09/2009 15:24,   Product1,   1200,   Mastercard,   alex,   Farmingtn Hls,   United States,   1/9/2009 13:59,   1/29/2009 08:05,   -83.37639,   42.46444,   48336, 1440000
+01/23/2009 15:33,   Product1,   1200,   Mastercard,   T,   Brooklyn,   United States,   1/23/2009 14:18,   1/29/2009 11:02,   -73.95,   40.65,   11226, 1440000
+01/29/2009 12:28,   Product1,   1200,   Mastercard,   Alva and Martin,   Great Falls,   United States,   5/21/07 14:57,   1/29/2009 12:31,   -77.28861,   38.99806,   22066, 1440000
+01/29/2009 10:09,   Product2,   3600,   Mastercard,   Jacqui,   Scottsdale,   United States,   1/29/2009 09:59,   1/29/2009 12:58,   -111.89833,   33.50917,   85251, 12960000
+01/29/2009 15:08,   Product1,   1200,   Visa,   KERRY,   Sunnyvale,   United States,   1/29/2009 14:04,   1/29/2009 14:04,   -122.03528,   37.36889,   94086, 1440000
+01/22/2009 22:16,   Product2,   3600,   Mastercard,   leanne,   Clyde Hill,   United States,   1/17/2009 23:28,   1/29/2009 16:51,   -122.19944,   47.61056,   98004, 12960000
+01/11/2009 12:22,   Product1,   1200,   Visa,   Marina,   Minneapolis,   United States,   1/11/2009 07:18,   1/30/2009 02:10,   -93.26361,   44.98,   55401, 1440000
+01/02/2009 09:31,   Product1,   1200,   Visa,   camilla,   Chicago,   United States,   1/2/2009 09:09,   1/30/2009 05:35,   -87.65,   41.85,   60608, 1440000
+01/19/2009 10:32,   Product1,   1200,   Mastercard,   Maie,   Queen Creek,   United States,   1/6/2009 17:57,   1/30/2009 10:41,   -111.63361,   33.24861,   85142, 1440000
+01/26/2009 12:05,   Product1,   1250,   Mastercard,   verena,   Queen Creek,   United States,   1/6/2009 17:57,   1/30/2009 10:41,   -111.63361,   33.24861,   85142, 1562500
+01/07/2009 18:53,   Product1,   1200,   Visa,   Marie-Christine,   Durham,   United States,   12/29/08 9:59,   1/30/2009 10:46,   -78.89889,   35.99389,   27701, 1440000
+01/26/2009 11:38,   Product1,   1200,   Mastercard,   Gabriella,   Austin,   United States,   1/26/2009 07:16,   1/30/2009 13:15,   -97.74278,   30.26694,   78701, 1440000
+01/08/2009 13:19,   Product1,   1200,   Mastercard,   valerie et nicolas,   Glenn Dale,   United States,   1/8/2009 05:31,   1/30/2009 17:40,   -76.82083,   38.9875,   20706, 1440000
+01/30/2009 20:36,   Product1,   1200,   Visa,   Renee,   Edinburg,   United States,   1/30/2009 20:05,   1/31/2009 04:47,   -98.16306,   26.30139,   78539, 1440000
+01/31/2009 07:22,   Product1,   1200,   Visa,   Monica,   Weston,   United States,   2/29/08 17:34,   1/31/2009 06:43,   -73.38111,   41.20083,   06883, 1440000
+01/31/2009 08:56,   Product1,   1200,   Mastercard,   Laura,   Coconut Grove,   United States,   1/31/2009 08:03,   1/31/2009 09:22,   -80.25722,   25.71222,   33133, 1440000
+01/11/2009 14:07,   Product1,   1200,   Visa,   Sarah,   San Francisco,   United States,   1/11/2009 13:08,   1/31/2009 10:20,   -122.41833,   37.775,   94103, 1440000
+01/31/2009 11:14,   Product2,   3600,   Mastercard,   Ulrika,   Scottsdale,   United States,   1/31/2009 11:10,   1/31/2009 11:10,   -111.89833,   33.50917,   85251, 12960000
+01/02/2009 09:57,   Product1,   1200,   Amex,   leigh,   Potomac Falls,   United States,   2/20/05 17:20,   1/31/2009 11:24,   -77.40111,   39.05,   20165, 1440000
+01/04/2009 13:20,   Product1,   1200,   Mastercard,   Nuria,   Superior,   United States,   1/4/2009 12:08,   1/31/2009 13:17,   -105.13139,   39.97778,   80027, 1440000
+01/18/2009 06:09,   Product1,   1200,   Mastercard,   Ignacio,   Engleside,   United States,   5/21/07 18:56,   1/31/2009 15:33,   -77.04722,   38.80472,   22314, 1440000
+01/24/2009 07:14,   Product1,   1200,   Mastercard,   nihan,   Roanoke,   United States,   3/2/08 7:35,   1/31/2009 19:18,   -80.03778,   37.20556,   24018, 1440000
+01/24/2009 11:05,   Product1,   1200,   Visa,   alan,   Norcross,   United States,   7/30/07 15:16,   1/31/2009 19:31,   -84.21361,   33.94111,   30071, 1440000
+01/06/2009 15:12,   Product1,   1200,   Amex,   lydia,   Sandy Plains,   United States,   9/23/06 8:42,   1/31/2009 20:48,   -84.36167,   34.02306,   30075, 1440000
+01/03/2009 09:58,   Product1,   1200,   Visa,   Anja,   Gainesville,   United States,   10/19/08 8:27,   1/31/2009 22:19,   -77.61417,   38.79556,   20155, 1440000
+01/12/2009 14:50,   Product1,   1200,   Visa,   Holly,   Arlington,   United States,   1/12/2009 09:54,   2/1/2009 07:36,   -71.15694,   42.41528,   02476, 1440000
+01/07/2009 13:49,   Product1,   1200,   Diners,   megan,   West Hills,   United States,   1/7/2009 12:36,   2/1/2009 08:20,   -118.59722,   34.20111,   91303, 1440000
+01/09/2009 19:41,   Product1,   1200,   Mastercard,   Tarah,   San Jose,   United States,   1/5/2009 18:02,   2/1/2009 09:18,   -121.89389,   37.33944,   95113, 1440000
+01/23/2009 21:41,   Product1,   1200,   Visa,   Joanne,   Oak Park,   United States,   12/26/08 11:00,   2/1/2009 09:51,   -83.18278,   42.45944,   48237, 1440000
+01/06/2009 16:07,   Product1,   1200,   Visa,   Margaret,   Terrell Hills,   United States,   12/21/08 12:21,   2/1/2009 10:06,   -98.49333,   29.42389,   78205, 1440000
+01/28/2009 20:44,   Product1,   1200,   Visa,   Whitney,   Falmouth,   United States,   1/28/2009 19:36,   2/1/2009 11:33,   -77.46861,   38.32389,   22405, 1440000
+01/19/2009 08:52,   Product1,   1200,   Visa,   Pam,   Richmond,   United States,   1/6/2009 15:24,   2/1/2009 11:53,   -95.76056,   29.58194,   77469, 1440000
+01/30/2009 19:12,   Product1,   1200,   Diners,   Heather,   Ooltewah,   United States,   1/30/2009 18:54,   2/1/2009 13:51,   -85.06222,   35.075,   37363, 1440000
+01/05/2009 12:41,   Product1,   1200,   Mastercard,   Kathryn,   Pacific Beach,   United States,   1/5/2009 11:50,   2/1/2009 14:28,   -117.23944,   32.79778,   92109, 1440000
+01/28/2009 20:59,   Product1,   1200,   Visa,   Michele,   Austin,   United States,   1/28/2009 09:40,   2/1/2009 15:00,   -97.74278,   30.26694,   78701, 1440000
+01/10/2009 21:36,   Product1,   1200,   Visa,   Craig,   Seattle,   United States,   8/10/08 16:47,   2/1/2009 15:27,   -122.33083,   47.60639,   98104, 1440000
+01/25/2009 19:59,   Product1,   1200,   Visa,   Kim,   Seattle,   United States,   8/13/08 18:27,   2/1/2009 16:04,   -122.33083,   47.60639,   98104, 1440000
+01/21/2009 09:07,   Product1,   1200,   Visa,   Elaine,   Vienna,   United States,   4/2/08 9:59,   2/1/2009 21:07,   -77.26556,   38.90111,   22180, 1440000
+01/27/2009 08:11,   Product1,   1200,   Visa,   Helena,   Fremont,   United States,   1/27/2009 08:05,   2/2/2009 06:08,   -121.9875,   37.54833,   94538, 1440000
+01/15/2009 09:52,   Product1,   1200,   Amex,   Mark,   Holmdel,   United States,   1/15/2009 08:36,   2/2/2009 07:00,   -74.18444,   40.345,   07733, 1440000
+01/13/2009 11:54,   Product1,   1200,   Visa,   alice and rudolf,   Baltimore,   United States,   1/8/2009 11:11,   2/2/2009 08:01,   -76.53167,   39.2725,   21224, 1440000
+01/16/2009 11:49,   Product1,   1200,   Mastercard,   Yoko,   Andover,   United States,   2/18/08 18:56,   2/2/2009 08:53,   -71.1375,   42.65833,   01810, 1440000
+01/01/2009 09:35,   Product1,   1200,   Mastercard,   Barbara,   La Crescenta,   United States,   12/31/08 17:51,   2/2/2009 10:27,   -118.23917,   34.22417,   91214, 1440000
+01/13/2009 05:58,   Product1,   1200,   Mastercard,   Kit,   Suwanee,   United States,   1/5/2009 21:12,   2/2/2009 13:13,   -84.07139,   34.05139,   30024, 1440000
+01/06/2009 16:08,   Product2,   3600,   Visa,   cristina,   Seattle,   United States,   3/14/05 16:39,   2/2/2009 14:17,   -122.33083,   47.60639,   98104, 12960000
+01/05/2009 10:25,   Product1,   1200,   Amex,   linda,   Arlington,   United States,   10/11/08 3:50,   2/2/2009 16:13,   -77.08444,   38.89028,   22201, 1440000
+01/12/2009 20:43,   Product1,   1200,   Visa,   Alicja,   Kenmore,   United States,   1/12/2009 20:31,   2/2/2009 20:26,   -122.24278,   47.7575,   98028, 1440000
+01/17/2009 03:22,   Product1,   1200,   Visa,   Rachel,   Fresno,   United States,   2/1/08 12:45,   2/2/2009 20:35,   -119.77139,   36.74778,   93702, 1440000
+01/18/2009 11:17,   Product1,   1200,   Amex,   Rachel,   Atascadero,   United States,   3/11/08 13:35,   2/2/2009 22:49,   -120.66972,   35.48944,   93422, 1440000
+01/11/2009 06:01,   Product1,   1200,   Mastercard,   Anna,   New York,   United States,   1/1/2009 10:24,   2/3/2009 04:25,   -74.00639,   40.71417,   10007, 1440000
+01/19/2009 14:53,   Product1,   1200,   Mastercard,   Laura,   Fairfield,   United States,   12/12/08 5:18,   2/3/2009 05:40,   -91.9625,   41.00861,   52556, 1440000
+01/15/2009 08:12,   Product1,   1200,   Visa,   Katherine,   Marietta,   United States,   1/13/2009 10:03,   2/3/2009 07:44,   -84.55,   33.9525,   30060, 1440000
+01/12/2009 08:05,   Product1,   1200,   Amex,   Francoise,   Danville,   United States,   1/12/2009 06:44,   2/3/2009 08:01,   -76.61306,   40.96333,   17821, 1440000
+01/25/2009 08:54,   Product1,   1200,   Amex,   Corinne,   Anthem,   United States,   3/26/06 17:32,   2/3/2009 09:50,   -112.14611,   33.86722,   85086, 1440000
+01/05/2009 19:29,   Product1,   1200,   Visa,   Carmen,   Arlington,   United States,   4/29/08 16:09,   2/3/2009 10:23,   -77.08444,   38.89028,   22201, 1440000
+01/07/2009 19:06,   Product2,   3600,   Amex,   Brittany,   Orlando,   United States,   8/10/04 3:30,   2/3/2009 11:32,   -81.37944,   28.53806,   32801, 12960000
+01/23/2009 11:33,   Product1,   1200,   Mastercard,   Sandrine,   Walnut Creek,   United States,   1/22/2009 23:31,   2/3/2009 11:49,   -122.06389,   37.90639,   94596, 1440000
+01/03/2009 21:11,   Product1,   1200,   Mastercard,   asuncion,   Centennial,   United States,   12/3/08 13:00,   2/3/2009 11:50,   -104.87639,   39.57917,   80112, 1440000
+01/11/2009 17:28,   Product1,   1200,   Visa,   Sophie,   Newtown,   United States,   1/11/2009 11:50,   2/3/2009 12:21,   -73.30389,   41.41389,   06470, 1440000
+01/29/2009 10:38,   Product1,   1200,   Visa,   samuel,   Saddle Brook,   United States,   1/29/2009 09:08,   2/3/2009 14:39,   -74.09306,   40.89889,   07663, 1440000
+01/08/2009 14:04,   Product1,   1200,   Amex,   AngelinaPatrick,   San Diego,   United States,   1/7/2009 17:01,   2/3/2009 14:57,   -117.15639,   32.71528,   92101, 1440000
+01/31/2009 21:50,   Product1,   1200,   Visa,   Sven,   Issaquah,   United States,   1/31/2009 21:01,   2/3/2009 16:30,   -122.03139,   47.53028,   98027, 1440000
+01/30/2009 13:13,   Product1,   1200,   Visa,   Patrick,   Lexington,   United States,   1/30/2009 12:44,   2/3/2009 17:14,   -71.225,   42.44722,   02420, 1440000
+01/27/2009 16:50,   Product1,   1200,   Visa,   jason,   Altadena,   United States,   12/28/08 14:42,   2/3/2009 18:09,   -118.13028,   34.18972,   91001, 1440000
+01/30/2009 07:42,   Product1,   250,   Visa,   Tabatha,   Altadena,   United States,   12/28/08 14:42,   2/3/2009 18:09,   -118.13028,   34.18972,   91001, 62500
+01/17/2009 15:48,   Product2,   3600,   Visa,   Aline,   Davis,   United States,   1/8/05 14:03,   2/3/2009 19:14,   -121.73944,   38.545,   95616, 12960000
+01/30/2009 20:27,   Product1,   1200,   Mastercard,   Natasha,   Pasadena,   United States,   1/30/2009 20:02,   2/3/2009 23:39,   -118.14361,   34.14778,   91101, 1440000
+01/27/2009 18:35,   Product1,   1200,   Mastercard,   Melinda,   Buffalo Grove,   United States,   1/27/2009 18:28,   2/3/2009 23:42,   -89.595,   41.98111,   61064, 1440000
+01/21/2009 05:39,   Product1,   1200,   Amex,   Britlyn,   Norwalk,   United States,   11/4/08 9:51,   2/4/2009 04:31,   -73.40833,   41.1175,   06851, 1440000
+01/20/2009 08:23,   Product1,   1200,   Mastercard,   Sarah,   Floyds Knobs,   United States,   10/12/05 17:17,   2/4/2009 08:16,   -85.87361,   38.32444,   47119, 1440000
+01/11/2009 04:55,   Product1,   1200,   Amex,   Caroline,   Marietta,   United States,   4/12/06 18:20,   2/4/2009 09:22,   -84.55,   33.9525,   30060, 1440000
+01/23/2009 07:47,   Product1,   1800,   Amex,   Karena,   Marietta,   United States,   4/12/06 18:20,   2/4/2009 09:22,   -84.55,   33.9525,   30060, 3240000
+01/21/2009 23:19,   Product1,   1200,   Amex,   janet,   Hon,   United States,   9/4/08 16:51,   2/4/2009 11:11,   -157.85833,   21.30694,   96813, 1440000
+01/11/2009 04:29,   Product3,   7500,   Visa,   Hans,   Knoxville,   United States,   8/28/08 6:20,   2/4/2009 12:17,   -83.92083,   35.96056,   37902, 56250000
+01/11/2009 04:39,   Product1,   1200,   Visa,   SandraThierryZoe,   Knoxville,   United States,   8/28/08 6:20,   2/4/2009 12:17,   -83.92083,   35.96056,   37902, 1440000
+01/17/2009 15:00,   Product1,   1200,   Visa,   Cara,   Humble,   United States,   3/12/07 14:55,   2/4/2009 13:29,   -95.26194,   29.99861,   77338, 1440000
+01/04/2009 14:06,   Product1,   1200,   Visa,   carolien,   Mashpee,   United States,   1/4/2009 12:21,   2/4/2009 13:45,   -70.48167,   41.64833,   02649, 1440000
+01/20/2009 05:01,   Product1,   1200,   Visa,   Patrick,   Birmingham,   United States,   1/18/2009 17:36,   2/4/2009 16:45,   -83.21139,   42.54667,   48009, 1440000
+01/26/2009 14:37,   Product1,   1200,   Visa,   Heidi,   St Augustine,   United States,   12/19/07 12:00,   2/4/2009 16:55,   -81.31472,   29.89444,   32084, 1440000
+01/29/2009 13:27,   Product1,   1200,   Visa,   Tom,   Salt Lake City,   United States,   1/28/2009 14:47,   2/4/2009 20:07,   -111.89028,   40.76083,   84111, 1440000
+01/12/2009 10:33,   Product1,   1200,   Amex,   Justine,   Seattle,   United States,   1/7/2009 16:45,   2/4/2009 20:57,   -122.33083,   47.60639,   98104, 1440000
+01/25/2009 16:11,   Product3,   7500,   Visa,   scott,   Rogers,   United States,   1/25/2009 15:55,   2/5/2009 00:20,   -94.11833,   36.33194,   72756, 56250000
+01/25/2009 20:44,   Product1,   1200,   Visa,   Fatima,   Rogers,   United States,   1/25/2009 15:55,   2/5/2009 00:20,   -94.11833,   36.33194,   72756, 1440000
+01/02/2009 15:57,   Product1,   1200,   Diners,   Sonja,   Alpine,   United States,   1/2/2009 15:25,   2/5/2009 10:18,   -73.93167,   40.95583,   07620, 1440000
+01/27/2009 11:21,   Product1,   1200,   Mastercard,   Cleo,   Pacific Palisades,   United States,   1/27/2009 10:38,   2/5/2009 12:38,   -118.52556,   34.04806,   90272, 1440000
+01/22/2009 09:00,   Product1,   1200,   Visa,   Claire,   Trumansburg,   United States,   7/6/08 14:33,   2/5/2009 16:33,   -76.66639,   42.54222,   14886, 1440000
+01/25/2009 12:59,   Product1,   1200,   Visa,   Lindsey,   Kennett Square,   United States,   1/13/2009 20:08,   2/5/2009 18:40,   -75.71194,   39.84667,   19348, 1440000
+01/10/2009 19:28,   Product2,   3600,   Visa,   Nicola,   San Jose,   United States,   8/5/05 0:29,   2/5/2009 21:10,   -121.89389,   37.33944,   95113, 12960000
+01/08/2009 12:04,   Product1,   1200,   Visa,   jennifer,   Morro Bay,   United States,   12/1/03 19:13,   2/5/2009 22:11,   -120.84889,   35.36583,   93442, 1440000
+01/03/2009 14:14,   Product1,   1200,   Visa,   sherry,   Las Vegas,   United States,   1/3/2009 13:49,   2/6/2009 05:29,   -115.13639,   36.175,   89101, 1440000
+01/22/2009 12:37,   Product2,   3600,   Amex,   Laura,   San Anselmo,   United States,   1/22/2009 10:17,   2/6/2009 06:38,   -122.56056,   37.97472,   94960, 12960000
+01/06/2009 09:45,   Product1,   1200,   Diners,   Matt,   N Woodmere,   United States,   12/30/08 13:01,   2/6/2009 07:33,   -73.70889,   40.66417,   11580, 1440000
+01/12/2009 07:23,   Product1,   1200,   Visa,   Stephanie,   Fairfax,   United States,   1/11/2009 14:42,   2/6/2009 16:13,   -122.58778,   37.98722,   94930, 1440000
+01/30/2009 04:48,   Product1,   1200,   Visa,   Hurst,   Chandler,   United States,   6/18/08 14:29,   2/6/2009 17:21,   -111.84056,   33.30611,   85225, 1440000
+01/22/2009 16:29,   Product1,   1200,   Visa,   Liza,   Dammeron Valley,   United States,   1/17/2009 15:18,   2/6/2009 18:14,   -113.6492,   37.1306,   84765, 1440000
+01/27/2009 06:26,   Product1,   1200,   Mastercard,   Michele,   Buffalo,   United States,   1/25/2009 11:56,   2/6/2009 18:24,   -78.87861,   42.88639,   14202, 1440000
+01/15/2009 10:16,   Product3,   7500,   Visa,   Karin,   Olive Branch,   United States,   1/12/2009 17:41,   2/6/2009 18:48,   -89.82944,   34.96167,   38654, 56250000
+01/19/2009 18:54,   Product1,   1200,   Amex,   cath,   Warwick,   United States,   1/19/2009 11:34,   2/6/2009 19:27,   -74.36028,   41.25639,   10990, 1440000
+01/01/2009 18:32,   Product1,   1200,   Amex,   Andrea,   San Mateo,   United States,   12/31/08 17:09,   2/6/2009 21:59,   -122.32444,   37.56306,   94401, 1440000
+01/24/2009 18:02,   Product1,   1200,   Visa,   Helen,   Aloma,   United States,   11/29/05 17:33,   2/7/2009 06:03,   -81.30667,   28.60056,   32792, 1440000
+01/07/2009 08:26,   Product1,   1200,   Diners,   C,   Chandler,   United States,   1/6/2009 16:23,   2/7/2009 06:05,   -111.84056,   33.30611,   85225, 1440000
+01/25/2009 16:17,   Product1,   1200,   Amex,   Mareike,   Cumming,   United States,   1/24/2009 18:06,   2/7/2009 11:28,   -84.14028,   34.20722,   30040, 1440000
+01/15/2009 10:37,   Product1,   1200,   Visa,   lamia,   Little Compton,   United States,   6/28/08 11:04,   2/7/2009 12:00,   -71.17167,   41.51,   02837, 1440000
+01/20/2009 15:28,   Product1,   1200,   Visa,   Madhu,   Centennial,   United States,   12/2/06 23:24,   2/7/2009 15:18,   -104.87639,   39.57917,   80112, 1440000
+01/28/2009 18:00,   Product1,   13000,   Visa,   sandhya,   Centennial,   United States,   12/2/06 23:24,   2/7/2009 15:18,   -104.87639,   39.57917,   80112, 169000000
+01/29/2009 05:06,   Product1,   1200,   Amex,   Kimberly,   Herndon,   United States,   1/23/08 10:05,   2/7/2009 15:23,   -77.38639,   38.96944,   20170, 1440000
+01/06/2009 18:53,   Product1,   1200,   Visa,   Tania,   Vista,   United States,   1/5/2009 22:37,   2/7/2009 15:48,   -117.24167,   33.2,   92084, 1440000
+01/21/2009 06:55,   Product1,   1200,   Visa,   andrea,   Oostburg,   United States,   1/20/2009 13:33,   2/7/2009 16:48,   -87.79444,   43.62278,   53070, 1440000
+01/25/2009 17:58,   Product2,   3600,   Visa,   carol,   Ann Arbor,   United States,   7/5/08 9:20,   2/7/2009 18:51,   -83.72639,   42.27083,   48104, 12960000
+01/09/2009 14:37,   Product1,   1200,   Visa,   Nona,   South Jordan,   United States,   1/8/2009 15:14,   2/7/2009 19:11,   -111.92889,   40.56222,   84095, 1440000
+01/26/2009 20:47,   Product1,   1200,   Mastercard,   Alicia,   Lincoln,   United States,   6/24/08 8:05,   2/8/2009 07:29,   -96.66667,   40.8,   68510, 1440000
+01/18/2009 12:57,   Product1,   1200,   Mastercard,   sandra,   Burr Oak,   United States,   1/24/08 16:11,   2/8/2009 15:30,   -91.86528,   43.45889,   52101, 1440000
+01/24/2009 21:26,   Product1,   1200,   Visa,   Olivia,   Wheaton,   United States,   5/8/08 16:02,   2/8/2009 16:00,   -88.10694,   41.86611,   60187, 1440000
+01/26/2009 12:26,   Product2,   3600,   Mastercard,   Tom,   Killeen,   United States,   1/26/2009 05:23,   2/8/2009 17:33,   -97.7275,   31.11694,   76541, 12960000
+01/05/2009 07:37,   Product1,   1200,   Visa,   Annette,   Manhattan,   United States,   9/26/08 4:29,   2/8/2009 18:42,   -74.00639,   40.71417,   10007, 1440000
+01/18/2009 09:42,   Product1,   1200,   Visa,   Richard,   Jamestown,   United States,   1/18/2009 09:22,   2/9/2009 08:30,   -71.36778,   41.49694,   02835, 1440000
+01/09/2009 11:14,   Product1,   1200,   Visa,   Jasinta Jeanne,   Owings Mills,   United States,   1/9/2009 10:43,   2/9/2009 09:17,   -76.78056,   39.41944,   21117, 1440000
+01/07/2009 07:28,   Product1,   1200,   Amex,   Cherish,   Anchorage,   United States,   7/28/08 7:31,   2/9/2009 10:50,   -149.90028,   61.21806,   99501, 1440000
+01/30/2009 12:18,   Product1,   1200,   Mastercard,   Abikay,   Fullerton,   United States,   1/26/2009 13:34,   2/9/2009 12:53,   -117.92444,   33.87028,   92832, 1440000
+01/06/2009 05:42,   Product1,   1200,   Amex,   Abikay,   Atlanta,   United States,   10/27/08 14:16,   2/9/2009 13:50,   -84.38806,   33.74889,   30334, 1440000
+01/19/2009 09:34,   Product1,   1200,   Amex,   amanda,   Las Vegas,   United States,   5/10/08 8:56,   2/9/2009 16:44,   -115.13639,   36.175,   89101, 1440000
+01/09/2009 07:49,   Product1,   1200,   Visa,   Stacy,   Rochester Hills,   United States,   7/28/08 7:18,   2/9/2009 17:41,   -83.13389,   42.68056,   48307, 1440000
+01/14/2009 13:23,   Product1,   1200,   Diners,   eugenia,   Wisconsin Rapids,   United States,   11/15/08 13:57,   2/9/2009 18:44,   -89.81722,   44.38361,   54494, 1440000
+01/07/2009 20:01,   Product1,   1200,   Visa,   Karen,   Austin,   United States,   1/6/2009 19:16,   2/9/2009 19:56,   -97.74278,   30.26694,   78701, 1440000
+01/20/2009 12:32,   Product1,   1200,   Visa,   Bea,   Chicago,   United States,   1/16/2009 19:08,   2/9/2009 20:42,   -87.65,   41.85,   60608, 1440000
+01/06/2009 14:35,   Product1,   1200,   Diners,   Hilde Karin,   Las Vegas,   United States,   12/17/08 11:59,   2/9/2009 22:59,   -115.13639,   36.175,   89101, 1440000
+01/05/2009 10:02,   Product2,   3600,   Visa,   Emillie,   Eagan,   United States,   1/5/2009 09:03,   2/10/2009 07:29,   -93.16667,   44.80417,   55123, 12960000
+01/21/2009 20:44,   Product1,   1200,   Mastercard,   Ailsa,   Lindenhurst,   United States,   1/21/2009 07:47,   2/10/2009 10:51,   -73.37389,   40.68667,   11757, 1440000
+01/05/2009 09:09,   Product1,   1200,   Visa,   Sophie,   Bloomfield,   United States,   10/23/06 6:52,   2/10/2009 10:58,   -83.23306,   42.53778,   48009, 1440000
+01/27/2009 11:18,   Product2,   3600,   Amex,   Michael,   Los Angeles,   United States,   1/23/2009 11:47,   2/10/2009 13:09,   -118.24278,   34.05222,   90012, 12960000
+01/30/2009 06:48,   Product1,   1200,   Mastercard,   Nicole,   Fayetteville,   United States,   1/30/2009 04:51,   2/10/2009 14:41,   -78.87861,   35.0525,   28301, 1440000
+01/22/2009 18:07,   Product1,   1200,   Visa,   Ryan,   Simpsonville,   United States,   1/6/2009 16:59,   2/10/2009 15:30,   -82.25444,   34.73694,   29681, 1440000
+01/19/2009 11:05,   Product1,   1200,   Visa,   Bertrand,   North Caldwell,   United States,   10/3/08 5:55,   2/10/2009 18:16,   -74.27694,   40.83972,   07006, 1440000
+01/29/2009 13:41,   Product1,   1200,   Visa,   John,   San Jose,   United States,   1/14/04 21:59,   2/10/2009 23:58,   -121.89389,   37.33944,   95113, 1440000
+01/16/2009 08:28,   Product1,   1200,   Visa,   Ashley,   Rancho Cordova,   United States,   1/9/2009 12:13,   2/11/2009 08:34,   -121.30167,   38.58917,   95670, 1440000
+01/26/2009 07:11,   Product1,   1200,   Visa,   Tori,   Minneapolis,   United States,   11/22/08 21:06,   2/11/2009 11:35,   -93.26361,   44.98,   55401, 1440000
+01/31/2009 05:39,   Product2,   3600,   Mastercard,   Hanne,   Phoenix,   United States,   10/5/04 4:37,   2/11/2009 11:45,   -76.61639,   39.51639,   21131, 12960000
+01/26/2009 08:45,   Product1,   1200,   Visa,   Paula,   Larchmont,   United States,   2/15/06 17:21,   2/11/2009 17:12,   -73.75222,   40.92778,   10538, 1440000
+01/23/2009 10:45,   Product1,   1200,   Visa,   Stephanie,   Saint Charles,   United States,   1/23/2009 08:46,   2/11/2009 17:57,   -88.30861,   41.91417,   60174, 1440000
+01/28/2009 08:50,   Product1,   1200,   Visa,   kemp,   Brentwood,   United States,   1/28/2009 08:42,   2/11/2009 18:41,   -86.78278,   36.03306,   37027, 1440000
+01/15/2009 19:10,   Product2,   3600,   Diners,   Therese,   Pensacola,   United States,   12/29/05 21:33,   2/11/2009 18:53,   -87.21694,   30.42111,   32501, 12960000
+01/11/2009 06:09,   Product1,   1200,   Amex,   A,   Saint Petersburg,   United States,   11/8/08 4:07,   2/12/2009 04:41,   -82.67944,   27.77056,   33711, 1440000
+01/05/2009 18:55,   Product1,   1200,   Visa,   Nicole,   Mc Lean,   United States,   4/3/08 16:57,   2/12/2009 10:25,   -77.1825,   38.94222,   22101, 1440000
+01/02/2009 18:54,   Product1,   1200,   Mastercard,   Kelly,   Hendersonville,   United States,   12/7/08 4:51,   2/12/2009 11:31,   -86.62,   36.30472,   37075, 1440000
+01/22/2009 06:51,   Product1,   1200,   Visa,   Kate,   Rochester Hills,   United States,   1/22/2009 05:54,   2/12/2009 13:01,   -83.13389,   42.68056,   48307, 1440000
+01/10/2009 14:59,   Product1,   1200,   Amex,   Maricel,   Malibu,   United States,   1/10/2009 14:47,   2/12/2009 19:39,   -118.80917,   34.005,   90265, 1440000
+01/26/2009 15:42,   Product1,   1200,   Visa,   Patricia,   Allen,   United States,   1/26/2009 14:38,   2/12/2009 22:41,   -96.67028,   33.10306,   75013, 1440000
+01/19/2009 07:49,   Product1,   1200,   Amex,   Maki,   Miami Beach,   United States,   1/18/2009 15:26,   2/13/2009 12:26,   -80.13028,   25.79028,   33139, 1440000
+01/06/2009 10:34,   Product1,   1200,   Mastercard,   Anja,   New York,   United States,   1/6/2009 10:03,   2/13/2009 14:41,   -74.00639,   40.71417,   10007, 1440000
+01/14/2009 16:02,   Product1,   1200,   Mastercard,   Jessica,   Woodland Hills,   United States,   1/14/2009 14:53,   2/13/2009 16:45,   -118.605,   34.16833,   91364, 1440000
+01/14/2009 18:05,   Product1,   1200,   Visa,   Wouter and Andrea,   Anchorage,   United States,   1/10/2009 03:19,   2/13/2009 17:22,   -149.90028,   61.21806,   99501, 1440000
+01/08/2009 20:52,   Product1,   1200,   Visa,   Pam and Rob,   Yorba Linda,   United States,   11/18/08 20:03,   2/13/2009 19:32,   -117.81222,   33.88861,   92886, 1440000
+01/25/2009 10:34,   Product1,   1200,   Amex,   kathleen kane,   Jamaica Plain,   United States,   1/19/2009 19:01,   2/13/2009 20:20,   -71.12083,   42.30972,   02130, 1440000
+01/29/2009 10:07,   Product1,   1200,   Visa,   cheryl,   Beverly Hills,   United States,   1/27/2009 08:42,   2/14/2009 10:01,   -118.39944,   34.07361,   90210, 1440000
+01/25/2009 12:35,   Product2,   3600,   Visa,   Charlene,   Sebastopol,   United States,   1/25/2009 10:42,   2/14/2009 10:40,   -122.82278,   38.40222,   95472, 12960000
+01/03/2009 16:56,   Product1,   1200,   Visa,   Cindy,   Glendora,   United States,   3/13/04 14:09,   2/14/2009 11:23,   -117.86444,   34.13611,   91741, 1440000
+01/25/2009 18:33,   Product1,   1200,   Visa,   Maria Macarena,   Billings,   United States,   1/23/2009 09:35,   2/14/2009 16:27,   -108.5,   45.78333,   59101, 1440000
+01/15/2009 11:43,   Product1,   1200,   Visa,   Maggie,   Libertyville,   United States,   10/24/08 19:02,   2/14/2009 17:43,   -87.95306,   42.28306,   60048, 1440000
+01/23/2009 16:30,   Product2,   3600,   Amex,   Christophe,   Temecula,   United States,   1/9/2009 15:59,   2/14/2009 19:11,   -117.1475,   33.49361,   92590, 12960000
+01/05/2009 12:57,   Product1,   1200,   Diners,   Manoj,   Boise,   United States,   1/5/2009 09:32,   2/14/2009 19:19,   -116.2025,   43.61361,   83702, 1440000
+01/29/2009 16:52,   Product1,   1200,   Visa,   Brenda,   Rock Hill,   United States,   1/25/2009 12:00,   2/14/2009 19:34,   -81.02528,   34.92472,   29730, 1440000
+01/10/2009 00:04,   Product1,   1200,   Mastercard,   Lizelle,   Mililani,   United States,   1/9/2009 23:37,   2/14/2009 19:34,   -157.96083,   21.42556,   96782, 1440000
+01/25/2009 17:48,   Product1,   1200,   Visa,   olla,   Westminster,   United States,   1/24/2009 23:48,   2/15/2009 08:08,   -105.03667,   39.83667,   80030, 1440000
+01/18/2009 12:05,   Product2,   3600,   Visa,   Keri,   Issaquah,   United States,   1/5/2009 19:24,   2/15/2009 13:40,   -122.03139,   47.53028,   98027, 12960000
+01/20/2009 14:55,   Product1,   1200,   Mastercard,   Attie,   Cypress,   United States,   9/27/08 7:22,   2/15/2009 15:23,   -118.03639,   33.81694,   90630, 1440000
+01/02/2009 18:41,   Product1,   1200,   Visa,   odile,   Lititz,   United States,   2/1/06 8:47,   2/15/2009 15:47,   -76.30722,   40.15722,   17543, 1440000
+01/21/2009 07:19,   Product1,   1200,   Visa,   Niki,   Chadds Ford,   United States,   3/5/08 11:25,   2/15/2009 16:06,   -75.59167,   39.87167,   19317, 1440000
+01/11/2009 17:52,   Product2,   3600,   Visa,   Danny,   St Thomas,   United States,   9/17/03 11:57,   2/15/2009 18:08,   -64.92111,   18.35917,   00802, 12960000
+01/16/2009 17:56,   Product1,   1200,   Mastercard,   Sarah,   Coppell,   United States,   1/16/2009 12:57,   2/15/2009 20:13,   -97.01472,   32.95444,   75019, 1440000
+01/09/2009 20:00,   Product1,   1200,   Visa,   Beckie,   Ladera Ranch,   United States,   1/6/2009 13:50,   2/15/2009 23:10,   -117.63861,   33.57056,   92694, 1440000
+01/25/2009 12:55,   Product1,   1200,   Amex,   ann,   Boca Raton,   United States,   12/6/08 15:26,   2/16/2009 06:54,   -80.08333,   26.35833,   33432, 1440000
+01/24/2009 13:35,   Product1,   1200,   Visa,   Renee,   Chaska,   United States,   5/11/06 13:27,   2/16/2009 09:00,   -93.60194,   44.78944,   55318, 1440000
+01/28/2009 13:30,   Product1,   1200,   Visa,   Catherine,   Hghlnds Ranch,   United States,   1/28/2009 13:03,   2/16/2009 09:13,   -105.01611,   39.61333,   80120, 1440000
+01/20/2009 19:08,   Product1,   1200,   Amex,   Rhonda,   Atlanta,   United States,   11/21/08 5:52,   2/16/2009 10:08,   -84.38806,   33.74889,   30334, 1440000
+01/29/2009 17:13,   Product1,   1200,   Amex,   alix,   Tenafly,   United States,   12/12/07 12:26,   2/16/2009 10:19,   -73.96333,   40.92528,   07670, 1440000
+01/13/2009 09:16,   Product1,   1200,   Visa,   Sigrun,   Nashville,   United States,   1/12/2009 20:48,   2/16/2009 12:33,   -86.78444,   36.16583,   37219, 1440000
+01/22/2009 10:59,   Product1,   1200,   Visa,   Maria,   Boyceville,   United States,   1/2/2009 14:09,   2/16/2009 14:50,   -92.04083,   45.04361,   54725, 1440000
+01/24/2009 08:45,   Product1,   1200,   Visa,   Elizabeth,   Cos Cob,   United States,   11/8/08 14:45,   2/17/2009 03:40,   -73.6,   41.03333,   06807, 1440000
+01/24/2009 17:18,   Product2,   3600,   Visa,   Charlotte,   Sterling,   United States,   2/15/08 15:34,   2/17/2009 06:26,   -77.42889,   39.00611,   20164, 12960000
+01/29/2009 08:13,   Product1,   1200,   Mastercard,   Sarah,   Ridgefield,   United States,   1/28/08 13:55,   2/17/2009 07:55,   -73.49861,   41.28139,   06877, 1440000
+01/23/2009 15:38,   Product1,   1200,   Visa,   Ronja,   Manhattan,   United States,   1/17/2009 15:05,   2/17/2009 10:58,   -74.00639,   40.71417,   10007, 1440000
+01/17/2009 20:33,   Product1,   1200,   Amex,   BURCAK,   Alpharetta,   United States,   1/9/2009 11:26,   2/17/2009 12:31,   -84.29417,   34.07528,   30009, 1440000
+01/20/2009 08:16,   Product1,   1200,   Mastercard,   christy,   Germantown,   United States,   1/6/2009 08:33,   2/17/2009 13:01,   -89.81,   35.08667,   38138, 1440000
+01/15/2009 18:12,   Product1,   1200,   Diners,   Mandy,   Hono,   United States,   1/29/07 13:21,   2/17/2009 14:17,   -157.85833,   21.30694,   96813, 1440000
+01/23/2009 13:55,   Product1,   1200,   Mastercard,   Elena,   New Rochelle,   United States,   8/7/05 15:07,   2/17/2009 15:16,   -73.78278,   40.91139,   10801, 1440000
+01/12/2009 11:48,   Product1,   1200,   Mastercard,   Lisa,   South Waterford,   United States,   7/5/07 14:58,   2/17/2009 15:29,   -70.7164,   44.1786,   04088, 1440000
+01/29/2009 15:20,   Product1,   1200,   Mastercard,   Nita and Trebor,   Washington Township,   United States,   1/18/2009 20:47,   2/17/2009 16:29,   -84.19167,   39.75889,   45402, 1440000
+01/19/2009 14:06,   Product1,   1200,   Mastercard,   Elisabeth,   Wilmington,   United States,   1/19/2009 12:41,   2/18/2009 08:18,   -77.945,   34.22556,   28401, 1440000
+01/09/2009 15:03,   Product1,   1200,   Visa,   Reto,   Seattle,   United States,   1/8/2009 18:59,   2/18/2009 15:51,   -122.33083,   47.60639,   98104, 1440000
+01/23/2009 07:04,   Product1,   1200,   Amex,   Joelle,   Rowayton,   United States,   1/20/2009 10:46,   2/18/2009 16:55,   -73.40833,   41.1175,   06851, 1440000
+01/19/2009 16:16,   Product1,   1200,   Mastercard,   Alexandria,   Lebanon,   United States,   9/3/08 19:26,   2/18/2009 19:38,   -76.41167,   40.34083,   17042, 1440000
+01/15/2009 18:08,   Product2,   3600,   Amex,   Monica,   Villanova,   United States,   1/12/2009 17:16,   2/19/2009 03:19,   -75.34944,   40.03722,   19085, 12960000
+01/12/2009 17:28,   Product1,   1200,   Amex,   Alfredo A,   Las Vegas,   United States,   12/3/08 14:12,   2/19/2009 08:09,   -115.13639,   36.175,   89101, 1440000
+01/24/2009 12:43,   Product1,   1200,   Visa,   Saeko,   Warwick,   United States,   2/2/08 16:37,   2/19/2009 10:28,   -74.36028,   41.25639,   10990, 1440000
+01/07/2009 10:49,   Product2,   3600,   Visa,   VIOLETA,   Silver Spring,   United States,   9/1/08 13:09,   2/19/2009 10:43,   -77.02639,   38.99056,   20910, 12960000
+01/11/2009 17:06,   Product1,   1200,   Visa,   Antje,   Sacramento,   United States,   9/17/08 15:12,   2/19/2009 12:05,   -121.49333,   38.58167,   95814, 1440000
+01/27/2009 06:20,   Product1,   1200,   Mastercard,   Nathalie,   Haymarket,   United States,   6/1/06 12:04,   2/19/2009 16:52,   -77.63667,   38.81194,   20169, 1440000
+01/04/2009 16:23,   Product1,   1200,   Visa,   Judith L.,   Scottsdale,   United States,   1/4/2009 16:04,   2/19/2009 19:35,   -111.89833,   33.50917,   85251, 1440000
+01/06/2009 12:26,   Product1,   1200,   Visa,   Audinet,   Cambridge,   United States,   1/6/2009 08:40,   2/19/2009 19:44,   -71.10611,   42.375,   02138, 1440000
+01/26/2009 18:38,   Product1,   1200,   Visa,   Jo,   Pembroke Pines,   United States,   10/26/08 4:24,   2/20/2009 08:09,   -80.14972,   26.01083,   33020, 1440000
+01/18/2009 13:25,   Product1,   1200,   Visa,   Melissa,   Chester,   United States,   1/15/2009 11:57,   2/20/2009 10:08,   -72.45139,   41.40306,   06412, 1440000
+01/18/2009 18:57,   Product1,   1200,   Mastercard,   isabela,   Reston,   United States,   12/31/08 8:16,   2/20/2009 11:34,   -77.34139,   38.96861,   20190, 1440000
+01/16/2009 19:13,   Product1,   1200,   Diners,   Mary,   Alpharetta,   United States,   12/26/08 9:28,   2/20/2009 13:54,   -84.29417,   34.07528,   30009, 1440000
+01/31/2009 15:25,   Product1,   1200,   Visa,   Lisa,   Ringgold,   United States,   1/28/2009 09:54,   2/20/2009 15:53,   -85.10917,   34.91583,   30736, 1440000
+01/09/2009 08:57,   Product1,   1200,   Diners,   Debora,   Wall,   United States,   1/21/08 10:27,   2/20/2009 16:45,   -74.2133,   40.1478,   07731, 1440000
+01/10/2009 15:18,   Product2,   3600,   Mastercard,   Jo,   Huntington Beach,   United States,   10/17/07 14:56,   2/20/2009 22:24,   -117.99833,   33.66028,   92648, 12960000
+01/16/2009 19:47,   Product1,   1200,   Amex,   Kristen,   Los Gatos,   United States,   1/13/2009 20:49,   2/20/2009 23:09,   -121.97361,   37.22667,   95032, 1440000
+01/17/2009 09:12,   Product1,   1200,   Amex,   Sylvia,   Alexandria,   United States,   12/26/06 14:23,   2/21/2009 04:50,   -77.04722,   38.80472,   22314, 1440000
+01/27/2009 15:09,   Product1,   1200,   Visa,   Aniko,   Random Lake,   United States,   1/15/2009 12:50,   2/21/2009 07:37,   -87.96167,   43.55222,   53075, 1440000
+01/25/2009 21:49,   Product1,   1200,   Mastercard,   Petra,   San Francisco,   United States,   1/24/2009 01:35,   2/21/2009 09:26,   -122.41833,   37.775,   94103, 1440000
+01/17/2009 14:06,   Product1,   1200,   Amex,   Ruby,   Bedford Corners,   United States,   11/28/04 18:58,   2/21/2009 13:03,   -73.7275,   41.20417,   10549, 1440000
+01/12/2009 12:00,   Product1,   1200,   Mastercard,   Tammy,   Milford,   United States,   7/6/08 8:49,   2/21/2009 18:45,   -68.64444,   44.94611,   04461, 1440000
+01/25/2009 20:15,   Product1,   1200,   Visa,   Brian,   Croton On Hudson,   United States,   1/23/2009 22:33,   2/22/2009 11:51,   -73.887,   41.2219,   10520, 1440000
+01/30/2009 09:00,   Product1,   1200,   Mastercard,   james,   Nashville,   United States,   7/4/07 21:35,   2/22/2009 15:58,   -86.78444,   36.16583,   37219, 1440000
+01/04/2009 10:18,   Product1,   1200,   Mastercard,   Allison,   Naples,   United States,   11/8/08 9:42,   2/22/2009 18:36,   -81.795,   26.14167,   34102, 1440000
+01/23/2009 14:57,   Product1,   1200,   Mastercard,   Surat,   Bridgewater,   United States,   7/29/08 12:00,   2/22/2009 18:48,   -74.6244,   40.5945,   08807, 1440000
+01/12/2009 10:08,   Product2,   3600,   Mastercard,   Judy,   Washington,   United States,   5/31/08 12:03,   2/22/2009 18:58,   -77.03667,   38.895,   20004, 12960000
+01/26/2009 15:16,   Product1,   1200,   Visa,   Megan,   Huntersville,   United States,   12/22/08 20:09,   2/23/2009 05:14,   -80.84306,   35.41056,   28078, 1440000
+01/15/2009 15:56,   Product2,   3600,   Visa,   Charmain,   Cartersburg,   United States,   1/2/08 10:51,   2/23/2009 06:24,   -86.46361,   39.69861,   46168, 12960000
+01/02/2009 20:47,   Product1,   1200,   Visa,   Katharina,   Flower Mound,   United States,   9/23/08 20:57,   2/23/2009 06:56,   -97.09667,   33.01444,   75022, 1440000
+01/25/2009 09:36,   Product1,   1200,   Visa,   Zaneta,   Rochester,   United States,   1/24/2009 10:36,   2/23/2009 06:58,   -83.13389,   42.68056,   48307, 1440000
+01/06/2009 18:10,   Product1,   1200,   Visa,   Cherie,   Columbus,   United States,   12/22/08 14:12,   2/23/2009 11:35,   -82.99889,   39.96111,   43215, 1440000
+01/31/2009 06:14,   Product1,   1200,   Diners,   Scott,   Sag Harbor,   United States,   6/27/08 4:15,   2/23/2009 13:36,   -72.29306,   40.99778,   11963, 1440000
+01/06/2009 09:31,   Product1,   1200,   Visa,   Frances,   San Diego,   United States,   1/4/2009 03:18,   2/23/2009 15:39,   -117.15639,   32.71528,   92101, 1440000
+01/21/2009 07:31,   Product1,   1200,   Mastercard,   Beatrice,   Wilmington,   United States,   3/25/08 13:23,   2/23/2009 16:29,   -75.54694,   39.74583,   19801, 1440000
+01/29/2009 12:10,   Product1,   1200,   Amex,   Alison,   Issaquah,   United States,   11/1/07 21:25,   2/23/2009 21:58,   -122.19944,   47.61056,   98004, 1440000
+01/08/2009 19:26,   Product2,   3600,   Visa,   Christian,   Mableton,   United States,   11/30/07 10:44,   2/24/2009 08:22,   -84.5825,   33.81861,   30126, 12960000
+01/10/2009 16:02,   Product1,   1200,   Visa,   Hollie,   San Diego,   United States,   10/12/07 13:03,   2/24/2009 08:32,   -117.15639,   32.71528,   92101, 1440000
+01/23/2009 13:13,   Product1,   1200,   Mastercard,   Malahat,   Minneapolis,   United States,   4/3/07 12:56,   2/24/2009 08:46,   -93.26361,   44.98,   55401, 1440000
+01/27/2009 14:42,   Product2,   3600,   Mastercard,   Jean,   Arlington,   United States,   1/8/2009 11:01,   2/24/2009 16:38,   -77.08444,   38.89028,   22201, 12960000
+01/29/2009 12:16,   Product1,   1200,   Mastercard,   Jessica,   Chiefland,   United States,   1/27/2009 15:56,   2/24/2009 18:29,   -82.86,   29.47472,   32626, 1440000
+01/19/2009 17:40,   Product1,   1200,   Visa,   Riche Lou,   Newton,   United States,   3/12/07 7:21,   2/25/2009 02:28,   -71.20972,   42.33694,   02459, 1440000
+01/30/2009 10:31,   Product1,   1200,   Mastercard,   lorna,   Castle Rock,   United States,   10/6/08 16:31,   2/25/2009 07:42,   -104.85556,   39.37222,   80104, 1440000
+01/01/2009 16:44,   Product1,   1200,   Amex,   Julie,   Rockville,   United States,   9/12/08 10:36,   2/25/2009 10:48,   -77.15306,   39.08389,   20850, 1440000
+01/25/2009 11:35,   Product3,   7500,   Mastercard,   Anita,   Fresno,   United States,   1/24/2009 09:24,   2/25/2009 14:22,   -95.44722,   29.53861,   77545, 56250000
+01/26/2009 14:02,   Product1,   1200,   Mastercard,   Veronique,   Fresno,   United States,   1/24/2009 09:24,   2/25/2009 14:22,   -95.44722,   29.53861,   77545, 1440000
+01/16/2009 10:27,   Product1,   1200,   Mastercard,   Maki,   Montgomery,   United States,   1/15/2009 08:52,   2/25/2009 17:24,   -95.69611,   30.38806,   77356, 1440000
+01/25/2009 18:33,   Product1,   1200,   Mastercard,   Sarah,   Manteno,   United States,   1/25/2009 15:56,   2/25/2009 19:27,   -87.83139,   41.25056,   60950, 1440000
+01/12/2009 17:19,   Product2,   3600,   Diners,   elizabeth r,   Winter Haven,   United States,   1/12/2009 16:18,   2/26/2009 00:42,   -81.73306,   28.02194,   33880, 12960000
+01/15/2009 15:22,   Product1,   1200,   Visa,   Sara,   Fort Lauderdale,   United States,   1/6/2009 18:19,   2/26/2009 05:52,   -80.14361,   26.12194,   33301, 1440000
+01/26/2009 05:38,   Product2,   3600,   Amex,   Tulin,   Cranberry Twp,   United States,   9/28/08 19:40,   2/26/2009 06:04,   -80.13111,   40.69472,   16066, 12960000
+01/24/2009 10:38,   Product1,   1200,   Visa,   Kenneth,   Arlington,   United States,   1/24/2009 09:27,   2/26/2009 06:08,   -77.08444,   38.89028,   22201, 1440000
+01/02/2009 07:30,   Product1,   1200,   Mastercard,   Fiona,   Lake Ronkonkoma,   United States,   10/27/08 0:00,   2/26/2009 06:14,   -73.13167,   40.835,   11767, 1440000
+01/26/2009 06:38,   Product1,   1200,   Visa,   Christian,   Alexandria,   United States,   1/25/2009 10:13,   2/26/2009 07:16,   -77.04722,   38.80472,   22314, 1440000
+01/26/2009 08:00,   Product1,   1200,   Amex,   Elizabeth,   Bluffton,   United States,   1/23/2009 11:12,   2/26/2009 07:49,   -80.86056,   32.23694,   29910, 1440000
+01/11/2009 08:41,   Product1,   1200,   Amex,   Juliann,   Winter Spgs,   United States,   1/8/08 7:24,   2/26/2009 08:17,   -81.30833,   28.69861,   32708, 1440000
+01/21/2009 10:32,   Product1,   1200,   Mastercard,   Julie,   Chelmsford,   United States,   5/23/07 11:55,   2/26/2009 08:38,   -71.36778,   42.59972,   01824, 1440000
+01/31/2009 18:12,   Product1,   1200,   Visa,   matthew,   Cincinnati,   United States,   4/2/06 11:49,   2/26/2009 12:03,   -84.45694,   39.16194,   45212, 1440000
+01/22/2009 15:35,   Product1,   1200,   Visa,   Steven,   Houston,   United States,   2/24/08 16:57,   2/26/2009 12:06,   -95.36306,   29.76306,   77002, 1440000
+01/05/2009 11:24,   Product1,   1200,   Amex,   Angie,   Rodeo,   United States,   1/25/08 16:50,   2/26/2009 12:15,   -122.2875,   38.01722,   94547, 1440000
+01/23/2009 11:23,   Product1,   1200,   Mastercard,   Lauren,   Poughkeepsie,   United States,   8/26/08 9:37,   2/26/2009 12:17,   -73.92139,   41.70028,   12601, 1440000
+01/07/2009 20:55,   Product1,   1200,   Mastercard,   Esther,   Cincinnati,   United States,   1/7/2009 20:25,   2/26/2009 12:24,   -84.45694,   39.16194,   45212, 1440000
+01/13/2009 09:40,   Product1,   1200,   Visa,   Elizabeth,   North Eastham,   United States,   1/26/05 19:09,   2/26/2009 12:45,   -69.99167,   41.865,   02642, 1440000
+01/25/2009 15:18,   Product2,   3600,   Visa,   marie-louise,   Sitka,   United States,   3/2/08 15:27,   2/26/2009 12:58,   -135.33,   57.05306,   99835, 12960000
+01/13/2009 07:09,   Product2,   3600,   Amex,   John,   Chicago,   United States,   1/8/2009 13:49,   2/26/2009 15:14,   -87.65,   41.85,   60608, 12960000
+01/03/2009 11:03,   Product1,   1200,   Mastercard,   paula,   Sammamish,   United States,   1/1/2009 22:43,   2/26/2009 15:30,   -122.07917,   47.64194,   98074, 1440000
+01/05/2009 07:55,   Product1,   1200,   Mastercard,   Isabelle,   Ewa Beach,   United States,   12/31/08 7:40,   2/26/2009 17:47,   -158.00722,   21.31556,   96706, 1440000
+01/25/2009 14:40,   Product1,   1200,   Visa,   Maureen,   Statesville,   United States,   1/25/2009 13:52,   2/26/2009 18:38,   -80.8875,   35.7825,   28677, 1440000
+01/25/2009 17:55,   Product1,   1200,   Visa,   David,   Kapaa,   United States,   1/24/2009 12:18,   2/26/2009 20:21,   -159.32194,   22.07833,   96746, 1440000
+01/03/2009 12:54,   Product1,   1200,   Diners,   caterina,   Burbank,   United States,   12/30/08 8:39,   2/26/2009 20:22,   -118.30806,   34.18083,   91502, 1440000
+01/10/2009 09:32,   Product2,   3600,   Mastercard,   Cheryl,   Hilton Head,   United States,   1/10/05 21:39,   2/27/2009 07:33,   -80.75278,   32.21611,   29926, 12960000
+01/22/2009 12:45,   Product3,   7500,   Visa,   Frank and Christelle,   Valley Center,   United States,   1/22/2009 10:25,   2/27/2009 10:49,   -117.03333,   33.21833,   92082, 56250000
+01/06/2009 18:11,   Product2,   3600,   Mastercard,   Triona,   Swampscott,   United States,   6/9/06 8:57,   2/27/2009 13:00,   -70.91806,   42.47083,   01907, 12960000
+01/25/2009 10:50,   Product1,   1200,   Diners,   Phillip,   San Antonio,   United States,   5/29/08 19:51,   2/27/2009 14:44,   -98.49333,   29.42389,   78205, 1440000
+01/14/2009 08:38,   Product1,   1200,   Visa,   jingyan,   Bristol,   United States,   3/12/07 15:14,   2/27/2009 17:13,   -71.26667,   41.67694,   02809, 1440000
+01/07/2009 18:15,   Product1,   1200,   Mastercard,   Selma,   Greenville,   United States,   1/5/2009 18:16,   2/27/2009 19:07,   -96.11056,   33.13833,   75401, 1440000
+01/03/2009 21:19,   Product1,   1200,   Visa,   Doug and Tina,   Pls Vrds Est,   United States,   12/24/07 22:59,   2/27/2009 21:40,   -118.38917,   33.80056,   90274, 1440000
+01/29/2009 13:25,   Product1,   1200,   Diners,   Hale,   Morrison,   United States,   11/3/05 18:14,   2/28/2009 08:27,   -105.19056,   39.65361,   80465, 1440000
+01/23/2009 10:04,   Product1,   1200,   Mastercard,   Kevin,   Hollywood,   United States,   5/30/06 20:25,   2/28/2009 09:59,   -118.32583,   34.09833,   90028, 1440000
+01/28/2009 11:19,   Product1,   1200,   Visa,   christal,   Morrison,   United States,   6/20/04 17:16,   2/28/2009 17:18,   -105.19056,   39.65361,   80465, 1440000
+01/07/2009 17:48,   Product1,   1200,   Mastercard,   Alex,   Augusta,   United States,   6/10/05 20:25,   2/28/2009 19:57,   -82.07583,   33.51722,   30907, 1440000
+01/01/2009 04:24,   Product3,   7500,   Amex,   Pamela,   Skaneateles,   United States,   12/28/08 17:28,   3/1/2009 07:21,   -76.42944,   42.94694,   13152, 56250000
+01/12/2009 21:30,   Product1,   1200,   Visa,   Julia,   Madison,   United States,   11/17/08 22:24,   3/1/2009 10:14,   -89.40111,   43.07306,   53715, 1440000
+01/02/2009 06:17,   Product1,   1200,   Mastercard,   carolina,   Basildon,   United Kingdom,   1/2/2009 06:00,   1/2/2009 06:08,   -1.1166667,   51.5,   , 1440000
+01/06/2009 07:45,   Product2,   3600,   Visa,   Sabine,   London,   United Kingdom,   1/6/2009 07:00,   1/6/2009 09:17,   0.14559,   51.52721,   , 12960000
+01/06/2009 12:56,   Product1,   1200,   Visa,   Jeremy,   Manchester,   United Kingdom,   1/6/2009 10:58,   1/6/2009 13:31,   -2.2166667,   53.5,   , 1440000
+01/02/2009 02:57,   Product1,   1200,   Visa,   chris,   London,   United Kingdom,   1/3/08 7:23,   1/7/2009 13:14,   0.14559,   51.52721,   , 1440000
+01/09/2009 15:58,   Product1,   1200,   Mastercard,   Sari,   Newbury,   United Kingdom,   1/9/2009 14:53,   1/10/2009 13:16,   -1.3166667,   51.4,   , 1440000
+01/02/2009 06:07,   Product1,   1200,   Visa,   Cindy,   Kemble,   United Kingdom,   12/30/08 10:21,   1/12/2009 02:24,   -2.0180556,   51.6766667,   , 1440000
+01/04/2009 13:56,   Product1,   1200,   Mastercard,   Tamar,   Headley,   United Kingdom,   11/29/07 9:23,   1/12/2009 05:38,   -0.8166667,   51.1166667,   , 1440000
+01/12/2009 05:18,   Product1,   1200,   Mastercard,   Bernadett,   Southampton,   United Kingdom,   1/12/2009 04:45,   1/12/2009 08:08,   -1.4,   50.9,   , 1440000
+01/11/2009 10:38,   Product1,   1200,   Mastercard,   AnaPaula,   Helens Bay,   United Kingdom,   9/4/08 9:26,   1/13/2009 02:36,   -5.7333333,   54.65,   , 1440000
+01/10/2009 14:03,   Product1,   1200,   Mastercard,   Kevin,   Cheltenham,   United Kingdom,   3/13/06 4:56,   1/14/2009 02:22,   -2.0833333,   51.9,   , 1440000
+01/08/2009 07:26,   Product1,   1200,   Mastercard,   anne,   Bournemouth,   United Kingdom,   1/25/08 15:46,   1/15/2009 01:36,   -1.8833333,   50.7166667,   , 1440000
+01/15/2009 10:24,   Product1,   1200,   Visa,   Grace,   York,   United Kingdom,   1/13/2009 12:30,   1/17/2009 04:42,   -1.0833333,   53.9666667,   , 1440000
+01/09/2009 15:32,   Product1,   1200,   Diners,   Nicole,   Basingstoke,   United Kingdom,   1/7/2009 12:31,   1/17/2009 12:03,   -1.0833333,   51.2666667,   , 1440000
+01/18/2009 11:34,   Product2,   3600,   Visa,   Cheryl,   New Malden,   United Kingdom,   10/28/05 14:57,   1/18/2009 10:27,   -0.25,   51.4166667,   , 12960000
+01/18/2009 04:38,   Product1,   1200,   Visa,   Doug,   Bishop Auckland,   United Kingdom,   12/28/07 13:39,   1/18/2009 11:58,   -1.6666667,   54.65,   , 1440000
+01/19/2009 11:12,   Product1,   1200,   Visa,   Melissa,   Aberdeen,   United Kingdom,   8/27/08 8:22,   1/20/2009 00:35,   -2.1,   57.1333333,   , 1440000
+01/20/2009 03:11,   Product1,   1200,   Visa,   Randy,   Wigan,   United Kingdom,   1/20/2009 03:02,   1/20/2009 03:06,   -2.6166667,   53.5333333,   , 1440000
+01/20/2009 05:50,   Product1,   1200,   Visa,   Jessica,   Abbey Town,   United Kingdom,   1/20/2009 04:23,   1/20/2009 07:46,   -3.2833333,   54.8333333,   , 1440000
+01/03/2009 08:29,   Product1,   1200,   Visa,   Genevieve,   Milton Keynes,   United Kingdom,   10/10/08 1:26,   1/20/2009 11:31,   -0.7,   52.0333333,   , 1440000
+01/21/2009 02:15,   Product1,   1200,   Visa,   Kevin,   London,   United Kingdom,   1/8/2009 02:50,   1/22/2009 13:46,   0.14559,   51.52721,   , 1440000
+01/06/2009 04:18,   Product1,   1200,   Visa,   Lina,   Edinburgh,   United Kingdom,   1/6/2009 03:38,   1/23/2009 03:22,   -3.2,   55.95,   , 1440000
+01/14/2009 03:09,   Product1,   1200,   Mastercard,   Angela,   Newburgh,   United Kingdom,   4/25/07 5:08,   1/24/2009 02:12,   -3.25,   56.3333333,   , 1440000
+01/24/2009 09:01,   Product2,   3600,   Visa,   Barbara,   Kirriemuir,   United Kingdom,   1/24/2009 08:02,   1/24/2009 08:02,   -3,   56.6666667,   , 12960000
+01/11/2009 07:10,   Product2,   3600,   Visa,   LAURIE,   Guildford,   United Kingdom,   3/7/06 5:47,   1/24/2009 14:54,   -0.5666667,   51.2166667,   , 12960000
+01/11/2009 15:59,   Product1,   1200,   Visa,   kirsten,   Bishops Stortford,   United Kingdom,   1/17/06 8:51,   1/25/2009 03:03,   0.1666667,   51.8666667,   , 1440000
+01/01/2009 09:21,   Product1,   1200,   Diners,   Babs,   Blackpool,   United Kingdom,   1/1/2009 08:05,   1/25/2009 10:52,   -3.05,   53.8166667,   , 1440000
+01/11/2009 11:36,   Product1,   1200,   Mastercard,   Hollyn,   London,   United Kingdom,   10/14/08 14:23,   1/25/2009 11:16,   -0.08895,   51.51334,   , 1440000
+01/07/2009 04:45,   Product1,   1200,   Amex,   Jeremy,   London,   United Kingdom,   1/7/2009 04:30,   1/26/2009 08:01,   0.14559,   51.52721,   , 1440000
+01/26/2009 08:58,   Product1,   1200,   Diners,   Miss,   London,   United Kingdom,   1/26/2009 08:46,   1/26/2009 11:14,   0.14559,   51.52721,   , 1440000
+01/05/2009 05:33,   Product1,   1200,   Mastercard,   Kim,   London,   United Kingdom,   12/8/05 13:22,   1/27/2009 04:49,   0.14559,   51.52721,   , 1440000
+01/27/2009 05:10,   Product1,   1200,   Visa,   anissa,   Slough,   United Kingdom,   1/15/2009 10:07,   1/27/2009 04:51,   -0.5833333,   51.5,   , 1440000
+01/02/2009 15:18,   Product1,   1200,   Diners,   Brenda,   Saffron Walden,   United Kingdom,   9/1/04 2:08,   1/28/2009 01:26,   0.25,   52.0166667,   , 1440000
+01/28/2009 07:07,   Product1,   1200,   Visa,   Kevin,   Berkeswell,   United Kingdom,   1/28/2009 06:57,   1/28/2009 07:18,   -1.6333333,   52.4,   , 1440000
+01/24/2009 04:01,   Product1,   1200,   Visa,   breon,   Leighton Buzzard,   United Kingdom,   1/7/06 10:56,   1/28/2009 10:12,   -0.65,   51.9166667,   , 1440000
+01/02/2009 05:14,   Product1,   1200,   Visa,   Dr. Donald,   Stockton-on-Tees,   United Kingdom,   1/1/05 6:03,   1/28/2009 11:07,   -1.4166667,   54.5833333,   , 1440000
+01/13/2009 08:20,   Product1,   1200,   Mastercard,   Zane,   Warlingham,   United Kingdom,   3/4/05 5:51,   1/29/2009 03:25,   -0.05,   51.3,   , 1440000
+01/13/2009 11:31,   Product1,   1200,   Visa,   Anett,   Gosport,   United Kingdom,   1/9/2009 11:30,   1/29/2009 12:48,   -1.1333333,   50.8,   , 1440000
+01/05/2009 11:21,   Product1,   1200,   Visa,   pirunkit,   Petworth,   United Kingdom,   1/5/2009 05:46,   1/30/2009 05:54,   -0.6,   50.9833333,   , 1440000
+01/31/2009 09:12,   Product1,   1200,   Visa,   Nanci,   Reading,   United Kingdom,   8/28/08 10:22,   1/31/2009 09:08,   -1,   51.4333333,   , 1440000
+01/31/2009 09:00,   Product1,   1200,   Visa,   ciara and mike,   London,   United Kingdom,   1/31/2009 08:32,   1/31/2009 10:07,   -0.08895,   51.51334,   , 1440000
+01/22/2009 12:32,   Product1,   1200,   Mastercard,   Tejal,   London,   United Kingdom,   1/2/08 9:51,   1/31/2009 14:43,   0.14559,   51.52721,   , 1440000
+01/26/2009 04:53,   Product1,   1200,   Visa,   Gerardo,   London,   United Kingdom,   1/26/2009 04:12,   2/1/2009 09:48,   0.14559,   51.52721,   , 1440000
+01/09/2009 03:38,   Product1,   1200,   Visa,   Ravinder,   Lurgan,   United Kingdom,   6/3/08 4:22,   2/1/2009 11:53,   -6.3333333,   54.4666667,   , 1440000
+01/05/2009 13:07,   Product1,   1200,   Visa,   Amanda,   Shenfield,   United Kingdom,   1/2/2009 14:27,   2/1/2009 22:27,   0.3166667,   51.6166667,   , 1440000
+01/15/2009 15:26,   Product1,   1200,   Visa,   Sarah,   Bolton,   United Kingdom,   1/15/2009 08:16,   2/2/2009 00:53,   -2.4333333,   53.5833333,   , 1440000
+01/08/2009 08:11,   Product1,   1200,   Diners,   Karin,   High Wycombe,   United Kingdom,   1/8/2009 07:00,   2/3/2009 01:54,   -0.7666667,   51.6333333,   , 1440000
+01/24/2009 10:23,   Product1,   1200,   Visa,   DD,   York,   United Kingdom,   8/19/08 12:58,   2/3/2009 12:57,   -1.0833333,   53.9666667,   , 1440000
+01/01/2009 16:00,   Product1,   1200,   Visa,   Toni,   Bolton,   United Kingdom,   10/7/08 15:19,   2/3/2009 16:45,   -2.4333333,   53.5833333,   , 1440000
+01/16/2009 12:47,   Product1,   1200,   Visa,   Luc1nda,   London,   United Kingdom,   12/12/04 15:18,   2/4/2009 02:13,   0.14559,   51.52721,   , 1440000
+01/02/2009 07:47,   Product1,   1200,   Diners,   Naseer,   London,   United Kingdom,   12/8/08 6:45,   2/4/2009 08:50,   -0.1166667,   51.5,   , 1440000
+01/10/2009 08:13,   Product1,   1200,   Mastercard,   Eleanor,   Edinburgh,   United Kingdom,   7/31/08 22:34,   2/4/2009 13:08,   -3.2,   55.95,   , 1440000
+01/27/2009 02:32,   Product1,   1200,   Visa,   Glenn,   Perth,   United Kingdom,   6/27/06 9:12,   2/5/2009 03:15,   -3.4333333,   56.4,   , 1440000
+01/18/2009 13:36,   Product1,   1200,   Amex,   Family in,   London,   United Kingdom,   4/23/05 9:46,   2/5/2009 03:17,   -0.08895,   51.51334,   , 1440000
+01/18/2009 11:42,   Product1,   1200,   Visa,   Jodi,   Sutton Valence,   United Kingdom,   11/17/08 10:30,   2/5/2009 06:21,   0.5833333,   51.2,   , 1440000
+01/30/2009 11:56,   Product1,   1200,   Mastercard,   Whitney,   Dumbleton,   United Kingdom,   7/31/08 13:46,   2/6/2009 00:04,   -1.9666667,   52.0166667,   , 1440000
+01/14/2009 01:28,   Product1,   1200,   Mastercard,   Sabine,   Milton Keynes,   United Kingdom,   6/24/06 15:10,   2/7/2009 00:26,   -0.7,   52.0333333,   , 1440000
+01/05/2009 15:23,   Product1,   1200,   Visa,   maggie,   Stockton,   United Kingdom,   6/12/08 10:59,   2/7/2009 11:08,   -2.7,   52.25,   , 1440000
+01/24/2009 07:18,   Product2,   3600,   Visa,   Kathryn,   Kirriemuir,   United Kingdom,   1/23/2009 10:31,   2/8/2009 02:52,   -3,   56.6666667,   , 12960000
+01/14/2009 12:33,   Product1,   1200,   Visa,   SUSAN,   Oxford,   United Kingdom,   9/11/08 23:23,   2/8/2009 23:00,   -1.25,   51.75,   , 1440000
+01/01/2009 12:42,   Product1,   1200,   Visa,   ashton,   Exeter,   United Kingdom,   12/15/08 1:16,   2/9/2009 02:52,   -3.5333333,   50.7,   , 1440000
+01/15/2009 05:11,   Product2,   3600,   Visa,   Pam,   London,   United Kingdom,   7/11/06 12:43,   2/9/2009 04:42,   0.14559,   51.52721,   , 12960000
+01/19/2009 10:13,   Product2,   3600,   Mastercard,   Pavel,   London,   United Kingdom,   2/28/06 5:35,   2/9/2009 06:57,   -0.08895,   51.51334,   , 12960000
+01/08/2009 03:29,   Product1,   1200,   Visa,   amanda,   Liverpool,   United Kingdom,   12/22/08 1:41,   2/9/2009 14:06,   -3,   53.4166667,   , 1440000
+01/07/2009 13:28,   Product1,   1200,   Visa,   Elizabeth,   Calne,   United Kingdom,   1/4/2009 13:07,   2/10/2009 12:39,   -2,   51.4333333,   , 1440000
+01/02/2009 14:14,   Product1,   1200,   Diners,   Aaron,   Reading,   United Kingdom,   11/16/08 15:49,   2/10/2009 16:38,   -1,   51.4333333,   , 1440000
+01/28/2009 16:17,   Product1,   1200,   Mastercard,   Zoe,   Coventry,   United Kingdom,   1/28/2009 15:59,   2/10/2009 19:55,   -1.55,   52.4166667,   , 1440000
+01/04/2009 12:53,   Product1,   1200,   Diners,   Kayla,   Leamington Spa,   United Kingdom,   12/11/08 7:35,   2/11/2009 00:04,   -1.5333333,   52.3,   , 1440000
+01/08/2009 02:46,   Product1,   1200,   Mastercard,   Ken,   Sidcup,   United Kingdom,   11/26/07 16:44,   2/11/2009 11:00,   0.1166667,   51.4166667,   , 1440000
+01/04/2009 04:05,   Product1,   1200,   Mastercard,   Samantha,   Watford,   United Kingdom,   12/31/08 8:33,   2/12/2009 12:29,   -0.4,   51.6666667,   , 1440000
+01/19/2009 06:50,   Product1,   1200,   Visa,   Erika,   Redruth,   United Kingdom,   1/6/2009 13:29,   2/13/2009 04:27,   -5.2333333,   50.2333333,   , 1440000
+01/13/2009 13:36,   Product1,   1200,   Visa,   Louise,   London,   United Kingdom,   5/16/06 9:10,   2/13/2009 06:41,   0.14559,   51.52721,   , 1440000
+01/20/2009 05:53,   Product1,   1200,   Diners,   Ashlee,   Oxford,   United Kingdom,   1/14/2009 04:35,   2/13/2009 14:15,   -1.25,   51.75,   , 1440000
+01/09/2009 14:55,   Product1,   1200,   Visa,   John,   Banbury,   United Kingdom,   1/8/2009 16:23,   2/14/2009 07:27,   -1.3333333,   52.05,   , 1440000
+01/27/2009 03:19,   Product1,   1200,   Mastercard,   Astrid,   Canterbury,   United Kingdom,   1/27/2009 01:01,   2/14/2009 13:35,   1.0833333,   51.2666667,   , 1440000
+01/22/2009 05:39,   Product2,   3600,   Visa,   Eman,   Penclawdd,   United Kingdom,   1/14/2009 13:33,   2/15/2009 08:34,   -4.1,   51.6333333,   , 12960000
+01/22/2009 09:48,   Product2,   3600,   Mastercard,   Jyoti,   Tunbridge Wells,   United Kingdom,   1/8/08 14:37,   2/15/2009 13:36,   0.2833333,   51.1333333,   , 12960000
+01/02/2009 07:03,   Product1,   1200,   Visa,   gail,   London,   United Kingdom,   5/24/08 11:10,   2/15/2009 16:04,   0.14559,   51.52721,   , 1440000
+01/02/2009 05:33,   Product1,   1200,   Visa,   Mike,   Aberdeen,   United Kingdom,   10/18/04 4:53,   2/16/2009 11:12,   -2.1,   57.1333333,   , 1440000
+01/25/2009 07:29,   Product1,   1200,   Diners,   Howard,   Worcester,   United Kingdom,   1/22/2009 14:02,   2/17/2009 03:00,   -2.2,   52.2,   , 1440000
+01/29/2009 23:48,   Product1,   1200,   Visa,   Matt,   Leicester,   United Kingdom,   11/15/08 6:49,   2/17/2009 05:47,   -1.1333333,   52.6333333,   , 1440000
+01/11/2009 04:34,   Product1,   1200,   Visa,   William,   Chalfont Saint Peter,   United Kingdom,   4/26/06 10:12,   2/19/2009 21:38,   -0.55,   51.6,   , 1440000
+01/17/2009 06:39,   Product1,   1200,   Diners,   Tatjana and Martin,   Birmingham,   United Kingdom,   1/12/08 7:00,   2/19/2009 23:30,   -1.9166667,   52.4666667,   , 1440000
+01/25/2009 08:48,   Product1,   1200,   Mastercard,   Malinda,   Oxford,   United Kingdom,   4/5/08 13:20,   2/21/2009 01:36,   -1.25,   51.75,   , 1440000
+01/24/2009 13:38,   Product1,   1200,   Mastercard,   Cathy,   Kidderminster,   United Kingdom,   12/22/08 3:57,   2/22/2009 00:00,   -2.25,   52.3833333,   , 1440000
+01/12/2009 13:41,   Product1,   1200,   Amex,   dia,   Claygate,   United Kingdom,   8/19/07 15:23,   2/22/2009 03:51,   -0.35,   51.35,   , 1440000
+01/31/2009 07:13,   Product1,   1200,   Amex,   Sean,   London,   United Kingdom,   1/3/08 14:59,   2/22/2009 07:12,   0.14559,   51.52721,   , 1440000
+01/21/2009 02:07,   Product1,   1200,   Mastercard,   Caroline and Jonathan,   Chichester,   United Kingdom,   2/14/06 14:43,   2/24/2009 03:29,   -0.7833333,   50.8333333,   , 1440000
+01/04/2009 14:27,   Product1,   1200,   Visa,   Carole,   Cardiff,   United Kingdom,   12/14/05 10:47,   2/24/2009 07:30,   -3.2,   51.5,   , 1440000
+01/05/2009 15:15,   Product1,   1200,   Amex,   Amy,   Ashford,   United Kingdom,   8/18/05 2:04,   2/24/2009 10:35,   0.8833333,   51.1333333,   , 1440000
+01/25/2009 09:27,   Product1,   1200,   Visa,   erin,   London,   United Kingdom,   9/4/06 14:35,   2/24/2009 13:37,   0.14559,   51.52721,   , 1440000
+01/07/2009 09:54,   Product1,   1200,   Visa,   Julie,   Ashford,   United Kingdom,   1/7/2009 09:17,   2/25/2009 10:18,   -4.1,   51.1,   , 1440000
+01/15/2009 11:45,   Product1,   1200,   Diners,   Simone,   Watford,   United Kingdom,   9/4/08 3:01,   2/25/2009 15:21,   -0.4,   51.6666667,   , 1440000
+01/19/2009 05:56,   Product1,   1200,   Visa,   Allison,   Edinburgh,   United Kingdom,   7/27/08 11:58,   2/27/2009 14:35,   -3.2,   55.95,   , 1440000
+01/04/2009 09:28,   Product1,   1200,   Visa,   Jen,   Maidstone,   United Kingdom,   7/18/05 14:17,   2/28/2009 02:28,   0.5166667,   51.2666667,   , 1440000
+01/02/2009 04:34,   Product1,   1200,   Visa,   gladys,   Saint Albans,   United Kingdom,   1/10/06 4:20,   2/28/2009 03:43,   -0.3333333,   51.75,   , 1440000
+01/27/2009 02:57,   Product1,   1200,   Visa,   Rosemary,   Cobham,   United Kingdom,   1/27/2009 02:50,   2/28/2009 09:22,   0.4,   51.3833333,   , 1440000
+01/19/2009 04:55,   Product1,   1200,   Visa,   Alyssa,   Brighton,   United Kingdom,   2/19/08 9:27,   2/28/2009 10:06,   -0.15,   50.8333333,   , 1440000
+01/20/2009 10:42,   Product2,   3600,   Diners,   esther,   Huddersfield,   United Kingdom,   1/20/2009 09:15,   3/1/2009 03:29,   -1.7833333,   53.65,   , 12960000
+01/22/2009 14:25,   Product1,   1200,   Visa,   Hans-Joerg,   Belfast,   United Kingdom,   11/10/08 12:15,   3/1/2009 03:37,   -5.9333333,   54.5833333,   , 1440000
+01/08/2009 11:55,   Product1,   1200,   Diners,   julie,   Haverhill,   United Kingdom,   11/29/06 13:31,   3/1/2009 07:28,   0.4333333,   52.0833333,   , 1440000
+01/14/2009 11:19,   Product1,   1200,   Visa,   Jennifer,   Jumeira,   United Arab Emirates,   1/14/2009 10:44,   1/14/2009 21:26,   55.2477778,   25.2097222,   , 1440000
+01/17/2009 09:49,   Product1,   1200,   Diners,   Kathrin,   Abu Dhabi,   United Arab Emirates,   2/27/08 20:02,   1/30/2009 08:45,   54.3666667,   24.4666667,   , 1440000
+01/10/2009 07:55,   Product1,   1200,   Visa,   Laura,   Jumeira,   United Arab Emirates,   1/7/2009 09:47,   2/1/2009 10:18,   55.2477778,   25.2097222,   , 1440000
+01/25/2009 02:46,   Product2,   3600,   Visa,   Family,   Dubai,   United Arab Emirates,   1/8/2009 01:19,   2/8/2009 02:06,   55.28,   25.2522222,   , 12960000
+01/17/2009 20:46,   Product2,   3600,   Visa,   Michelle,   Dubai,   United Arab Emirates,   4/13/08 2:36,   2/8/2009 02:12,   55.28,   25.2522222,   , 12960000
+01/20/2009 20:09,   Product1,   1200,   Visa,   Jeannette,   Dubai,   United Arab Emirates,   1/18/2009 09:58,   2/23/2009 07:01,   55.28,   25.2522222,   , 1440000
+01/11/2009 06:51,   Product1,   1200,   Visa,   Aziz,   Irpin',   Ukraine,   1/11/2009 00:00,   2/20/2009 03:46,   30.25,   50.5166667,   , 1440000
+01/02/2009 00:50,   Product1,   1200,   Visa,   Sam,   Tesvikiye,   Turkey,   1/2/2009 00:10,   1/17/2009 01:57,   29.0666667,   40.6166667,   , 1440000
+01/03/2009 09:54,   Product1,   1200,   Visa,   Sylvia,   Zekeriyakoy,   Turkey,   12/29/08 10:38,   1/19/2009 07:37,   29.0302778,   41.1980556,   , 1440000
+01/08/2009 23:00,   Product1,   1200,   Visa,   Dickson,   Kemerburgaz,   Turkey,   9/16/08 2:07,   2/17/2009 01:29,   28.9127778,   41.1594444,   , 1440000
+01/22/2009 02:16,   Product1,   1200,   Visa,   Costanza,   Beykoz,   Turkey,   9/7/08 11:43,   2/18/2009 00:27,   29.0905556,   41.1438889,   , 1440000
+01/21/2009 12:38,   Product1,   1200,   Visa,   Novy,   Istanbul,   Turkey,   2/5/07 12:43,   2/21/2009 13:55,   28.9647222,   41.0186111,   , 1440000
+01/07/2009 13:19,   Product1,   1200,   Visa,   Darian,   Izmir,   Turkey,   8/26/08 7:33,   2/28/2009 09:54,   27.1502778,   38.4072222,   , 1440000
+01/27/2009 18:06,   Product1,   1200,   Visa,   Emily,   Killarney,   The Bahamas,   1/13/2009 18:22,   2/12/2009 19:28,   -77.4166667,   25.05,   , 1440000
+01/15/2009 09:00,   Product1,   1200,   Visa,   Cormac,   Freeport City,   The Bahamas,   1/15/2009 08:10,   2/14/2009 20:36,   -78.7,   26.5333333,   , 1440000
+01/08/2009 19:29,   Product2,   3600,   Mastercard,   PATRICK,   Ban Khlong Sip,   Thailand,   1/8/2009 00:01,   2/5/2009 21:22,   100.8166667,   13.9166667,   , 12960000
+01/24/2009 23:21,   Product1,   1200,   Visa,   elaine,   Phuket,   Thailand,   1/24/2009 22:47,   2/24/2009 01:12,   98.4,   7.8833333,   , 1440000
+01/08/2009 01:59,   Product1,   1200,   Mastercard,   SYLVIA,   Vesenaz,   Switzerland,   11/28/07 11:56,   1/8/2009 07:20,   6.2,   46.2333333,   , 1440000
+01/07/2009 00:12,   Product2,   3600,   Mastercard,   Deirdre,   Lausanne,   Switzerland,   12/1/08 6:25,   1/12/2009 06:55,   6.6666667,   46.5333333,   , 12960000
+01/05/2009 13:52,   Product1,   1200,   Mastercard,   Tammy,   Morges,   Switzerland,   1/5/2009 05:55,   1/12/2009 14:04,   6.5,   46.5166667,   , 1440000
+01/18/2009 06:30,   Product1,   1200,   Visa,   Sherri,   Freienbach,   Switzerland,   6/22/08 14:10,   1/18/2009 06:21,   8.75,   47.2,   , 1440000
+01/14/2009 05:20,   Product2,   3600,   Visa,   Kristen,   Binningen,   Switzerland,   1/12/2009 13:31,   1/19/2009 13:07,   7.5666667,   47.5333333,   , 12960000
+01/05/2009 19:26,   Product1,   1200,   Visa,   katie,   Ruschlikon,   Switzerland,   1/5/2009 19:14,   1/30/2009 01:06,   8.55,   47.3,   , 1440000
+01/01/2009 12:25,   Product2,   3600,   Mastercard,   Anne-line,   Zug,   Switzerland,   3/29/05 23:14,   1/31/2009 10:58,   8.5166667,   47.1666667,   , 12960000
+01/12/2009 10:05,   Product2,   3600,   Amex,   Pamela,   Bellinzona,   Switzerland,   9/3/07 13:23,   2/2/2009 05:16,   9.0166667,   46.2,   , 12960000
+01/05/2009 08:28,   Product1,   1200,   Visa,   isabel,   Ruti,   Switzerland,   1/5/2009 05:08,   2/4/2009 22:59,   8.85,   47.25,   , 1440000
+01/25/2009 08:50,   Product1,   1200,   Mastercard,   Shane,   Zurich,   Switzerland,   1/24/2009 12:23,   2/5/2009 11:07,   8.55,   47.3666667,   , 1440000
+01/05/2009 07:47,   Product1,   1200,   Amex,   Claire,   Versoix,   Switzerland,   4/18/07 12:55,   2/5/2009 15:15,   6.1666667,   46.2833333,   , 1440000
+01/07/2009 13:01,   Product2,   3600,   Visa,   Niki,   Trelex,   Switzerland,   8/5/07 0:43,   2/6/2009 05:02,   6.2,   46.4166667,   , 12960000
+01/24/2009 13:54,   Product2,   3600,   Mastercard,   Meredith,   Kloten,   Switzerland,   1/24/2009 12:30,   2/10/2009 13:47,   8.5833333,   47.45,   , 12960000
+01/14/2009 12:55,   Product1,   1200,   Visa,   Richard and Comfort,   Regensdorf,   Switzerland,   1/11/2009 10:36,   2/11/2009 01:58,   8.4666667,   47.4333333,   , 1440000
+01/27/2009 13:08,   Product1,   1200,   Mastercard,   Melissa,   Geneve,   Switzerland,   5/9/08 8:50,   2/11/2009 02:19,   6.1666667,   46.2,   , 1440000
+01/03/2009 13:35,   Product1,   1200,   Mastercard,   Yvette,   Aubonne,   Switzerland,   8/15/08 4:02,   2/12/2009 05:17,   6.4,   46.4833333,   , 1440000
+01/13/2009 14:44,   Product2,   3600,   Visa,   george,   Zurich,   Switzerland,   12/14/08 10:19,   2/12/2009 12:08,   8.55,   47.3666667,   , 12960000
+01/24/2009 09:30,   Product1,   1200,   Visa,   Nicole,   Neuchatel,   Switzerland,   1/24/2009 05:24,   2/14/2009 13:45,   6.9666667,   47,   , 1440000
+01/28/2009 00:22,   Product1,   1200,   Visa,   VERBENA,   Basel,   Switzerland,   9/27/08 0:24,   2/15/2009 03:20,   7.6,   47.5666667,   , 1440000
+01/21/2009 23:52,   Product1,   1200,   Visa,   Sarah,   Plan-les-Ouattes,   Switzerland,   11/23/08 4:51,   2/15/2009 11:16,   6.1166667,   46.1666667,   , 1440000
+01/29/2009 01:01,   Product1,   1200,   Diners,   Suejean,   Gingins,   Switzerland,   1/20/2009 06:14,   2/16/2009 05:09,   6.1833333,   46.4,   , 1440000
+01/27/2009 03:45,   Product2,   3600,   Visa,   minjeong,   Bern,   Switzerland,   1/27/2009 02:39,   2/17/2009 03:44,   7.4666667,   46.9166667,   , 12960000
+01/12/2009 23:21,   Product1,   1200,   Mastercard,   Lusell,   Oberwil,   Switzerland,   1/6/2009 02:47,   2/17/2009 22:57,   7.55,   47.5166667,   , 1440000
+01/21/2009 11:56,   Product1,   1200,   Visa,   Katrin,   Zumikon,   Switzerland,   3/21/06 13:30,   2/19/2009 07:05,   8.6166667,   47.3333333,   , 1440000
+01/30/2009 06:18,   Product2,   3600,   Mastercard,   Louise,   Balgach,   Switzerland,   1/14/06 2:40,   2/19/2009 07:10,   9.6,   47.4166667,   , 12960000
+01/21/2009 02:20,   Product2,   3600,   Visa,   Melissa,   Carouge,   Switzerland,   1/16/2009 07:06,   2/20/2009 08:38,   6.1333333,   46.1833333,   , 12960000
+01/25/2009 13:50,   Product2,   3600,   Visa,   Scott,   Lausanne,   Switzerland,   1/25/2009 10:09,   2/22/2009 03:33,   6.6666667,   46.5333333,   , 12960000
+01/30/2009 01:09,   Product1,   1200,   Mastercard,   Tarja,   Villars,   Switzerland,   11/30/08 4:39,   2/23/2009 03:56,   7.05,   46.3,   , 1440000
+01/08/2009 11:14,   Product2,   3600,   Visa,   Liz,   Langnau,   Switzerland,   1/7/2009 10:25,   2/23/2009 07:17,   8.5333333,   47.2833333,   , 12960000
+01/30/2009 14:36,   Product1,   1200,   Visa,   danielle,   Geneve,   Switzerland,   1/30/2009 13:50,   2/24/2009 03:15,   6.1666667,   46.2,   , 1440000
+01/26/2009 06:37,   Product1,   1200,   Visa,   manuela,   Massagno,   Switzerland,   6/4/08 11:55,   2/24/2009 05:30,   8.95,   46.0166667,   , 1440000
+01/08/2009 02:49,   Product2,   3600,   Mastercard,   Caroline,   Begnins,   Switzerland,   1/7/2009 04:14,   2/25/2009 01:37,   6.25,   46.4333333,   , 12960000
+01/16/2009 05:12,   Product2,   3600,   Visa,   Karen,   Berikon,   Switzerland,   10/19/07 12:31,   2/25/2009 05:12,   8.3833333,   47.35,   , 12960000
+01/23/2009 05:52,   Product1,   1200,   Amex,   Tary,   Zug,   Switzerland,   1/23/2009 01:22,   2/25/2009 09:40,   8.5166667,   47.1666667,   , 1440000
+01/13/2009 09:26,   Product1,   1200,   Visa,   Kerry,   Anieres,   Switzerland,   1/24/06 13:15,   2/25/2009 14:05,   6.2166667,   46.2833333,   , 1440000
+01/26/2009 13:41,   Product1,   1200,   Mastercard,   Lesleigh,   Baden,   Switzerland,   10/23/05 9:23,   3/1/2009 03:11,   8.3,   47.4666667,   , 1440000
+01/05/2009 00:31,   Product1,   1200,   Mastercard,   Bonnie,   Saltsjobaden,   Sweden,   1/4/2009 23:45,   1/12/2009 00:37,   18.3,   59.2833333,   , 1440000
+01/03/2009 06:41,   Product2,   3600,   Visa,   ayelet,   Malmo,   Sweden,   8/7/08 9:24,   1/22/2009 11:24,   13,   55.6,   , 12960000
+01/25/2009 18:21,   Product1,   1200,   Visa,   Marion,   Umea,   Sweden,   1/25/2009 16:35,   1/28/2009 10:19,   20.25,   63.8333333,   , 1440000
+01/28/2009 01:38,   Product1,   1200,   Mastercard,   Kate,   Stockholm,   Sweden,   4/16/07 12:58,   1/30/2009 09:18,   18.05,   59.3333333,   , 1440000
+01/12/2009 08:13,   Product1,   1200,   Amex,   mary,   Nacka,   Sweden,   3/8/06 4:32,   2/2/2009 06:01,   18.1666667,   59.3,   , 1440000
+01/12/2009 12:22,   Product1,   1200,   Mastercard,   JP,   Tierp,   Sweden,   1/6/2009 11:34,   2/8/2009 11:15,   17.5,   60.3333333,   , 1440000
+01/27/2009 03:55,   Product1,   1200,   Amex,   R,   Danderyd,   Sweden,   9/13/06 10:09,   2/14/2009 10:37,   18.0166667,   59.4166667,   , 1440000
+01/12/2009 12:04,   Product1,   1200,   Visa,   Ed,   Nacka,   Sweden,   12/5/07 12:48,   2/14/2009 12:32,   18.1666667,   59.3,   , 1440000
+01/19/2009 13:15,   Product1,   1200,   Visa,   Esther,   Stocksund,   Sweden,   5/29/07 1:32,   2/15/2009 11:39,   18.0666667,   59.3833333,   , 1440000
+01/31/2009 11:03,   Product1,   1200,   Visa,   Diane,   Djurgarden,   Sweden,   1/25/2009 03:48,   2/16/2009 12:08,   18.1166667,   59.3166667,   , 1440000
+01/23/2009 09:09,   Product2,   3600,   Amex,   Olympe,   Lidingo,   Sweden,   1/18/06 11:49,   2/18/2009 08:45,   18.1333333,   59.3666667,   , 12960000
+01/20/2009 14:48,   Product2,   3600,   Visa,   Michael,   Norrkoping,   Sweden,   12/21/08 11:49,   2/19/2009 05:22,   16.1833333,   58.6,   , 12960000
+01/31/2009 04:50,   Product1,   1200,   Mastercard,   Detlev,   Taby,   Sweden,   1/12/2009 01:03,   2/26/2009 13:12,   18.05,   59.5,   , 1440000
+01/12/2009 07:28,   Product1,   1200,   Amex,   Megan,   La Alberca,   Spain,   12/10/08 16:41,   1/14/2009 13:44,   -1.1333333,   37.9333333,   , 1440000
+01/13/2009 14:05,   Product1,   1200,   Amex,   Christof and Heidi,   Barcelona,   Spain,   1/9/2009 07:54,   1/28/2009 07:45,   2.1833333,   41.3833333,   , 1440000
+01/27/2009 09:01,   Product1,   1200,   Visa,   Jan,   Barcelona,   Spain,   5/29/08 12:23,   2/3/2009 00:59,   2.1833333,   41.3833333,   , 1440000
+01/12/2009 11:16,   Product1,   1200,   Visa,   Karen,   Madrid,   Spain,   7/17/07 6:08,   2/6/2009 10:42,   -3.6833333,   40.4,   , 1440000
+01/27/2009 11:02,   Product1,   1200,   Mastercard,   DOREEN,   Madrid,   Spain,   1/24/2009 08:21,   2/9/2009 18:42,   -3.6833333,   40.4,   , 1440000
+01/02/2009 11:06,   Product1,   1200,   Mastercard,   Andrew,   Sevilla,   Spain,   3/12/06 15:02,   2/10/2009 10:04,   -5.9869444,   37.3772222,   , 1440000
+01/18/2009 11:03,   Product2,   3600,   Amex,   Katie,   Gava,   Spain,   1/18/2009 06:16,   2/12/2009 07:35,   2.0166667,   41.3,   , 12960000
+01/14/2009 07:30,   Product1,   1200,   Visa,   Bent Erik,   Basauri,   Spain,   2/3/08 2:56,   2/16/2009 15:04,   -2.4,   43.0166667,   , 1440000
+01/26/2009 01:14,   Product1,   1200,   Visa,   beatrice,   Churra,   Spain,   1/23/2009 01:57,   2/25/2009 05:47,   -1.1333333,   38.0166667,   , 1440000
+01/23/2009 09:27,   Product1,   1200,   Mastercard,   Jerome,   Madrid,   Spain,   2/19/08 2:01,   2/25/2009 11:38,   -3.6833333,   40.4,   , 1440000
+01/09/2009 05:15,   Product1,   1200,   Visa,   Roza,   Alcobendas,   Spain,   9/9/08 9:08,   2/26/2009 14:24,   -3.6333333,   40.5333333,   , 1440000
+01/24/2009 12:00,   Product1,   1200,   Visa,   T,   El Escorial,   Spain,   12/30/08 15:19,   2/28/2009 15:17,   -4.1166667,   40.5833333,   , 1440000
+01/04/2009 05:12,   Product1,   1200,   Visa,   DeeDee,   Songnae-dong,   South Korea,   12/30/08 8:40,   1/29/2009 16:41,   127.1166667,   37.5333333,   , 1440000
+01/05/2009 04:10,   Product1,   1200,   Mastercard,   Nicola,   Roodepoort,   South Africa,   1/5/2009 02:33,   1/7/2009 05:13,   27.8666667,   -26.1666667,   , 1440000
+01/13/2009 01:51,   Product1,   1200,   Visa,   Filip and Teresa,   Centurion,   South Africa,   1/12/2009 01:40,   1/17/2009 02:23,   28.1705556,   -25.8744444,   , 1440000
+01/16/2009 09:54,   Product1,   1200,   Mastercard,   Marian,   Durban,   South Africa,   8/3/08 18:20,   1/28/2009 06:26,   31.0166667,   -29.85,   , 1440000
+01/25/2009 01:53,   Product3,   7500,   Visa,   Michael,   Pietermaritzburg,   South Africa,   1/24/2009 12:52,   2/5/2009 04:37,   30.3833333,   -29.6166667,   , 56250000
+01/16/2009 06:13,   Product1,   1200,   Mastercard,   Niamh,   Benoni,   South Africa,   1/16/2009 05:22,   2/25/2009 23:19,   28.3166667,   -26.1833333,   , 1440000
+01/26/2009 23:28,   Product2,   3600,   Amex,   ron,   Tsaritsyno,   Russia,   12/7/06 8:26,   2/3/2009 02:10,   37.6608333,   55.6283333,   , 12960000
+01/22/2009 11:10,   Product1,   1200,   Mastercard,   Gustavo,   Voluntari,   Romania,   7/28/08 11:12,   2/28/2009 07:52,   26.1333333,   44.4666667,   , 1440000
+01/08/2009 04:15,   Product1,   1200,   Visa,   Elyssa,   Gdansk,   Poland,   1/7/2009 15:00,   2/8/2009 03:50,   18.6666667,   54.35,   , 1440000
+01/28/2009 14:09,   Product1,   1200,   Visa,   giovanna,   Pruszkow,   Poland,   1/28/2009 13:40,   2/25/2009 16:19,   20.8333333,   52.1666667,   , 1440000
+01/17/2009 04:03,   Product1,   1200,   Visa,   Lisa,   Borja,   Philippines,   1/17/2009 02:45,   2/9/2009 06:09,   124.0927778,   9.9136111,   , 1440000
+01/24/2009 08:51,   Product1,   1200,   Mastercard,   Heather,   Baluan,   Philippines,   1/19/2009 11:08,   2/21/2009 10:08,   125.2163889,   6.1036111,   , 1440000
+01/11/2009 11:33,   Product1,   1200,   Visa,   Stefan,   Stavanger,   Norway,   1/11/2009 09:02,   1/12/2009 10:37,   5.75,   58.9666667,   , 1440000
+01/08/2009 13:14,   Product1,   1200,   Visa,   Dr. Claudia,   Oslo,   Norway,   1/8/2009 12:47,   1/13/2009 10:49,   10.75,   59.9166667,   , 1440000
+01/07/2009 08:21,   Product1,   1200,   Visa,   Jannik,   Holmenkollen,   Norway,   1/3/2009 11:06,   1/19/2009 06:54,   10.6666667,   59.9666667,   , 1440000
+01/21/2009 11:36,   Product1,   1200,   Visa,   nicole,   Oslo,   Norway,   12/23/08 12:02,   1/21/2009 13:47,   10.75,   59.9166667,   , 1440000
+01/01/2009 14:22,   Product1,   1200,   Mastercard,   Liban,   Stavanger,   Norway,   6/19/08 10:48,   1/22/2009 14:38,   5.75,   58.9666667,   , 1440000
+01/10/2009 03:28,   Product1,   1200,   Visa,   frauke,   Horten,   Norway,   11/24/08 15:50,   1/24/2009 15:10,   10.4669444,   59.4136111,   , 1440000
+01/15/2009 10:51,   Product1,   1200,   Mastercard,   Pia,   Sola,   Norway,   1/11/2009 08:54,   1/28/2009 10:39,   5.6,   58.8833333,   , 1440000
+01/11/2009 14:56,   Product1,   1200,   Visa,   Nicole,   Aardal,   Norway,   1/5/2009 05:51,   1/31/2009 04:21,   6.35,   61.55,   , 1440000
+01/09/2009 16:35,   Product1,   1200,   Diners,   Jennifer,   Nordstrand,   Norway,   12/29/05 9:26,   2/1/2009 04:18,   10.7905556,   59.8608333,   , 1440000
+01/06/2009 03:39,   Product1,   1200,   Visa,   Krista,   Bergen,   Norway,   9/20/05 1:58,   2/2/2009 00:08,   5.3247222,   60.3911111,   , 1440000
+01/13/2009 09:14,   Product1,   1200,   Visa,   sangeeta,   Vossevangen,   Norway,   1/9/2009 09:31,   2/10/2009 09:04,   6.4333333,   60.6333333,   , 1440000
+01/28/2009 04:35,   Product1,   1200,   Diners,   Selene,   Oslo,   Norway,   4/5/05 5:30,   2/13/2009 23:15,   10.75,   59.9166667,   , 1440000
+01/25/2009 08:16,   Product2,   3600,   Visa,   Astrid,   Oslo,   Norway,   4/22/07 2:19,   2/20/2009 23:22,   10.75,   59.9166667,   , 12960000
+01/19/2009 10:47,   Product1,   1200,   Mastercard,   David,   Stavenger,   Norway,   1/13/2009 13:53,   2/25/2009 00:40,   5.75,   58.9666667,   , 1440000
+01/22/2009 12:56,   Product1,   1200,   Visa,   Laleh,   Aasgaardstrand,   Norway,   1/20/2009 13:13,   2/25/2009 12:03,   10.4675,   59.3488889,   , 1440000
+01/02/2009 04:21,   Product1,   1200,   Visa,   Elaine,   Tranby,   Norway,   7/30/07 11:42,   2/26/2009 03:18,   10.25,   59.8166667,   , 1440000
+01/08/2009 00:04,   Product1,   1200,   Visa,   ZOE,   New Plymouth City,   New Zealand,   1/7/2009 23:34,   1/31/2009 17:47,   174.0833333,   -39.0666667,   , 1440000
+01/23/2009 14:43,   Product1,   1200,   Visa,   Madison,   Torbay,   New Zealand,   1/18/2009 11:34,   2/1/2009 21:31,   174.75,   -36.7,   , 1440000
+01/29/2009 15:03,   Product1,   1200,   Visa,   Mary,   Auckland,   New Zealand,   2/9/06 11:14,   2/10/2009 16:31,   174.7666667,   -36.8666667,   , 1440000
+01/07/2009 13:57,   Product1,   1200,   Visa,   Elsa,   Waiwera,   New Zealand,   1/7/2009 13:32,   2/13/2009 19:54,   174.7166667,   -36.55,   , 1440000
+01/17/2009 20:51,   Product1,   1200,   Visa,   Kathryn,   Waiau Pa,   New Zealand,   1/6/2009 21:52,   2/26/2009 16:19,   174.75,   -37.1333333,   , 1440000
+01/28/2009 22:02,   Product1,   1200,   Visa,   Hale,   Hawera,   New Zealand,   1/23/2009 22:31,   2/28/2009 12:43,   174.2833333,   -39.5916667,   , 1440000
+01/05/2009 05:39,   Product1,   1200,   Amex,   Heidi,   Eindhoven,   Netherlands,   1/5/2009 04:55,   1/5/2009 08:15,   5.4666667,   51.45,   , 1440000
+01/05/2009 13:17,   Product1,   1200,   Mastercard,   Stephanie,   Badhoevedorp,   Netherlands,   1/5/2009 12:45,   1/8/2009 11:45,   4.7833333,   52.3333333,   , 1440000
+01/01/2009 05:04,   Product1,   1200,   Mastercard,   Regina,   Glimmen,   Netherlands,   12/16/02 4:09,   1/15/2009 10:50,   6.6333333,   53.1333333,   , 1440000
+01/17/2009 12:59,   Product1,   1200,   Diners,   Linda,   Den Haag,   Netherlands,   10/29/08 13:09,   1/17/2009 13:07,   4.3,   52.0833333,   , 1440000
+01/01/2009 03:51,   Product1,   1200,   Mastercard,   sunny,   Amsterdam,   Netherlands,   9/14/05 22:53,   1/17/2009 22:34,   4.9166667,   52.35,   , 1440000
+01/06/2009 12:27,   Product1,   1200,   Mastercard,   Antonella,   Amsterdam,   Netherlands,   1/6/2009 12:04,   1/19/2009 04:59,   4.9166667,   52.35,   , 1440000
+01/21/2009 14:25,   Product1,   1200,   Visa,   Tricia,   Castricum,   Netherlands,   12/28/07 15:28,   1/22/2009 00:38,   4.6666667,   52.55,   , 1440000
+01/23/2009 03:30,   Product1,   1200,   Amex,   Larry,   Naarden,   Netherlands,   1/23/2009 03:27,   1/23/2009 03:40,   5.15,   52.3,   , 1440000
+01/06/2009 14:38,   Product2,   3600,   Mastercard,   Elizabeth,   Den Haag,   Netherlands,   5/14/07 12:48,   1/25/2009 03:13,   4.3,   52.0833333,   , 12960000
+01/15/2009 07:26,   Product1,   1200,   Mastercard,   Celina,   Den Haag,   Netherlands,   1/14/2009 00:00,   2/1/2009 13:17,   4.3,   52.0833333,   , 1440000
+01/27/2009 12:47,   Product1,   1200,   Visa,   Caterina,   Amsterdam,   Netherlands,   1/27/2009 12:03,   2/12/2009 12:59,   4.9166667,   52.35,   , 1440000
+01/16/2009 07:58,   Product1,   1200,   Amex,   Darrah,   Den Haag,   Netherlands,   9/30/07 4:03,   2/13/2009 03:05,   4.3,   52.0833333,   , 1440000
+01/17/2009 01:49,   Product1,   1200,   Mastercard,   Angel Marie,   Den Haag,   Netherlands,   1/13/2009 05:09,   2/15/2009 05:19,   4.3,   52.0833333,   , 1440000
+01/19/2009 15:40,   Product2,   3600,   Visa,   Julia,   Ede,   Netherlands,   1/19/2009 14:32,   2/15/2009 10:33,   5.6666667,   52.0333333,   , 12960000
+01/18/2009 12:14,   Product2,   3600,   Mastercard,   Kelsi,   Utrecht,   Netherlands,   12/12/08 3:30,   2/16/2009 12:49,   5.1333333,   52.0833333,   , 12960000
+01/23/2009 12:23,   Product1,   1200,   Mastercard,   Nola,   Den Haag,   Netherlands,   1/23/2009 11:11,   2/17/2009 03:35,   4.3,   52.0833333,   , 1440000
+01/04/2009 03:41,   Product1,   1200,   Mastercard,   Scott,   Den Haag,   Netherlands,   1/4/05 12:43,   2/20/2009 00:24,   4.3,   52.0833333,   , 1440000
+01/12/2009 05:50,   Product3,   7500,   Mastercard,   Brona,   Den Haag,   Netherlands,   1/4/05 12:43,   2/20/2009 00:24,   4.3,   52.0833333,   , 56250000
+01/30/2009 23:49,   Product2,   3600,   Visa,   Stephanie,   Hilversum,   Netherlands,   11/30/08 11:54,   2/21/2009 14:05,   5.1833333,   52.2333333,   , 12960000
+01/25/2009 04:34,   Product1,   1200,   Mastercard,   Hilde,   Groningen,   Netherlands,   1/8/2009 05:16,   2/23/2009 03:12,   6.55,   53.2166667,   , 1440000
+01/11/2009 00:15,   Product1,   1200,   Mastercard,   Chris,   Den Haag,   Netherlands,   5/7/07 4:07,   2/25/2009 04:04,   4.3,   52.0833333,   , 1440000
+01/22/2009 03:57,   Product2,   3600,   Mastercard,   Parth,   Oegstgeest,   Netherlands,   1/20/2009 14:36,   2/27/2009 01:59,   4.4666667,   52.1833333,   , 12960000
+01/08/2009 13:33,   Product1,   1200,   Visa,   Mimi,   Monte-Carlo,   Monaco,   9/23/06 13:19,   2/4/2009 06:16,   7.4166667,   43.7333333,   , 1440000
+01/22/2009 12:09,   Product1,   1200,   Visa,   Liann,   Monaco,   Monaco,   1/22/2009 11:32,   2/4/2009 06:28,   7.4166667,   43.7333333,   , 1440000
+01/06/2009 17:15,   Product1,   1200,   Visa,   Andrea,   Bubuieci,   Moldova,   12/24/08 17:31,   1/14/2009 10:27,   28.9425,   46.985,   , 1440000
+01/28/2009 05:36,   Product2,   3600,   Visa,   Christiane,   Black River,   Mauritius,   1/9/2009 08:10,   3/1/2009 04:40,   57.3661111,   -20.3602778,   , 12960000
+01/01/2009 12:20,   Product2,   3600,   Visa,   seemab,   San Pawl tat-Targa,   Malta,   9/17/05 3:32,   1/22/2009 12:00,   14.4425,   35.9202778,   , 12960000
+01/07/2009 12:06,   Product1,   1200,   Visa,   Erica,   Nadur,   Malta,   3/30/06 2:02,   2/28/2009 07:59,   14.2941667,   36.0377778,   , 1440000
+01/23/2009 22:19,   Product1,   1200,   Mastercard,   Diana,   Kuala Lumpur,   Malaysia,   1/23/2009 22:10,   1/27/2009 19:54,   101.7,   3.1666667,   , 1440000
+01/12/2009 13:41,   Product1,   1200,   Visa,   Eric,   Gasperich,   Luxembourg,   1/12/2009 13:16,   1/13/2009 01:03,   6.1230556,   49.5855556,   , 1440000
+01/07/2009 01:42,   Product1,   1200,   Mastercard,   Emily,   Vecmilgravis,   Latvia,   1/4/2009 10:33,   2/6/2009 04:20,   24.1,   57.0333333,   , 1440000
+01/17/2009 01:23,   Product1,   1200,   Amex,   Campbell,   Mushrif,   Kuwait,   1/16/2009 14:26,   1/18/2009 09:08,   48.05,   29.2891667,   , 1440000
+01/10/2009 09:18,   Product1,   1200,   Diners,   luisa,   Gorey,   Jersey,   5/9/06 10:43,   1/27/2009 07:51,   -2.0333333,   49.2,   , 1440000
+01/19/2009 03:25,   Product1,   1200,   Visa,   Christy,   Setagaya,   Japan,   1/10/06 4:49,   2/14/2009 01:03,   139.65,   35.6333333,   , 1440000
+01/26/2009 22:45,   Product1,   1200,   Amex,   Anjan,   Tokyo,   Japan,   5/15/08 19:33,   2/25/2009 17:34,   139.7513889,   35.685,   , 1440000
+01/13/2009 05:57,   Product1,   1200,   Visa,   Robin,   Milan,   Italy,   10/15/08 5:31,   1/13/2009 05:55,   9.2,   45.4666667,   , 1440000
+01/01/2009 06:29,   Product1,   1200,   Mastercard,   Elaine,   Vicenza,   Italy,   8/3/07 2:48,   1/24/2009 05:51,   11.55,   45.55,   , 1440000
+01/12/2009 13:23,   Product2,   3600,   Amex,   Leila,   Ponte San Nicolo,   Italy,   9/13/05 8:42,   2/9/2009 14:09,   11.6166667,   45.3666667,   , 12960000
+01/07/2009 12:39,   Product2,   3600,   Visa,   Natasha,   Milano,   Italy,   6/2/06 13:01,   2/10/2009 13:19,   9.2,   45.4666667,   , 12960000
+01/25/2009 10:32,   Product1,   1200,   Mastercard,   Pilar,   Florence,   Italy,   1/23/2009 04:46,   2/12/2009 02:22,   11.25,   43.7666667,   , 1440000
+01/19/2009 04:23,   Product2,   3600,   Mastercard,   don,   Cagliari,   Italy,   1/13/08 11:41,   2/16/2009 00:22,   9.1166667,   39.2166667,   , 12960000
+01/21/2009 04:34,   Product1,   1200,   Visa,   Katerina,   Firenze,   Italy,   4/24/08 0:57,   2/16/2009 03:45,   11.25,   43.7666667,   , 1440000
+01/17/2009 06:23,   Product1,   1200,   Visa,   Fernando,   Grosseto,   Italy,   9/22/08 10:48,   2/20/2009 06:39,   11.1333333,   42.7666667,   , 1440000
+01/31/2009 01:59,   Product1,   1200,   Visa,   Nacole,   Milan,   Italy,   4/11/05 2:40,   2/20/2009 11:41,   9.2,   45.4666667,   , 1440000
+01/24/2009 01:22,   Product1,   1200,   Visa,   Jupiterlina Elika,   Rome,   Italy,   10/19/04 2:38,   2/21/2009 06:04,   12.4833333,   41.9,   , 1440000
+01/05/2009 06:12,   Product1,   1200,   Diners,   Tracy,   Lucca,   Italy,   1/4/2009 06:19,   2/24/2009 13:56,   10.4833333,   43.8333333,   , 1440000
+01/16/2009 13:35,   Product1,   1200,   Visa,   Michael,   Milano,   Italy,   1/16/2009 12:43,   2/25/2009 13:59,   9.2,   45.4666667,   , 1440000
+01/17/2009 07:56,   Product3,   7500,   Diners,   Michel,   Lipari,   Italy,   1/17/2009 07:25,   2/26/2009 07:32,   14.95,   38.4666667,   , 56250000
+01/17/2009 07:58,   Product3,   7500,   Diners,   natalie,   Lipari,   Italy,   1/17/2009 07:25,   2/26/2009 07:32,   14.95,   38.4666667,   , 56250000
+01/18/2009 04:32,   Product1,   1200,   Diners,   jure,   Lipari,   Italy,   1/17/2009 07:25,   2/26/2009 07:32,   14.95,   38.4666667,   , 1440000
+01/04/2009 13:17,   Product1,   1200,   Mastercard,   Renee Elisabeth,   Tel Aviv,   Israel,   1/4/2009 13:03,   1/4/2009 22:10,   34.7666667,   32.0666667,   , 1440000
+01/04/2009 01:05,   Product1,   1200,   Diners,   Leanne,   Julianstown,   Ireland,   1/4/2009 00:00,   1/5/2009 13:36,   -6.3191667,   53.6772222,   , 1440000
+01/01/2009 11:05,   Product1,   1200,   Diners,   Janis,   Ballynora,   Ireland,   12/10/07 12:37,   1/7/2009 01:52,   -8.58,   51.8630556,   , 1440000
+01/10/2009 14:43,   Product1,   1200,   Diners,   Anupam,   Kinsaley,   Ireland,   1/9/2009 11:38,   1/10/2009 14:37,   -6.1758333,   53.4247222,   , 1440000
+01/06/2009 15:15,   Product1,   1200,   Mastercard,   Danielle,   Rathgar,   Ireland,   1/6/2009 14:59,   1/14/2009 14:33,   -6.2683333,   53.3122222,   , 1440000
+01/18/2009 05:15,   Product1,   1200,   Diners,   Roger,   Urlingford,   Ireland,   1/18/2009 04:44,   1/18/2009 04:44,   -7.5825,   52.7205556,   , 1440000
+01/18/2009 13:26,   Product3,   7500,   Mastercard,   Julianne,   Navan,   Ireland,   1/18/2009 12:20,   1/18/2009 12:20,   -6.6813889,   53.6527778,   , 56250000
+01/16/2009 01:07,   Product2,   3600,   Diners,   Lesley,   Cork,   Ireland,   1/14/2009 04:10,   1/22/2009 15:06,   -8.4958333,   51.8986111,   , 12960000
+01/08/2009 04:16,   Product1,   1200,   Visa,   Alan,   Malahide,   Ireland,   4/18/06 13:26,   1/23/2009 02:21,   -6.1544444,   53.4508333,   , 1440000
+01/09/2009 14:27,   Product1,   1200,   Visa,   Leah,   Castleknock,   Ireland,   6/14/07 13:14,   1/25/2009 00:57,   -6.3922222,   53.3786111,   , 1440000
+01/09/2009 14:32,   Product1,   1200,   Visa,   Laine,   Castleknock,   Ireland,   6/14/07 13:14,   1/25/2009 00:57,   -6.3922222,   53.3786111,   , 1440000
+01/22/2009 15:32,   Product1,   1200,   Mastercard,   Tara,   Killiney,   Ireland,   2/27/07 11:35,   1/26/2009 04:32,   -6.1125,   53.2522222,   , 1440000
+01/11/2009 12:12,   Product1,   1200,   Visa,   Helga,   Clontarf,   Ireland,   11/30/05 12:50,   1/26/2009 10:00,   -6.2161111,   53.3591667,   , 1440000
+01/02/2009 18:43,   Product1,   1200,   Visa,   Kathryn,   Cork,   Ireland,   12/22/08 15:39,   1/27/2009 15:43,   -8.4958333,   51.8986111,   , 1440000
+01/18/2009 13:59,   Product1,   1200,   Diners,   Nita,   Sutton,   Ireland,   12/1/05 19:57,   1/28/2009 04:07,   -6.1216667,   53.3905556,   , 1440000
+01/18/2009 12:32,   Product1,   1200,   Visa,   Cassandra,   Santry,   Ireland,   12/14/08 14:26,   1/28/2009 07:41,   -6.2597222,   53.3986111,   , 1440000
+01/19/2009 12:14,   Product1,   1200,   Mastercard,   burt,   Rathfarnham,   Ireland,   5/10/08 7:07,   1/28/2009 13:28,   -6.2827778,   53.3005556,   , 1440000
+01/23/2009 04:47,   Product1,   1200,   Mastercard,   Sarah,   Sandymount,   Ireland,   1/16/06 8:48,   2/2/2009 02:12,   -6.2113889,   53.335,   , 1440000
+01/21/2009 11:00,   Product1,   1200,   Visa,   Costanza,   Saggart,   Ireland,   1/19/2009 10:11,   2/2/2009 08:29,   -6.4444444,   53.2802778,   , 1440000
+01/07/2009 06:33,   Product1,   1200,   Diners,   Therese,   Clontarf,   Ireland,   6/15/08 8:08,   2/3/2009 07:51,   -6.2161111,   53.3591667,   , 1440000
+01/05/2009 10:08,   Product1,   1200,   Visa,   Ec,   Clonmel,   Ireland,   1/5/2009 07:47,   2/3/2009 10:21,   -7.7038889,   52.355,   , 1440000
+01/07/2009 14:55,   Product1,   1200,   Visa,   Jennifer,   Drogheda,   Ireland,   9/21/06 2:39,   2/3/2009 13:36,   -6.3477778,   53.7188889,   , 1440000
+01/02/2009 02:50,   Product1,   1200,   Visa,   Kim,   Newcastle,   Ireland,   10/12/05 6:56,   2/4/2009 02:19,   -6.0658333,   53.0683333,   , 1440000
+01/26/2009 11:36,   Product1,   1200,   Visa,   Judy,   Dun Laoghaire,   Ireland,   1/26/2009 07:28,   2/5/2009 02:38,   -6.1286111,   53.2925,   , 1440000
+01/14/2009 03:39,   Product1,   1200,   Visa,   jo,   Ballincollig,   Ireland,   12/10/08 7:41,   2/6/2009 02:36,   -8.5833333,   51.8833333,   , 1440000
+01/14/2009 03:47,   Product1,   1200,   Visa,   Michelle,   Ballincollig,   Ireland,   12/10/08 7:41,   2/6/2009 02:36,   -8.5833333,   51.8833333,   , 1440000
+01/13/2009 13:49,   Product1,   1200,   Visa,   Joanne,   Castlebar,   Ireland,   1/6/08 14:03,   2/6/2009 12:35,   -9.3,   53.85,   , 1440000
+01/11/2009 07:09,   Product1,   1200,   Visa,   Oswald,   Tramore,   Ireland,   10/13/08 16:43,   2/8/2009 03:02,   -7.1463889,   52.1588889,   , 1440000
+01/22/2009 10:47,   Product1,   1200,   Visa,   michelle,   Arklow,   Ireland,   11/18/08 1:32,   2/8/2009 05:07,   -6.1413889,   52.7930556,   , 1440000
+01/18/2009 06:46,   Product1,   1200,   Visa,   Shona,   Mornington,   Ireland,   1/15/2009 09:13,   2/9/2009 11:55,   -6.2825,   53.7233333,   , 1440000
+01/04/2009 06:51,   Product1,   1200,   Visa,   Rima,   Mullingar,   Ireland,   1/3/2009 12:34,   2/10/2009 00:59,   -7.35,   53.5333333,   , 1440000
+01/10/2009 07:37,   Product1,   1200,   Visa,   Peter,   Shankill,   Ireland,   10/11/08 3:19,   2/13/2009 13:32,   -6.1244444,   53.2261111,   , 1440000
+01/27/2009 02:38,   Product1,   1200,   Visa,   Elyse,   Bandon,   Ireland,   11/30/07 9:25,   2/14/2009 03:36,   -8.7425,   51.7469444,   , 1440000
+01/13/2009 02:47,   Product1,   1200,   Visa,   Maryse,   Rathfarnham,   Ireland,   1/13/2009 02:35,   2/16/2009 00:09,   -6.2827778,   53.3005556,   , 1440000
+01/07/2009 13:28,   Product1,   1200,   Mastercard,   Mary,   Baile Atha Bui,   Ireland,   9/21/05 15:42,   2/16/2009 03:51,   -6.9205556,   53.6186111,   , 1440000
+01/17/2009 15:19,   Product1,   1200,   Visa,   Dana,   Thurles,   Ireland,   1/15/2009 09:13,   2/17/2009 03:26,   -7.8022222,   52.6819444,   , 1440000
+01/02/2009 15:13,   Product1,   1200,   Visa,   Rowena,   Cork,   Ireland,   1/10/06 7:05,   2/17/2009 06:38,   -8.4958333,   51.8986111,   , 1440000
+01/26/2009 14:43,   Product1,   1200,   Visa,   Nicola,   Sneem,   Ireland,   1/26/2009 13:55,   2/17/2009 11:07,   -9.9,   51.8333333,   , 1440000
+01/29/2009 12:46,   Product1,   1200,   Visa,   Lilly,   Castleknock,   Ireland,   1/19/2009 16:00,   2/17/2009 14:06,   -6.3922222,   53.3786111,   , 1440000
+01/30/2009 05:20,   Product1,   1200,   Visa,   Simone,   Kilcornan,   Ireland,   1/30/2009 04:06,   2/18/2009 07:23,   -8.8833333,   52.6166667,   , 1440000
+01/30/2009 06:17,   Product1,   1200,   Visa,   janet,   Blarney,   Ireland,   1/30/2009 03:02,   2/19/2009 12:48,   -8.5666667,   51.9333333,   , 1440000
+01/07/2009 10:52,   Product1,   1200,   Visa,   claire,   Ballyneety,   Ireland,   1/7/2009 09:42,   2/19/2009 14:32,   -8.5469444,   52.5961111,   , 1440000
+01/03/2009 13:43,   Product1,   1200,   Mastercard,   Andree,   Newmarket,   Ireland,   10/22/06 14:59,   2/20/2009 03:18,   -9,   52.2166667,   , 1440000
+01/11/2009 06:46,   Product2,   3600,   Visa,   Shiree,   Clondalkin,   Ireland,   8/25/07 5:48,   2/23/2009 11:56,   -6.3972222,   53.3244444,   , 12960000
+01/19/2009 14:26,   Product1,   1200,   Mastercard,   Tracey,   Harold's Cross,   Ireland,   1/6/2009 13:24,   2/23/2009 12:02,   -6.2947222,   53.3263889,   , 1440000
+01/27/2009 12:02,   Product1,   1200,   Visa,   Jackie,   Waterford,   Ireland,   3/10/08 13:51,   2/25/2009 15:41,   -7.1119444,   52.2583333,   , 1440000
+01/05/2009 03:03,   Product1,   1200,   Diners,   Elizabeth,   Cork,   Ireland,   5/21/08 7:50,   2/26/2009 04:05,   -8.4958333,   51.8986111,   , 1440000
+01/29/2009 12:27,   Product1,   1200,   Mastercard,   philippa katherine,   Cabinteely,   Ireland,   11/8/06 4:50,   2/26/2009 10:09,   -6.1447222,   53.2594444,   , 1440000
+01/23/2009 05:11,   Product1,   1200,   Visa,   Alexia,   Blackrock,   Ireland,   7/15/08 7:20,   2/27/2009 04:00,   -6.1830556,   53.3030556,   , 1440000
+01/10/2009 04:12,   Product1,   1200,   Visa,   Gloria Gail,   Foxrock,   Ireland,   1/7/2009 07:39,   2/27/2009 06:33,   -6.1741667,   53.2666667,   , 1440000
+01/06/2009 05:02,   Product1,   1200,   Diners,   barbara,   Hyderabad,   India,   1/6/2009 02:41,   1/6/2009 07:52,   78.4666667,   17.3833333,   , 1440000
+01/05/2009 00:46,   Product1,   1200,   Amex,   Lisa,   Gurgaon,   India,   1/2/2009 03:03,   1/27/2009 00:17,   77.0333333,   28.4666667,   , 1440000
+01/12/2009 15:16,   Product1,   1200,   Visa,   Camille and Carmen,   Thorlakshofn,   Iceland,   1/12/2009 11:41,   1/28/2009 08:44,   -21.3666667,   63.85,   , 1440000
+01/23/2009 08:00,   Product1,   1200,   Diners,   christina,   Chepel,   Hungary,   1/22/2009 09:55,   1/23/2009 12:59,   19.0833333,   47.4166667,   , 1440000
+01/20/2009 08:08,   Product1,   1200,   Mastercard,   Aideen and Jonathan,   Kecskemet,   Hungary,   1/19/2009 05:49,   2/7/2009 01:12,   19.7833333,   46.9,   , 1440000
+01/02/2009 08:31,   Product1,   1200,   Visa,   Line,   Budaors,   Hungary,   10/23/08 8:15,   2/22/2009 07:06,   18.9666667,   47.45,   , 1440000
+01/30/2009 17:09,   Product1,   1200,   Mastercard,   Ana,   Hong Kong,   Hong Kong,   7/28/06 2:31,   2/4/2009 16:26,   114.15,   22.2833333,   , 1440000
+01/12/2009 20:31,   Product1,   1200,   Visa,   Glen,   Atlantida,   Guatemala,   1/6/2009 16:53,   2/28/2009 14:39,   -90.4833333,   14.65,   , 1440000
+01/28/2009 10:37,   Product1,   1200,   Visa,   Chevonne,   Athina,   Greece,   5/8/08 4:26,   2/24/2009 02:58,   23.7333333,   37.9833333,   , 1440000
+01/05/2009 08:58,   Product2,   3600,   Mastercard,   Marcia,   Telgte,   Germany,   9/1/08 3:39,   1/14/2009 02:07,   7.9,   52.3333333,   , 12960000
+01/12/2009 09:43,   Product1,   1200,   Diners,   Petra,   Bergen,   Germany,   1/7/2009 08:39,   1/15/2009 12:14,   6.5,   51.7166667,   , 1440000
+01/11/2009 10:51,   Product1,   1200,   Mastercard,   Katherine,   Hofheim am Taunus,   Germany,   12/6/08 1:34,   1/18/2009 07:17,   8.45,   50.0833333,   , 1440000
+01/08/2009 11:55,   Product2,   3600,   Visa,   Caren,   Braunschweig,   Germany,   1/3/2009 12:39,   1/19/2009 08:31,   10.5333333,   52.2666667,   , 12960000
+01/01/2009 02:09,   Product1,   1200,   Mastercard,   Saraya,   Dresden,   Germany,   3/12/06 11:31,   1/20/2009 11:56,   13.75,   51.05,   , 1440000
+01/04/2009 22:00,   Product2,   3600,   Amex,   Lucien,   Wiesbaden,   Germany,   1/4/2009 11:32,   1/22/2009 12:21,   8.25,   50.0833333,   , 12960000
+01/10/2009 04:04,   Product1,   1200,   Visa,   Jessica,   Oldenburg,   Germany,   12/20/08 8:41,   1/23/2009 05:28,   8.2,   53.1666667,   , 1440000
+01/01/2009 10:06,   Product2,   3600,   Mastercard,   Irene,   Munich,   Germany,   1/1/2009 09:13,   1/25/2009 11:37,   11.5833333,   48.15,   , 12960000
+01/07/2009 08:00,   Product1,   1200,   Mastercard,   john,   Glan-Munchweiler,   Germany,   5/26/05 7:00,   1/27/2009 06:30,   7.4333333,   49.4666667,   , 1440000
+01/04/2009 10:16,   Product1,   1200,   Mastercard,   Rebecca,   Berlin,   Germany,   12/28/08 10:50,   1/28/2009 11:09,   13.4,   52.5166667,   , 1440000
+01/12/2009 01:42,   Product1,   1200,   Mastercard,   Beate,   Hamburg,   Germany,   1/7/2009 07:56,   1/29/2009 04:33,   10,   53.55,   , 1440000
+01/07/2009 05:53,   Product1,   1200,   Visa,   Lauren,   Gries,   Germany,   1/7/2009 02:49,   2/5/2009 03:41,   7.4,   49.4166667,   , 1440000
+01/29/2009 06:49,   Product1,   1200,   Mastercard,   Carmela,   Hannover,   Germany,   4/2/08 2:39,   2/6/2009 06:52,   9.7166667,   52.3666667,   , 1440000
+01/11/2009 09:50,   Product1,   1200,   Visa,   Bato,   Munchengosserstadt,   Germany,   1/7/2009 11:45,   2/10/2009 10:28,   11.65,   51.05,   , 1440000
+01/08/2009 06:29,   Product1,   1200,   Visa,   Rich,   Ingelheim-Mitte,   Germany,   3/24/06 6:21,   2/10/2009 23:59,   8.0666667,   49.9833333,   , 1440000
+01/18/2009 00:41,   Product2,   3600,   Visa,   Hanna Agla,   Donauworth,   Germany,   9/21/06 23:27,   2/14/2009 01:11,   10.8,   48.7,   , 12960000
+01/16/2009 06:04,   Product1,   1200,   Mastercard,   Alexis,   Ehingen an der Donau,   Germany,   1/15/2009 02:56,   2/14/2009 05:05,   9.7333333,   48.2833333,   , 1440000
+01/10/2009 11:53,   Product1,   1200,   Visa,   Martin,   Ludwigsburg,   Germany,   1/17/08 8:20,   2/15/2009 01:42,   9.1833333,   48.9,   , 1440000
+01/16/2009 07:35,   Product1,   1200,   Diners,   amy,   Stuttgart,   Germany,   10/6/06 2:02,   2/15/2009 12:00,   9.1833333,   48.7666667,   , 1440000
+01/29/2009 07:40,   Product1,   1200,   Amex,   Karen and Andrew,   Munchen,   Germany,   7/29/03 9:23,   2/16/2009 02:39,   11.5833333,   49.55,   , 1440000
+01/19/2009 12:38,   Product1,   1200,   Visa,   Dania,   Munich,   Germany,   1/19/2009 11:47,   2/16/2009 12:46,   11.5833333,   48.15,   , 1440000
+01/07/2009 13:38,   Product1,   1200,   Mastercard,   Mary,   Stuttgart,   Germany,   1/6/2009 13:40,   2/17/2009 09:32,   9.1833333,   48.7666667,   , 1440000
+01/13/2009 01:55,   Product1,   1200,   Mastercard,   Damian,   Mettlach,   Germany,   4/1/06 22:29,   2/17/2009 20:45,   6.6,   49.5,   , 1440000
+01/28/2009 11:36,   Product1,   1200,   Diners,   Evelyn,   Grossbodungen,   Germany,   1/28/2009 11:08,   2/18/2009 02:04,   10.5,   51.4666667,   , 1440000
+01/10/2009 03:43,   Product1,   1200,   Visa,   stacy,   Stuttgart,   Germany,   3/5/06 15:01,   2/19/2009 03:11,   9.1833333,   48.7666667,   , 1440000
+01/04/2009 14:11,   Product1,   1200,   Visa,   Aidan,   Chatou,   France,   6/3/08 4:22,   1/5/2009 01:17,   2.15,   48.8833333,   , 1440000
+01/15/2009 03:43,   Product1,   1200,   Visa,   Stephanie,   Rouen,   France,   12/26/08 9:01,   1/15/2009 05:39,   1.0833333,   49.4333333,   , 1440000
+01/07/2009 06:11,   Product2,   3600,   Visa,   Tiffany,   Paris,   France,   1/7/2009 05:30,   1/20/2009 11:22,   2.3333333,   48.8666667,   , 12960000
+01/05/2009 02:57,   Product3,   7500,   Visa,   Marion,   Rennes,   France,   12/29/08 3:16,   1/23/2009 07:29,   -1.6833333,   48.0833333,   , 56250000
+01/15/2009 01:41,   Product1,   1200,   Diners,   Karen,   Roquefort,   France,   1/14/2009 04:13,   1/24/2009 08:36,   5.6166667,   43.25,   , 1440000
+01/16/2009 05:07,   Product1,   1200,   Amex,   Lisa,   Brulon,   France,   8/6/07 7:48,   1/25/2009 11:42,   -0.2333333,   47.9666667,   , 1440000
+01/26/2009 03:49,   Product2,   3600,   Mastercard,   Jane,   Biot,   France,   3/1/08 0:00,   1/26/2009 03:18,   7.1,   43.6333333,   , 12960000
+01/09/2009 14:25,   Product1,   1200,   Amex,   James,   Guer,   France,   4/7/08 0:00,   1/26/2009 05:32,   -2.1166667,   47.9,   , 1440000
+01/09/2009 01:12,   Product1,   1200,   Visa,   Sabrina,   Rambouillet,   France,   6/18/08 6:35,   1/27/2009 02:56,   1.8333333,   48.65,   , 1440000
+01/05/2009 06:14,   Product1,   1200,   Mastercard,   T,   Veigy-Foncenex,   France,   1/5/2009 04:52,   1/27/2009 07:01,   6.25,   46.2666667,   , 1440000
+01/16/2009 07:20,   Product2,   3600,   Mastercard,   Jag,   Saint-Cergues,   France,   1/15/2009 04:53,   1/28/2009 12:43,   6.3166667,   46.2333333,   , 12960000
+01/13/2009 15:19,   Product2,   3600,   Visa,   Maggie,   Paris,   France,   6/27/07 4:41,   1/28/2009 14:11,   2.3333333,   48.8666667,   , 12960000
+01/28/2009 01:28,   Product1,   1200,   Diners,   Adam,   Besancon,   France,   1/26/2009 02:28,   2/4/2009 05:39,   6.0333333,   47.25,   , 1440000
+01/22/2009 12:55,   Product1,   1200,   Visa,   Anna,   Paris,   France,   8/17/07 4:34,   2/4/2009 13:12,   2.3333333,   48.8666667,   , 1440000
+01/27/2009 02:35,   Product1,   1200,   Visa,   Sarah,   Ornex,   France,   8/28/08 6:28,   2/6/2009 05:09,   6.1,   46.2833333,   , 1440000
+01/14/2009 00:15,   Product2,   3600,   Visa,   Michael,   Paris,   France,   11/28/08 0:07,   2/9/2009 01:30,   2.3333333,   48.8666667,   , 12960000
+01/22/2009 07:35,   Product1,   1200,   Visa,   Anja,   Ferney-Voltaire,   France,   1/22/2009 06:51,   2/10/2009 09:18,   6.1166667,   46.25,   , 1440000
+01/29/2009 16:07,   Product1,   1200,   Diners,   Kim,   Paris,   France,   1/29/2009 15:45,   2/10/2009 22:24,   2.3333333,   48.8666667,   , 1440000
+01/12/2009 14:37,   Product1,   1200,   Mastercard,   steve,   Evires,   France,   1/12/2009 07:47,   2/12/2009 23:49,   6.2333333,   46.0333333,   , 1440000
+01/05/2009 05:30,   Product1,   1200,   Visa,   M George,   Paris,   France,   1/5/2009 04:11,   2/14/2009 05:34,   2.3333333,   48.8666667,   , 1440000
+01/26/2009 16:47,   Product1,   1200,   Visa,   Oscar,   Chamonix-Mont-Blanc,   France,   1/26/2009 04:53,   2/16/2009 05:01,   6.8666667,   45.9166667,   , 1440000
+01/29/2009 12:53,   Product1,   1200,   Visa,   Vanessa,   Arc-et-Senans,   France,   1/29/2009 10:10,   2/18/2009 01:03,   5.7666667,   47.0333333,   , 1440000
+01/08/2009 09:43,   Product1,   1200,   Visa,   Kasey,   Aix-en-Provence,   France,   1/5/2009 09:05,   2/18/2009 08:38,   5.4333333,   43.5333333,   , 1440000
+01/02/2009 13:35,   Product1,   1200,   Visa,   Alyssa,   Antibes,   France,   7/29/08 12:32,   2/18/2009 10:28,   7.1166667,   43.5833333,   , 1440000
+01/21/2009 23:41,   Product1,   1200,   Visa,   Olga,   Strasbourg,   France,   2/4/08 4:45,   2/19/2009 00:09,   7.75,   48.5833333,   , 1440000
+01/19/2009 04:22,   Product1,   1200,   Diners,   brian,   Hagen,   France,   5/21/07 7:22,   2/22/2009 22:33,   6.1666667,   49.5,   , 1440000
+01/09/2009 03:03,   Product2,   3600,   Amex,   Ghislaine,   Ferney-Voltaire,   France,   3/28/08 5:53,   2/24/2009 08:10,   6.1166667,   46.25,   , 12960000
+01/02/2009 01:11,   Product1,   1200,   Mastercard,   Lena,   Kuopio,   Finland,   12/31/08 2:48,   1/7/2009 10:20,   27.6833333,   62.9,   , 1440000
+01/26/2009 11:19,   Product1,   1200,   Mastercard,   smith,   Lahti,   Finland,   1/4/2009 05:25,   3/1/2009 00:39,   25.6666667,   60.9666667,   , 1440000
+01/20/2009 02:17,   Product1,   1200,   Diners,   Sarah,   Santo Domingo City,   Dominican Republic,   11/9/08 1:26,   2/22/2009 11:21,   -69.9,   18.4666667,   , 1440000
+01/03/2009 13:24,   Product1,   1200,   Visa,   Mehmet Fatih,   Helsingor,   Denmark,   1/3/2009 12:47,   1/9/2009 11:14,   12.6166667,   56.0333333,   , 1440000
+01/03/2009 13:11,   Product1,   1200,   Mastercard,   simone,   Kobenhavn,   Denmark,   10/31/08 0:31,   1/10/2009 13:24,   12.5833333,   55.6666667,   , 1440000
+01/02/2009 12:18,   Product1,   1200,   Visa,   Alice,   Nakskov,   Denmark,   12/5/07 11:37,   1/14/2009 04:05,   11.15,   54.8333333,   , 1440000
+01/01/2009 01:51,   Product1,   1200,   Mastercard,   Si,   Holte,   Denmark,   12/14/05 15:46,   1/18/2009 04:44,   12.4666667,   55.8166667,   , 1440000
+01/03/2009 07:58,   Product1,   1200,   Mastercard,   Gerlinde,   Hellerup,   Denmark,   1/2/2009 12:27,   1/25/2009 11:13,   12.5833333,   55.7333333,   , 1440000
+01/05/2009 12:28,   Product1,   1200,   Visa,   Cameron,   Rungsted,   Denmark,   1/5/2009 12:02,   1/25/2009 23:22,   12.5419444,   55.8841667,   , 1440000
+01/16/2009 10:58,   Product1,   1200,   Visa,   GAIA,   Soro,   Denmark,   7/27/07 7:22,   1/29/2009 03:16,   11.5666667,   55.4333333,   , 1440000
+01/13/2009 01:46,   Product1,   1200,   Mastercard,   simone,   Lyngby,   Denmark,   10/30/07 12:03,   2/5/2009 08:52,   12.5166667,   55.7666667,   , 1440000
+01/29/2009 02:48,   Product1,   1200,   Visa,   George,   Nakskov,   Denmark,   1/29/2009 02:19,   2/7/2009 02:09,   11.15,   54.8333333,   , 1440000
+01/24/2009 03:36,   Product1,   1200,   Visa,   chris,   Kjobenhavn,   Denmark,   1/20/2009 13:11,   2/7/2009 06:52,   12.5833333,   55.6666667,   , 1440000
+01/06/2009 06:07,   Product1,   1200,   Visa,   Scott,   Rungsted,   Denmark,   12/27/08 14:29,   2/9/2009 04:20,   12.5419444,   55.8841667,   , 1440000
+01/21/2009 04:46,   Product1,   1200,   Visa,   Tomasz,   Klampenborg,   Denmark,   6/10/08 11:25,   2/10/2009 12:22,   12.6,   55.7666667,   , 1440000
+01/12/2009 00:17,   Product1,   1200,   Mastercard,   Andrea,   Brondby Strand,   Denmark,   1/7/2009 23:40,   2/11/2009 22:23,   12.35,   55.6166667,   , 1440000
+01/13/2009 12:51,   Product1,   1200,   Visa,   Majken,   Charlottenlund,   Denmark,   5/27/08 18:51,   2/16/2009 01:05,   12.5833333,   55.75,   , 1440000
+01/05/2009 11:44,   Product1,   1200,   Visa,   Lauren,   Laasby,   Denmark,   11/19/08 3:55,   2/22/2009 06:15,   9.8166667,   56.15,   , 1440000
+01/21/2009 04:11,   Product1,   1200,   Visa,   Courtney,   Suchdol,   Czech Republic,   9/30/08 10:39,   2/19/2009 00:55,   14.3833333,   50.1333333,   , 1440000
+01/29/2009 08:27,   Product2,   3600,   Visa,   Kerry,   Prague,   Czech Republic,   1/27/2009 08:53,   2/19/2009 08:41,   14.4666667,   50.0833333,   , 12960000
+01/04/2009 05:13,   Product1,   1200,   Visa,   Lauren,   Hradec Kralove,   Czech Republic,   3/5/06 0:51,   2/27/2009 23:30,   15.8441667,   50.2116667,   , 1440000
+01/19/2009 06:52,   Product1,   1200,   Diners,   melanie,   Santa Barbaraa,   Costa Rica,   1/19/2009 06:45,   2/25/2009 05:44,   -84.15,   10.0333333,   , 1440000
+01/21/2009 21:37,   Product1,   1200,   Visa,   Rachel,   Taicheng,   China,   1/21/2009 06:24,   2/23/2009 01:36,   112.7833333,   22.25,   , 1440000
+01/21/2009 20:02,   Product1,   1200,   Mastercard,   Daria,   George Town,   Cayman Isls,   1/10/2009 16:09,   2/19/2009 19:19,   -81.3833333,   19.3,   , 1440000
+01/05/2009 11:37,   Product1,   1200,   Visa,   Janet,   Ottawa,   Canada,   1/5/2009 09:35,   1/5/2009 19:24,   -75.7,   45.4166667,   , 1440000
+01/10/2009 21:38,   Product1,   1200,   Visa,   Anushka,   Maple Ridge District Municipality,   Canada,   1/10/2009 21:17,   1/11/2009 19:32,   -122.5,   49.25,   , 1440000
+01/04/2009 08:39,   Product2,   3600,   Diners,   Baybars,   Prince Albert,   Canada,   1/3/2009 17:17,   1/11/2009 21:05,   -105.75,   53.2,   , 12960000
+01/07/2009 20:22,   Product1,   1200,   Visa,   Gina,   Red Deer,   Canada,   11/23/08 19:30,   1/12/2009 12:24,   -113.8,   52.2666667,   , 1440000
+01/08/2009 20:32,   Product1,   1200,   Visa,   Kim,   Calgary,   Canada,   1/8/2009 20:21,   1/12/2009 14:07,   -114.0833333,   51.0833333,   , 1440000
+01/08/2009 13:34,   Product1,   1200,   Visa,   Bruce,   Belleville,   Canada,   1/6/2009 14:38,   1/12/2009 18:31,   -77.3833333,   44.1666667,   , 1440000
+01/12/2009 19:04,   Product1,   1200,   Visa,   Lydia,   Comox,   Canada,   9/20/08 20:53,   1/12/2009 19:01,   -124.9333333,   49.6833333,   , 1440000
+01/01/2009 20:28,   Product1,   1200,   Visa,   nathalie,   Calgary,   Canada,   1/1/2009 20:11,   1/13/2009 21:11,   -114.0833333,   51.0833333,   , 1440000
+01/03/2009 15:22,   Product1,   1200,   Mastercard,   Lindi,   Vancouver,   Canada,   2/20/08 22:45,   1/13/2009 23:02,   -123.1333333,   49.25,   , 1440000
+01/04/2009 07:54,   Product1,   1200,   Visa,   Gerhard,   Alliston,   Canada,   10/21/05 21:49,   1/14/2009 13:06,   -79.8666667,   44.15,   , 1440000
+01/06/2009 21:13,   Product1,   1200,   Visa,   Kofi,   Vancouver,   Canada,   1/7/08 21:16,   1/14/2009 20:50,   -123.1333333,   49.25,   , 1440000
+01/12/2009 11:48,   Product1,   1200,   Visa,   Veronique,   Tsawwassen,   Canada,   7/24/08 15:48,   1/15/2009 08:56,   -123.0833333,   49.0166667,   , 1440000
+01/06/2009 07:23,   Product1,   1200,   Visa,   Anna,   Okotoks,   Canada,   7/21/08 12:03,   1/15/2009 10:00,   -113.9666667,   50.7166667,   , 1440000
+01/15/2009 11:56,   Product1,   1200,   Visa,   Heidi,   Calgary,   Canada,   1/14/2009 09:16,   1/15/2009 11:39,   -114.0833333,   51.0833333,   , 1440000
+01/15/2009 11:58,   Product1,   1200,   Visa,   Jessica,   Kanata,   Canada,   1/14/2009 05:59,   1/15/2009 11:49,   -75.9,   45.3333333,   , 1440000
+01/15/2009 12:54,   Product1,   1200,   Mastercard,   Annelies,   Ile-Perrot,   Canada,   1/15/2009 12:22,   1/16/2009 07:53,   -73.9333333,   45.4,   , 1440000
+01/04/2009 23:48,   Product1,   1200,   Diners,   Sarka,   Yellowknife,   Canada,   1/4/2009 22:41,   1/18/2009 16:17,   -114.35,   62.45,   , 1440000
+01/13/2009 20:59,   Product1,   1200,   Mastercard,   Andrew,   Winnipeg,   Canada,   1/13/2009 16:44,   1/18/2009 19:17,   -97.1666667,   49.8833333,   , 1440000
+01/04/2009 12:49,   Product1,   1200,   Diners,   Denise,   Montreal,   Canada,   5/25/07 10:58,   1/19/2009 07:58,   -73.5833333,   45.5,   , 1440000
+01/05/2009 16:55,   Product1,   1200,   Visa,   Jeffrey,   Montreal-Nord,   Canada,   9/29/03 17:08,   1/20/2009 14:38,   -73.6166667,   45.6,   , 1440000
+01/04/2009 09:02,   Product1,   1200,   Visa,   Charlene,   Calgary,   Canada,   12/13/08 19:20,   1/22/2009 19:27,   -114.0833333,   51.0833333,   , 1440000
+01/13/2009 20:22,   Product1,   1200,   Visa,   Kim,   Kelowna,   Canada,   8/2/08 14:28,   1/25/2009 19:25,   -119.4833333,   49.9,   , 1440000
+01/01/2009 14:19,   Product1,   1200,   Mastercard,   Gabriel,   Three Hills,   Canada,   5/21/08 11:39,   1/26/2009 07:17,   -113.2666667,   51.7,   , 1440000
+01/26/2009 10:24,   Product1,   1200,   Visa,   Eleanor,   Vancouver,   Canada,   12/1/08 18:30,   1/26/2009 10:12,   -123.1333333,   49.25,   , 1440000
+01/13/2009 09:51,   Product1,   1200,   Mastercard,   Priska,   Calgary,   Canada,   1/4/2009 23:43,   1/26/2009 17:24,   -114.0833333,   51.0833333,   , 1440000
+01/12/2009 10:06,   Product1,   1200,   Mastercard,   Tina,   Calgary,   Canada,   1/10/2009 14:15,   1/27/2009 14:26,   -114.0833333,   51.0833333,   , 1440000
+01/01/2009 19:25,   Product1,   1200,   Diners,   Damali,   Toronto,   Canada,   1/8/08 20:41,   1/27/2009 14:59,   -79.4166667,   43.6666667,   , 1440000
+01/25/2009 08:32,   Product1,   1200,   Visa,   L,   Alcona,   Canada,   9/17/07 17:41,   1/27/2009 19:53,   -91.75,   50.0666667,   , 1440000
+01/28/2009 03:07,   Product1,   1200,   Visa,   Lisa,   Anse Comeau,   Canada,   1/26/2009 11:47,   1/28/2009 08:08,   -68.15,   49.2166667,   , 1440000
+01/23/2009 09:49,   Product1,   1200,   Visa,   Ginger,   King City,   Canada,   1/23/2009 08:18,   1/28/2009 09:43,   -79.5333333,   43.9333333,   , 1440000
+01/06/2009 09:55,   Product1,   1200,   Mastercard,   Charlene,   Vancouver,   Canada,   10/7/08 14:55,   1/28/2009 13:17,   -123.1333333,   49.25,   , 1440000
+01/24/2009 17:06,   Product1,   1200,   Visa,   Tracey,   Saint Catharines,   Canada,   1/24/2009 15:51,   1/31/2009 21:10,   -79.2333333,   43.1666667,   , 1440000
+01/07/2009 08:03,   Product1,   1200,   Amex,   maria,   Ottawa,   Canada,   4/17/05 22:28,   2/1/2009 18:52,   -75.7,   45.4166667,   , 1440000
+01/04/2009 21:08,   Product1,   1200,   Mastercard,   Christyna,   Calgary,   Canada,   1/21/08 20:11,   2/2/2009 18:50,   -114.0833333,   51.0833333,   , 1440000
+01/10/2009 21:35,   Product1,   1200,   Mastercard,   Sharon,   Ajax,   Canada,   8/7/08 6:17,   2/3/2009 03:42,   -79.0166667,   43.85,   , 1440000
+01/22/2009 07:14,   Product1,   1200,   Visa,   Yana,   North Bay,   Canada,   10/11/06 19:22,   2/3/2009 06:36,   -79.45,   46.3,   , 1440000
+01/28/2009 13:03,   Product2,   3600,   Amex,   Elizabeth,   Okotoks,   Canada,   9/10/08 6:53,   2/3/2009 09:13,   -113.9666667,   50.7166667,   , 12960000
+01/21/2009 20:18,   Product1,   1200,   Amex,   Henrietta,   Vancouver,   Canada,   7/6/07 23:53,   2/3/2009 12:22,   -123.1333333,   49.25,   , 1440000
+01/12/2009 11:40,   Product2,   3600,   Visa,   Debra,   Toronto,   Canada,   12/30/08 6:59,   2/3/2009 19:42,   -79.4166667,   43.6666667,   , 12960000
+01/14/2009 08:16,   Product2,   3600,   Amex,   Ruth,   Saskatoon,   Canada,   8/9/08 12:51,   2/5/2009 11:24,   -106.6666667,   52.1333333,   , 12960000
+01/08/2009 10:13,   Product1,   1200,   Diners,   Benoit,   Fort Saint James,   Canada,   1/7/2009 16:01,   2/5/2009 14:03,   -124.25,   54.4333333,   , 1440000
+01/10/2009 13:42,   Product1,   1200,   Visa,   Rachel,   Hamilton,   Canada,   1/10/2009 12:22,   2/9/2009 09:54,   -79.8333333,   43.25,   , 1440000
+01/02/2009 10:58,   Product2,   3600,   Visa,   Kendra,   Toronto,   Canada,   1/2/2009 10:38,   2/9/2009 13:56,   -79.4166667,   43.6666667,   , 12960000
+01/15/2009 05:27,   Product2,   3600,   Visa,   Derrick,   North Bay,   Canada,   1/6/2009 17:42,   2/9/2009 18:22,   -79.45,   46.3,   , 12960000
+01/05/2009 12:41,   Product1,   1200,   Visa,   Katrin,   Calgary,   Canada,   12/3/08 14:49,   2/10/2009 11:45,   -114.0833333,   51.0833333,   , 1440000
+01/28/2009 12:54,   Product2,   3600,   Mastercard,   Kelly,   Vancouver,   Canada,   1/27/2009 21:04,   2/10/2009 12:09,   -123.1333333,   49.25,   , 12960000
+01/08/2009 12:46,   Product1,   1200,   Mastercard,   Trine Marie,   Orillia,   Canada,   12/16/08 22:57,   2/10/2009 22:11,   -79.4166667,   44.6,   , 1440000
+01/11/2009 09:55,   Product1,   1200,   Visa,   familly,   Creemore,   Canada,   1/10/2009 07:14,   2/11/2009 08:45,   -80.1,   44.3166667,   , 1440000
+01/09/2009 08:35,   Product1,   1200,   Amex,   Precious,   Edmonton,   Canada,   1/8/2009 14:14,   2/11/2009 14:26,   -113.5,   53.55,   , 1440000
+01/09/2009 20:25,   Product1,   1200,   Diners,   Mona,   Kelowna,   Canada,   1/9/2009 14:20,   2/11/2009 20:19,   -119.4833333,   49.9,   , 1440000
+01/15/2009 21:53,   Product1,   1200,   Visa,   Caroline,   Toronto,   Canada,   1/1/2009 18:01,   2/11/2009 21:01,   -79.4166667,   43.6666667,   , 1440000
+01/13/2009 11:56,   Product1,   1200,   Diners,   Karen,   Montreal,   Canada,   10/31/08 12:37,   2/13/2009 08:18,   -73.5833333,   45.5,   , 1440000
+01/24/2009 20:58,   Product1,   1200,   Visa,   jacqueline,   North Vancouver,   Canada,   12/28/08 15:54,   2/14/2009 22:12,   -123.0666667,   49.3166667,   , 1440000
+01/04/2009 10:44,   Product1,   1200,   Diners,   Paul,   Burnaby,   Canada,   11/26/08 20:16,   2/15/2009 13:46,   -122.95,   49.25,   , 1440000
+01/03/2009 18:43,   Product1,   1200,   Visa,   Vanessa,   Cornwall,   Canada,   7/3/06 8:36,   2/17/2009 06:17,   -74.7333333,   45.0166667,   , 1440000
+01/08/2009 10:44,   Product1,   1200,   Visa,   Catherine,   Mount Forest,   Canada,   1/6/2009 13:03,   2/17/2009 06:39,   -80.7333333,   43.9666667,   , 1440000
+01/24/2009 12:56,   Product1,   1200,   Visa,   sorcha,   Cartierville,   Canada,   1/12/2009 21:34,   2/17/2009 09:19,   -73.7166667,   45.5333333,   , 1440000
+01/05/2009 09:15,   Product1,   1200,   Visa,   isabelle,   Sainte-Therese-de-Blainville,   Canada,   8/21/08 9:43,   2/17/2009 12:34,   -73.85,   45.6333333,   , 1440000
+01/26/2009 10:26,   Product1,   1200,   Visa,   Lolarae,   Calgary,   Canada,   1/26/2009 10:16,   2/17/2009 15:17,   -114.0833333,   51.0833333,   , 1440000
+01/28/2009 07:26,   Product1,   1200,   Visa,   Jenevieve,   Guelph,   Canada,   1/23/2009 19:04,   2/17/2009 18:08,   -80.25,   43.55,   , 1440000
+01/20/2009 08:58,   Product1,   1200,   Visa,   James,   Edmonton,   Canada,   12/24/08 17:51,   2/18/2009 09:42,   -113.5,   53.55,   , 1440000
+01/17/2009 10:14,   Product1,   1200,   Mastercard,   Nicole,   Simcoe,   Canada,   1/17/2009 07:46,   2/18/2009 18:49,   -80.3,   42.8333333,   , 1440000
+01/31/2009 13:26,   Product1,   1200,   Visa,   Joern,   Waterford,   Canada,   12/13/08 18:12,   2/20/2009 08:27,   -80.2833333,   42.9333333,   , 1440000
+01/25/2009 16:08,   Product1,   1200,   Diners,   Jennifer,   Vancouver,   Canada,   1/24/2009 20:12,   2/20/2009 12:47,   -123.1333333,   49.25,   , 1440000
+01/04/2009 22:18,   Product2,   3600,   Mastercard,   Karoline,   Powell River,   Canada,   11/27/08 16:06,   2/20/2009 21:45,   -124.55,   49.8833333,   , 12960000
+01/29/2009 21:40,   Product1,   1200,   Visa,   Alessandra,   Vancouver,   Canada,   6/17/08 19:23,   2/21/2009 20:32,   -123.1333333,   49.25,   , 1440000
+01/07/2009 19:18,   Product1,   1200,   Mastercard,   loudon,   Ottawa,   Canada,   11/2/07 20:26,   2/22/2009 16:06,   -75.7,   45.4166667,   , 1440000
+01/06/2009 20:39,   Product2,   3600,   Mastercard,   Christiane,   Mission,   Canada,   1/6/2009 09:44,   2/23/2009 08:55,   -122.3,   49.1333333,   , 12960000
+01/20/2009 17:23,   Product2,   3600,   Visa,   Jessica,   Toronto,   Canada,   1/20/08 18:01,   2/23/2009 19:35,   -79.4166667,   43.6666667,   , 12960000
+01/02/2009 10:32,   Product1,   1200,   Mastercard,   Brandi,   Edmonton,   Canada,   12/24/08 15:23,   2/24/2009 12:08,   -113.5,   53.55,   , 1440000
+01/08/2009 12:03,   Product1,   1200,   Diners,   Andrea,   Calgary,   Canada,   8/13/08 15:58,   2/24/2009 17:41,   -114.0833333,   51.0833333,   , 1440000
+01/07/2009 13:26,   Product1,   1200,   Visa,   Sarah,   Warwick,   Canada,   7/27/03 13:18,   2/25/2009 15:16,   -71.9833333,   45.95,   , 1440000
+01/22/2009 15:59,   Product2,   3600,   Visa,   Lisa,   Ottawa,   Canada,   1/21/2009 09:28,   2/25/2009 17:15,   -75.7,   45.4166667,   , 12960000
+01/13/2009 13:19,   Product2,   3600,   Mastercard,   Anthony,   Toronto,   Canada,   3/16/06 19:11,   2/26/2009 11:19,   -79.4166667,   43.6666667,   , 12960000
+01/30/2009 20:58,   Product2,   3600,   Mastercard,   Tanya,   Carcross,   Canada,   1/30/2009 14:05,   2/26/2009 13:06,   -134.7166667,   60.1833333,   , 12960000
+01/20/2009 10:05,   Product2,   3600,   Visa,   Stephen,   Calgary,   Canada,   1/9/2009 10:36,   2/26/2009 13:28,   -114.0833333,   51.0833333,   , 12960000
+01/19/2009 03:19,   Product1,   1200,   Mastercard,   TG,   Zagore,   Bulgaria,   11/20/08 3:00,   2/6/2009 04:19,   25.6666667,   42.35,   , 1440000
+01/17/2009 11:09,   Product1,   1200,   Mastercard,   Joachim,   Fortaleza,   Brazil,   1/17/2009 10:46,   1/31/2009 06:42,   -38.5,   -3.7166667,   , 1440000
+01/14/2009 10:32,   Product3,   7500,   Mastercard,   Diana,   Campinas,   Brazil,   11/5/08 7:03,   2/2/2009 05:54,   -47.0833333,   -22.9,   , 56250000
+01/24/2009 10:26,   Product1,   1200,   Visa,   sorcha,   Porto Alegre,   Brazil,   1/24/2009 04:47,   2/17/2009 08:05,   -51.2,   -30.0333333,   , 1440000
+01/25/2009 19:44,   Product1,   1200,   Mastercard,   Lesa,   Vespasiano,   Brazil,   1/6/05 21:17,   2/22/2009 14:24,   -43.9166667,   -19.6666667,   , 1440000
+01/18/2009 17:55,   Product1,   1200,   Amex,   Michaela,   Mafra,   Brazil,   3/9/08 9:39,   2/24/2009 10:09,   -49.8016667,   -26.1180556,   , 1440000
+01/23/2009 07:13,   Product1,   1200,   Visa,   Elizabeth,   Hamilton,   Bermuda,   1/19/2009 06:03,   2/25/2009 16:20,   -64.7838889,   32.2941667,   , 1440000
+01/11/2009 14:17,   Product1,   1200,   Visa,   Stephanie,   Brussels,   Belgium,   1/11/2009 13:39,   1/11/2009 13:39,   4.3333333,   50.8333333,   , 1440000
+01/07/2009 07:19,   Product1,   1200,   Amex,   Jocelyn,   Bruxelles,   Belgium,   6/30/08 9:33,   1/16/2009 08:54,   4.3333333,   50.8333333,   , 1440000
+01/30/2009 05:13,   Product1,   1200,   Visa,   Christine,   Antwerpen,   Belgium,   1/3/06 13:57,   2/2/2009 05:45,   4.4166667,   51.2166667,   , 1440000
+01/26/2009 01:44,   Product2,   3600,   Visa,   Geraldine,   Brussels,   Belgium,   1/31/08 13:28,   2/8/2009 14:39,   4.3333333,   50.8333333,   , 12960000
+01/24/2009 11:54,   Product1,   1200,   Visa,   Audrey,   Bruxelles,   Belgium,   1/24/2009 10:47,   2/13/2009 06:39,   4.3333333,   50.8333333,   , 1440000
+01/19/2009 06:50,   Product1,   1200,   Amex,   Nicola,   Bruxelles,   Belgium,   7/13/08 11:29,   2/18/2009 02:30,   4.3333333,   50.8333333,   , 1440000
+01/06/2009 14:08,   Product1,   1200,   Mastercard,   Kim,   Brussels,   Belgium,   12/18/08 7:04,   2/21/2009 10:49,   4.3333333,   50.8333333,   , 1440000
+01/06/2009 06:31,   Product1,   1200,   Visa,   mike,   La Louviere,   Belgium,   1/3/2009 05:24,   2/24/2009 08:32,   4.1833333,   50.4666667,   , 1440000
+01/12/2009 06:40,   Product1,   1200,   Visa,   Dez,   Al 'Adliyah,   Bahrain,   1/10/2009 12:50,   1/15/2009 04:46,   50.5405556,   26.2172222,   , 1440000
+01/16/2009 01:51,   Product1,   1200,   Visa,   Angela,   Vienna,   Austria,   1/16/2009 01:38,   1/24/2009 05:39,   16.3666667,   48.2,   , 1440000
+01/24/2009 08:21,   Product1,   1200,   Mastercard,   corina,   Neustift am Walde,   Austria,   7/19/05 12:42,   1/25/2009 14:22,   16.3,   48.25,   , 1440000
+01/24/2009 08:25,   Product1,   1200,   Mastercard,   manon,   Neustift am Walde,   Austria,   7/19/05 12:42,   1/25/2009 14:22,   16.3,   48.25,   , 1440000
+01/06/2009 05:10,   Product1,   1200,   Visa,   Astrid,   Altlengbach,   Austria,   6/24/08 0:49,   2/6/2009 00:37,   15.9166667,   48.15,   , 1440000
+01/21/2009 14:34,   Product1,   1200,   Mastercard,   Tamara,   Klosterneuburg,   Austria,   1/21/2009 14:12,   2/11/2009 03:19,   16.3166667,   48.3,   , 1440000
+01/25/2009 11:52,   Product2,   3600,   Mastercard,   Gloria Gail,   WalcProduct3ee,   Austria,   1/25/2009 05:03,   2/27/2009 05:37,   12.3166667,   47.65,   , 12960000
+01/05/2009 13:23,   Product1,   1200,   Visa,   Macy,   Inner City,   Austria,   1/5/2009 11:28,   3/1/2009 02:28,   16.3666667,   48.2166667,   , 1440000
+01/03/2009 14:44,   Product1,   1200,   Visa,   Gouya,   Echuca,   Australia,   9/25/05 21:13,   1/3/2009 14:22,   144.75,   -36.1333333,   , 1440000
+01/05/2009 20:00,   Product2,   3600,   Visa,   James,   Burpengary,   Australia,   12/10/08 19:53,   1/8/2009 17:58,   152.95,   -27.1666667,   , 12960000
+01/06/2009 01:20,   Product1,   1200,   Mastercard,   Frank,   Melbourne,   Australia,   1/2/2009 17:51,   1/10/2009 18:27,   144.9666667,   -37.8166667,   , 1440000
+01/11/2009 02:04,   Product1,   1200,   Visa,   chris,   Gold Coast,   Australia,   1/11/2009 00:33,   1/11/2009 02:11,   153.4333333,   -28,   , 1440000
+01/12/2009 01:37,   Product1,   1200,   Visa,   IMAN,   Brisbane,   Australia,   1/12/2009 01:26,   1/15/2009 17:54,   153.0166667,   -27.5,   , 1440000
+01/04/2009 01:38,   Product1,   1200,   Amex,   jeremy,   Charlestown,   Australia,   7/15/08 21:04,   1/20/2009 01:08,   151.6666667,   -32.95,   , 1440000
+01/20/2009 03:51,   Product1,   1200,   Visa,   Elizabeth,   The Grange,   Australia,   11/12/08 3:34,   1/20/2009 13:11,   152.4166667,   -24.8166667,   , 1440000
+01/09/2009 14:51,   Product1,   1200,   Visa,   Bob,   Sydney,   Australia,   1/7/2009 18:15,   1/21/2009 00:29,   151.2166667,   -33.8833333,   , 1440000
+01/16/2009 18:36,   Product1,   1200,   Visa,   Elizabeth,   Wollongong,   Australia,   11/1/08 16:32,   1/21/2009 01:49,   150.8833333,   -34.4333333,   , 1440000
+01/02/2009 02:28,   Product1,   1200,   Mastercard,   Morgan,   Coomera,   Australia,   5/3/08 4:14,   1/21/2009 16:37,   153.3,   -27.8833333,   , 1440000
+01/11/2009 22:22,   Product2,   3600,   Visa,   STEPHANIE,   Mona Vale,   Australia,   12/30/08 17:48,   1/21/2009 22:33,   151.3,   -33.6666667,   , 12960000
+01/07/2009 10:03,   Product1,   1200,   Mastercard,   Emma,   Sydney,   Australia,   12/1/08 6:09,   1/27/2009 20:18,   151.2166667,   -33.8833333,   , 1440000
+01/18/2009 03:46,   Product1,   1200,   Visa,   Marina,   Nerang,   Australia,   1/18/2009 00:54,   1/27/2009 23:52,   153.3333333,   -27.9833333,   , 1440000
+01/01/2009 08:09,   Product1,   1200,   Mastercard,   Nicole,   South Melbourne,   Australia,   12/30/08 0:55,   1/31/2009 05:40,   144.9666667,   -37.8333333,   , 1440000
+01/30/2009 17:33,   Product1,   1200,   Visa,   nina,   Warwick,   Australia,   1/25/2009 22:36,   2/2/2009 06:13,   152.0166667,   -28.2333333,   , 1440000
+01/04/2009 16:59,   Product1,   1200,   Visa,   Amy,   Parramatta,   Australia,   1/3/2009 22:35,   2/5/2009 22:44,   151,   -33.8166667,   , 1440000
+01/02/2009 22:44,   Product2,   3600,   Visa,   eva,   Gisborne,   Australia,   12/3/06 15:36,   2/6/2009 20:03,   144.5833333,   -37.4833333,   , 12960000
+01/26/2009 20:18,   Product1,   1200,   Mastercard,   John,   Griffith,   Australia,   1/15/07 20:37,   2/7/2009 18:04,   146.0333333,   -34.2833333,   , 1440000
+01/08/2009 23:40,   Product1,   1200,   Visa,   Jacob,   Lindfield,   Australia,   1/8/2009 17:52,   2/9/2009 18:31,   151.1666667,   -33.7833333,   , 1440000
+01/24/2009 18:30,   Product1,   1200,   Visa,   Ruangrote,   Melbourne,   Australia,   7/17/08 5:19,   2/10/2009 02:12,   144.9666667,   -37.8166667,   , 1440000
+01/14/2009 06:35,   Product1,   1200,   Visa,   Eric,   Melbourne,   Australia,   7/25/08 7:02,   2/11/2009 02:05,   144.9666667,   -37.8166667,   , 1440000
+01/31/2009 23:09,   Product1,   1200,   Diners,   Dawn,   Vaucluse,   Australia,   9/13/04 22:55,   2/11/2009 03:09,   151.2833333,   -33.8666667,   , 1440000
+01/24/2009 03:25,   Product1,   1200,   Visa,   Michelle,   Lyndoch,   Australia,   9/26/08 19:23,   2/11/2009 15:05,   138.8833333,   -34.6166667,   , 1440000
+01/12/2009 23:35,   Product1,   1200,   Visa,   Lisa,   Perth,   Australia,   5/8/06 23:41,   2/12/2009 03:46,   115.8333333,   -31.9333333,   , 1440000
+01/01/2009 21:40,   Product1,   1200,   Mastercard,   Tina,   Anglesea,   Australia,   10/20/08 18:27,   2/12/2009 14:58,   144.1666667,   -38.4166667,   , 1440000
+01/22/2009 14:32,   Product1,   1200,   Visa,   Sara,   Perth City,   Australia,   9/5/08 7:18,   2/13/2009 03:50,   115.8333333,   -31.9333333,   , 1440000
+01/23/2009 05:14,   Product1,   1200,   Visa,   Ellen Walton,   Melbourne,   Australia,   12/16/07 17:05,   2/13/2009 15:28,   144.9666667,   -37.8166667,   , 1440000
+01/03/2009 14:17,   Product2,   3600,   Visa,   Kees en Valesca,   Scamander,   Australia,   1/3/2009 13:53,   2/14/2009 20:11,   148.2572222,   -41.465,   , 12960000
+01/04/2009 17:34,   Product1,   1200,   Mastercard,   Dean,   Rockingham,   Australia,   10/20/07 19:09,   2/15/2009 02:14,   115.7166667,   -32.2833333,   , 1440000
+01/19/2009 01:52,   Product1,   1200,   Amex,   Kirsten,   Melbourne,   Australia,   4/24/07 4:36,   2/17/2009 01:20,   144.9666667,   -37.8166667,   , 1440000
+01/14/2009 00:03,   Product2,   3600,   Mastercard,   Piret,   Bunbury,   Australia,   6/16/08 18:22,   2/17/2009 19:31,   115.6333333,   -33.3333333,   , 12960000
+01/20/2009 13:54,   Product1,   1200,   Mastercard,   Elisabeth,   Birkdale,   Australia,   12/20/05 23:05,   2/18/2009 23:07,   153.2166667,   -27.4833333,   , 1440000
+01/23/2009 21:35,   Product1,   1200,   Visa,   Ann,   Brisbane,   Australia,   4/21/07 19:33,   2/18/2009 23:12,   153.0166667,   -27.5,   , 1440000
+01/06/2009 02:41,   Product1,   1200,   Visa,   Polyxene,   Perth,   Australia,   11/20/05 23:46,   2/24/2009 16:04,   115.8333333,   -31.9333333,   , 1440000
+01/02/2009 17:24,   Product2,   3600,   Diners,   clara,   Perth,   Australia,   1/1/2009 21:20,   2/27/2009 18:43,   115.8333333,   -31.9333333,   , 12960000
+01/04/2009 18:57,   Product1,   1200,   Mastercard,   KELI,   Worongary,   Australia,   12/23/08 15:17,   2/28/2009 14:00,   153.35,   -28.05,   , 1440000
+01/23/2009 12:42,   Product2,   3600,   Mastercard,   Anke,   Avalon,   Australia,   3/3/08 17:38,   2/28/2009 22:26,   151.3333333,   -33.6333333,   , 12960000
+01/07/2009 19:48,   Product2,   3600,   Mastercard,   TRICIA,   Sydney,   Australia,   9/21/08 20:49,   3/1/2009 00:14,   151.2166667,   -33.8833333,   , 12960000
+01/25/2009 05:57,   Product1,   1200,   Amex,   pamela,   Ayacucho,   Argentina,   1/24/2009 09:29,   2/10/2009 06:38,   -58.4833333,   -37.15,   , 1440000
